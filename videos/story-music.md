@@ -25,12 +25,12 @@
 | 旧作角色纯JS动画 | [@adriankuleszo](https://x.com/adriankuleszo) | [GitHub 播放](../cases/2103452143055483132.md) | [原帖](https://x.com/adriankuleszo/status/2103452143055483132) |
 | 动漫风社交学习短片 | [@emollick](https://x.com/emollick) | [GitHub 播放](../cases/2103272686570918334.md) | [原帖](https://x.com/emollick/status/2103272686570918334) |
 | CodeRabbit兔子音乐视频 | [@IndraVahan](https://x.com/IndraVahan) | [GitHub 播放](../cases/2103183939745751083.md) | [原帖](https://x.com/IndraVahan/status/2103183939745751083) |
-| 60秒自主动画电影 | [@jurlycat](https://x.com/jurlycat) | [附件待补齐](../cases/2103063664966205720.md) | [原帖](https://x.com/jurlycat/status/2103063664966205720) |
+| 60秒自主动画电影 | [@jurlycat](https://x.com/jurlycat) | [GitHub 播放](../cases/2103063664966205720.md) | [原帖](https://x.com/jurlycat/status/2103063664966205720) |
 | p5.js手绘音乐MV | [@xiaohu](https://x.com/xiaohu) | [GitHub 播放](../cases/2102979455308439555.md) | [原帖](https://x.com/xiaohu/status/2102979455308439555) |
-| Three.js《桃花源记》重制 | [@dotey](https://x.com/dotey) | [附件待补齐](../cases/2102940980379017293.md) | [原帖](https://x.com/dotey/status/2102940980379017293) |
-| 人类到AI的自述故事 | [@songkeys](https://x.com/songkeys) | [附件待补齐](../cases/2102743212922384673.md) | [原帖](https://x.com/songkeys/status/2102743212922384673) |
-| 78秒单文件动画电影 | [@jurlycat](https://x.com/jurlycat) | [附件待补齐](../cases/2102645793828036643.md) | [原帖](https://x.com/jurlycat/status/2102645793828036643) |
-| 新西兰旅行照丙烯画动画 | [@ann_nnng](https://x.com/ann_nnng) | [附件待补齐](../cases/2102573127192727704.md) | [原帖](https://x.com/ann_nnng/status/2102573127192727704) |
-| Small Print代码动画故事 | [@Voxyz_ai](https://x.com/Voxyz_ai) | [附件待补齐](../cases/2102531681450119426.md) | [原帖](https://x.com/Voxyz_ai/status/2102531681450119426) |
-| JavaScript逐帧动画故事 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | [附件待补齐](../cases/2102437977435893771.md) | [原帖](https://x.com/kevin_t_ngo/status/2102437977435893771) |
-| 用JavaScript画出自己的生命 | [@shfred0](https://x.com/shfred0) | [附件待补齐](../cases/2102495989194236158.md) | [原帖](https://x.com/shfred0/status/2102495989194236158) |
+| Three.js《桃花源记》重制 | [@dotey](https://x.com/dotey) | [GitHub 播放](../cases/2102940980379017293.md) | [原帖](https://x.com/dotey/status/2102940980379017293) |
+| 人类到AI的自述故事 | [@songkeys](https://x.com/songkeys) | [GitHub 播放](../cases/2102743212922384673.md) | [原帖](https://x.com/songkeys/status/2102743212922384673) |
+| 78秒单文件动画电影 | [@jurlycat](https://x.com/jurlycat) | [GitHub 播放](../cases/2102645793828036643.md) | [原帖](https://x.com/jurlycat/status/2102645793828036643) |
+| 新西兰旅行照丙烯画动画 | [@ann_nnng](https://x.com/ann_nnng) | [GitHub 播放](../cases/2102573127192727704.md) | [原帖](https://x.com/ann_nnng/status/2102573127192727704) |
+| Small Print代码动画故事 | [@Voxyz_ai](https://x.com/Voxyz_ai) | [GitHub 播放](../cases/2102531681450119426.md) | [原帖](https://x.com/Voxyz_ai/status/2102531681450119426) |
+| JavaScript逐帧动画故事 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | [GitHub 播放](../cases/2102437977435893771.md) | [原帖](https://x.com/kevin_t_ngo/status/2102437977435893771) |
+| 用JavaScript画出自己的生命 | [@shfred0](https://x.com/shfred0) | [GitHub 播放](../cases/2102495989194236158.md) | [原帖](https://x.com/shfred0/status/2102495989194236158) |

@@ -2,13 +2,13 @@
 
 收录 106 个 Claude Opus 5.5 视频案例，按用途分类。保留作者、X 原帖、作品说明及公开提示词。
 
-当前已有 67 / 106 条案例完成 GitHub 视频附件归档，其余附件正在补齐。
+106 条案例均已归档视频附件，可在 GitHub 内播放。
 
 [浏览案例网站](https://img.dsxzai.com/) · [结构化案例数据](data/cases.json)
 
-点击「GitHub 播放」进入案例页，在页面内播放视频。较长的视频按顺序分段；这些片段合起来是完整作品。
+点击「GitHub 播放」进入案例页，在页面内播放视频。较长的视频按顺序分段；这些片段保留收录视频的完整内容。
 
-视频归属及制作方式依据发布者的原帖说明整理。Opus 5.5 在这些案例中用于编写动画、渲染或剪辑代码，并不表示它是一个原生视频生成模型。
+这些案例主要展示 Opus 5.5 编写动画、渲染或剪辑代码的能力。视频归属及具体制作方式以发布者的原帖说明为准。
 
 ## 分类
 
@@ -39,20 +39,20 @@
 | 代码生成视频 | [@bridgemindai](https://x.com/bridgemindai) | [GitHub 播放](cases/2103530750767206626.md) | [原帖](https://x.com/bridgemindai/status/2103530750767206626) |
 | 动态设计师履历短片 | [@darel023](https://x.com/darel023) | [GitHub 播放](cases/2103424524297420829.md) | [原帖](https://x.com/darel023/status/2103424524297420829) |
 | Opus5.5自我迭代实验 | [@dashiAIxz](https://x.com/dashiAIxz) | [GitHub 播放](cases/2103344448696648058.md) | [原帖](https://x.com/dashiAIxz/status/2103344448696648058) |
-| 单提示动态作品 | [@kenn](https://x.com/kenn) | [附件待补齐](cases/2103337314021937232.md) | [原帖](https://x.com/kenn/status/2103337314021937232) |
+| 单提示动态作品 | [@kenn](https://x.com/kenn) | [GitHub 播放](cases/2103337314021937232.md) | [原帖](https://x.com/kenn/status/2103337314021937232) |
 | After Effects粒子系统动画 | [@icreatelife](https://x.com/icreatelife) | [GitHub 播放](cases/2103193149879246906.md) | [原帖](https://x.com/icreatelife/status/2103193149879246906) |
-| 十二种风格机器人动画 | [@pradeepXkapoor](https://x.com/pradeepXkapoor) | [附件待补齐](cases/2103099194693271874.md) | [原帖](https://x.com/pradeepXkapoor/status/2103099194693271874) |
-| 书签动画细节实验 | [@kippe07](https://x.com/kippe07) | [附件待补齐](cases/2103036199774585026.md) | [原帖](https://x.com/kippe07/status/2103036199774585026) |
-| 虚构电影开场字幕 | [@goodside](https://x.com/goodside) | [附件待补齐](cases/2102937913726235004.md) | [原帖](https://x.com/goodside/status/2102937913726235004) |
-| 19分钟动态视频实验 | [@chhddavid](https://x.com/chhddavid) | [附件待补齐](cases/2102666619029999989.md) | [原帖](https://x.com/chhddavid/status/2102666619029999989) |
-| 代码驱动节拍动画 | [@twoclipping](https://x.com/twoclipping) | [附件待补齐](cases/2102554209166000267.md) | [原帖](https://x.com/twoclipping/status/2102554209166000267) |
-| Opus5.5独立创作实验 | [@LCSlates](https://x.com/LCSlates) | [附件待补齐](cases/2102503027340988559.md) | [原帖](https://x.com/LCSlates/status/2102503027340988559) |
-| 280KB HTML Demoscene片头 | [@JustinPerea](https://x.com/JustinPerea) | [附件待补齐](cases/2102893186330841502.md) | [原帖](https://x.com/JustinPerea/status/2102893186330841502) |
-| Apple Wonderful Tools动画复刻 | [@DavidKPiano](https://x.com/DavidKPiano) | [附件待补齐](cases/2103555549929566323.md) | [原帖](https://x.com/DavidKPiano/status/2103555549929566323) |
-| 128BPM代码驱动动态图形 | [@aiehon_aya](https://x.com/aiehon_aya) | [附件待补齐](cases/2103403361022419005.md) | [原帖](https://x.com/aiehon_aya/status/2103403361022419005) |
-| Opus5.5动态设计实验 | [@dashiAIxz](https://x.com/dashiAIxz) | [附件待补齐](cases/2103031723428917626.md) | [原帖](https://x.com/dashiAIxz/status/2103031723428917626) |
-| Donald提示词与Moodboard视频 | [@anabology](https://x.com/anabology) | [附件待补齐](cases/2103534482930491441.md) | [原帖](https://x.com/anabology/status/2103534482930491441) |
-| Ultracode与Dynamic Workflows动画 | [@daniel_mac8](https://x.com/daniel_mac8) | [附件待补齐](cases/2103666105461924131.md) | [原帖](https://x.com/daniel_mac8/status/2103666105461924131) |
+| 十二种风格机器人动画 | [@pradeepXkapoor](https://x.com/pradeepXkapoor) | [GitHub 播放](cases/2103099194693271874.md) | [原帖](https://x.com/pradeepXkapoor/status/2103099194693271874) |
+| 书签动画细节实验 | [@kippe07](https://x.com/kippe07) | [GitHub 播放](cases/2103036199774585026.md) | [原帖](https://x.com/kippe07/status/2103036199774585026) |
+| 虚构电影开场字幕 | [@goodside](https://x.com/goodside) | [GitHub 播放](cases/2102937913726235004.md) | [原帖](https://x.com/goodside/status/2102937913726235004) |
+| 19分钟动态视频实验 | [@chhddavid](https://x.com/chhddavid) | [GitHub 播放](cases/2102666619029999989.md) | [原帖](https://x.com/chhddavid/status/2102666619029999989) |
+| 代码驱动节拍动画 | [@twoclipping](https://x.com/twoclipping) | [GitHub 播放](cases/2102554209166000267.md) | [原帖](https://x.com/twoclipping/status/2102554209166000267) |
+| Opus5.5独立创作实验 | [@LCSlates](https://x.com/LCSlates) | [GitHub 播放](cases/2102503027340988559.md) | [原帖](https://x.com/LCSlates/status/2102503027340988559) |
+| 280KB HTML Demoscene片头 | [@JustinPerea](https://x.com/JustinPerea) | [GitHub 播放](cases/2102893186330841502.md) | [原帖](https://x.com/JustinPerea/status/2102893186330841502) |
+| Apple Wonderful Tools动画复刻 | [@DavidKPiano](https://x.com/DavidKPiano) | [GitHub 播放](cases/2103555549929566323.md) | [原帖](https://x.com/DavidKPiano/status/2103555549929566323) |
+| 128BPM代码驱动动态图形 | [@aiehon_aya](https://x.com/aiehon_aya) | [GitHub 播放](cases/2103403361022419005.md) | [原帖](https://x.com/aiehon_aya/status/2103403361022419005) |
+| Opus5.5动态设计实验 | [@dashiAIxz](https://x.com/dashiAIxz) | [GitHub 播放](cases/2103031723428917626.md) | [原帖](https://x.com/dashiAIxz/status/2103031723428917626) |
+| Donald提示词与Moodboard视频 | [@anabology](https://x.com/anabology) | [GitHub 播放](cases/2103534482930491441.md) | [原帖](https://x.com/anabology/status/2103534482930491441) |
+| Ultracode与Dynamic Workflows动画 | [@daniel_mac8](https://x.com/daniel_mac8) | [GitHub 播放](cases/2103666105461924131.md) | [原帖](https://x.com/daniel_mac8/status/2103666105461924131) |
 | 动态设计师Showreel | [@ajith_io](https://x.com/ajith_io) | [GitHub 播放](cases/2103449416325890146.md) | [原帖](https://x.com/ajith_io/status/2103449416325890146) |
 
 ### 品牌与产品
@@ -72,10 +72,10 @@
 | Twitter主题宣传视频 | [@superalesha](https://x.com/superalesha) | [GitHub 播放](cases/2103578446056321426.md) | [原帖](https://x.com/superalesha/status/2103578446056321426) |
 | SaaS产品预告片 | [@javiiarchive](https://x.com/javiiarchive) | [GitHub 播放](cases/2103501151438323850.md) | [原帖](https://x.com/javiiarchive/status/2103501151438323850) |
 | Opus5.5一句话宣传片 | [@berryxia](https://x.com/berryxia) | [GitHub 播放](cases/2103391717894566368.md) | [原帖](https://x.com/berryxia/status/2103391717894566368) |
-| CodePilot产品宣传片 | [@op7418](https://x.com/op7418) | [附件待补齐](cases/2103148288400924827.md) | [原帖](https://x.com/op7418/status/2103148288400924827) |
-| Distilbook产品宣传片 | [@ajith_io](https://x.com/ajith_io) | [附件待补齐](cases/2103469807375208546.md) | [原帖](https://x.com/ajith_io/status/2103469807375208546) |
-| Designship2026三十秒广告 | [@hajipion](https://x.com/hajipion) | [附件待补齐](cases/2103766842024362220.md) | [原帖](https://x.com/hajipion/status/2103766842024362220) |
-| 纽约游客宣传片 | [@LinearUncle](https://x.com/LinearUncle) | [附件待补齐](cases/2103705625075331442.md) | [原帖](https://x.com/LinearUncle/status/2103705625075331442) |
+| CodePilot产品宣传片 | [@op7418](https://x.com/op7418) | [GitHub 播放](cases/2103148288400924827.md) | [原帖](https://x.com/op7418/status/2103148288400924827) |
+| Distilbook产品宣传片 | [@ajith_io](https://x.com/ajith_io) | [GitHub 播放](cases/2103469807375208546.md) | [原帖](https://x.com/ajith_io/status/2103469807375208546) |
+| Designship2026三十秒广告 | [@hajipion](https://x.com/hajipion) | [GitHub 播放](cases/2103766842024362220.md) | [原帖](https://x.com/hajipion/status/2103766842024362220) |
+| 纽约游客宣传片 | [@LinearUncle](https://x.com/LinearUncle) | [GitHub 播放](cases/2103705625075331442.md) | [原帖](https://x.com/LinearUncle/status/2103705625075331442) |
 
 ### 叙事与音乐
 
@@ -102,15 +102,15 @@
 | 旧作角色纯JS动画 | [@adriankuleszo](https://x.com/adriankuleszo) | [GitHub 播放](cases/2103452143055483132.md) | [原帖](https://x.com/adriankuleszo/status/2103452143055483132) |
 | 动漫风社交学习短片 | [@emollick](https://x.com/emollick) | [GitHub 播放](cases/2103272686570918334.md) | [原帖](https://x.com/emollick/status/2103272686570918334) |
 | CodeRabbit兔子音乐视频 | [@IndraVahan](https://x.com/IndraVahan) | [GitHub 播放](cases/2103183939745751083.md) | [原帖](https://x.com/IndraVahan/status/2103183939745751083) |
-| 60秒自主动画电影 | [@jurlycat](https://x.com/jurlycat) | [附件待补齐](cases/2103063664966205720.md) | [原帖](https://x.com/jurlycat/status/2103063664966205720) |
+| 60秒自主动画电影 | [@jurlycat](https://x.com/jurlycat) | [GitHub 播放](cases/2103063664966205720.md) | [原帖](https://x.com/jurlycat/status/2103063664966205720) |
 | p5.js手绘音乐MV | [@xiaohu](https://x.com/xiaohu) | [GitHub 播放](cases/2102979455308439555.md) | [原帖](https://x.com/xiaohu/status/2102979455308439555) |
-| Three.js《桃花源记》重制 | [@dotey](https://x.com/dotey) | [附件待补齐](cases/2102940980379017293.md) | [原帖](https://x.com/dotey/status/2102940980379017293) |
-| 人类到AI的自述故事 | [@songkeys](https://x.com/songkeys) | [附件待补齐](cases/2102743212922384673.md) | [原帖](https://x.com/songkeys/status/2102743212922384673) |
-| 78秒单文件动画电影 | [@jurlycat](https://x.com/jurlycat) | [附件待补齐](cases/2102645793828036643.md) | [原帖](https://x.com/jurlycat/status/2102645793828036643) |
-| 新西兰旅行照丙烯画动画 | [@ann_nnng](https://x.com/ann_nnng) | [附件待补齐](cases/2102573127192727704.md) | [原帖](https://x.com/ann_nnng/status/2102573127192727704) |
-| Small Print代码动画故事 | [@Voxyz_ai](https://x.com/Voxyz_ai) | [附件待补齐](cases/2102531681450119426.md) | [原帖](https://x.com/Voxyz_ai/status/2102531681450119426) |
-| JavaScript逐帧动画故事 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | [附件待补齐](cases/2102437977435893771.md) | [原帖](https://x.com/kevin_t_ngo/status/2102437977435893771) |
-| 用JavaScript画出自己的生命 | [@shfred0](https://x.com/shfred0) | [附件待补齐](cases/2102495989194236158.md) | [原帖](https://x.com/shfred0/status/2102495989194236158) |
+| Three.js《桃花源记》重制 | [@dotey](https://x.com/dotey) | [GitHub 播放](cases/2102940980379017293.md) | [原帖](https://x.com/dotey/status/2102940980379017293) |
+| 人类到AI的自述故事 | [@songkeys](https://x.com/songkeys) | [GitHub 播放](cases/2102743212922384673.md) | [原帖](https://x.com/songkeys/status/2102743212922384673) |
+| 78秒单文件动画电影 | [@jurlycat](https://x.com/jurlycat) | [GitHub 播放](cases/2102645793828036643.md) | [原帖](https://x.com/jurlycat/status/2102645793828036643) |
+| 新西兰旅行照丙烯画动画 | [@ann_nnng](https://x.com/ann_nnng) | [GitHub 播放](cases/2102573127192727704.md) | [原帖](https://x.com/ann_nnng/status/2102573127192727704) |
+| Small Print代码动画故事 | [@Voxyz_ai](https://x.com/Voxyz_ai) | [GitHub 播放](cases/2102531681450119426.md) | [原帖](https://x.com/Voxyz_ai/status/2102531681450119426) |
+| JavaScript逐帧动画故事 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | [GitHub 播放](cases/2102437977435893771.md) | [原帖](https://x.com/kevin_t_ngo/status/2102437977435893771) |
+| 用JavaScript画出自己的生命 | [@shfred0](https://x.com/shfred0) | [GitHub 播放](cases/2102495989194236158.md) | [原帖](https://x.com/shfred0/status/2102495989194236158) |
 
 ### 知识与教学
 
@@ -127,17 +127,17 @@
 | 恐龙到绳文时代教育动态图形 | [@mellow_neet2000](https://x.com/mellow_neet2000) | [GitHub 播放](cases/2103487198758834408.md) | [原帖](https://x.com/mellow_neet2000/status/2103487198758834408) |
 | 特殊相对论纸艺教学动画 | [@masahirochaen](https://x.com/masahirochaen) | [GitHub 播放](cases/2102722719502704941.md) | [原帖](https://x.com/masahirochaen/status/2102722719502704941) |
 | 自动化高架花床三维教程 | [@Skylartkitchen](https://x.com/Skylartkitchen) | [GitHub 播放](cases/2103522230957420843.md) | [原帖](https://x.com/Skylartkitchen/status/2103522230957420843) |
-| AI是什么动画解释 | [@icreatelife](https://x.com/icreatelife) | [附件待补齐](cases/2103237092553773233.md) | [原帖](https://x.com/icreatelife/status/2103237092553773233) |
-| Claude发展史研究视频 | [@SkyeSharkie](https://x.com/SkyeSharkie) | [附件待补齐](cases/2103167053737980177.md) | [原帖](https://x.com/SkyeSharkie/status/2103167053737980177) |
-| 旋转轴工程史动画 | [@ootamato](https://x.com/ootamato) | [附件待补齐](cases/2103099960069873856.md) | [原帖](https://x.com/ootamato/status/2103099960069873856) |
-| HTML食谱动态图形 | [@Ror_Fly](https://x.com/Ror_Fly) | [附件待补齐](cases/2102853258582880547.md) | [原帖](https://x.com/Ror_Fly/status/2102853258582880547) |
-| 像素风神经网络训练动画 | [@DotCSV](https://x.com/DotCSV) | [附件待补齐](cases/2102737776219168939.md) | [原帖](https://x.com/DotCSV/status/2102737776219168939) |
-| 上下五千年知识视频 | [@akokoi1](https://x.com/akokoi1) | [附件待补齐](cases/2102583898865873225.md) | [原帖](https://x.com/akokoi1/status/2102583898865873225) |
-| 超智能主题Netflix风格纪录片 | [@gavinpurcell](https://x.com/gavinpurcell) | [附件待补齐](cases/2103304514329854102.md) | [原帖](https://x.com/gavinpurcell/status/2103304514329854102) |
-| 研究论文转3blue1brown教学视频 | [@deedydas](https://x.com/deedydas) | [附件待补齐](cases/2103141339651350646.md) | [原帖](https://x.com/deedydas/status/2103141339651350646) |
-| Leidenfrost效应白板动画 | [@realYunfanYe](https://x.com/realYunfanYe) | [附件待补齐](cases/2103496245343916158.md) | [原帖](https://x.com/realYunfanYe/status/2103496245343916158) |
-| 递归概念九种风格解释 | [@emollick](https://x.com/emollick) | [附件待补齐](cases/2103688362960019567.md) | [原帖](https://x.com/emollick/status/2103688362960019567) |
-| Manim导数概念教学视频 | [@LinearUncle](https://x.com/LinearUncle) | [附件待补齐](cases/2103128559174971663.md) | [原帖](https://x.com/LinearUncle/status/2103128559174971663) |
+| AI是什么动画解释 | [@icreatelife](https://x.com/icreatelife) | [GitHub 播放](cases/2103237092553773233.md) | [原帖](https://x.com/icreatelife/status/2103237092553773233) |
+| Claude发展史研究视频 | [@SkyeSharkie](https://x.com/SkyeSharkie) | [GitHub 播放](cases/2103167053737980177.md) | [原帖](https://x.com/SkyeSharkie/status/2103167053737980177) |
+| 旋转轴工程史动画 | [@ootamato](https://x.com/ootamato) | [GitHub 播放](cases/2103099960069873856.md) | [原帖](https://x.com/ootamato/status/2103099960069873856) |
+| HTML食谱动态图形 | [@Ror_Fly](https://x.com/Ror_Fly) | [GitHub 播放](cases/2102853258582880547.md) | [原帖](https://x.com/Ror_Fly/status/2102853258582880547) |
+| 像素风神经网络训练动画 | [@DotCSV](https://x.com/DotCSV) | [GitHub 播放](cases/2102737776219168939.md) | [原帖](https://x.com/DotCSV/status/2102737776219168939) |
+| 上下五千年知识视频 | [@akokoi1](https://x.com/akokoi1) | [GitHub 播放](cases/2102583898865873225.md) | [原帖](https://x.com/akokoi1/status/2102583898865873225) |
+| 超智能主题Netflix风格纪录片 | [@gavinpurcell](https://x.com/gavinpurcell) | [GitHub 播放](cases/2103304514329854102.md) | [原帖](https://x.com/gavinpurcell/status/2103304514329854102) |
+| 研究论文转3blue1brown教学视频 | [@deedydas](https://x.com/deedydas) | [GitHub 播放](cases/2103141339651350646.md) | [原帖](https://x.com/deedydas/status/2103141339651350646) |
+| Leidenfrost效应白板动画 | [@realYunfanYe](https://x.com/realYunfanYe) | [GitHub 播放](cases/2103496245343916158.md) | [原帖](https://x.com/realYunfanYe/status/2103496245343916158) |
+| 递归概念九种风格解释 | [@emollick](https://x.com/emollick) | [GitHub 播放](cases/2103688362960019567.md) | [原帖](https://x.com/emollick/status/2103688362960019567) |
+| Manim导数概念教学视频 | [@LinearUncle](https://x.com/LinearUncle) | [GitHub 播放](cases/2103128559174971663.md) | [原帖](https://x.com/LinearUncle/status/2103128559174971663) |
 
 ### 三维与空间
 
@@ -149,9 +149,9 @@
 | Clawd与Grok宇宙对比 | [@Jeremybtc](https://x.com/Jeremybtc) | [GitHub 播放](cases/2103153744523489659.md) | [原帖](https://x.com/Jeremybtc/status/2103153744523489659) |
 | NVIDIA Blackwell芯片三维动画 | [@lucian__03](https://x.com/lucian__03) | [GitHub 播放](cases/2103494418477260830.md) | [原帖](https://x.com/lucian__03/status/2103494418477260830) |
 | 1906旧金山市场街三维场景 | [@alexalbert__](https://x.com/alexalbert__) | [GitHub 播放](cases/2102466523164274839.md) | [原帖](https://x.com/alexalbert__/status/2102466523164274839) |
-| Atlantis Three.js导览 | [@DannyLimanseta](https://x.com/DannyLimanseta) | [附件待补齐](cases/2103169095034400772.md) | [原帖](https://x.com/DannyLimanseta/status/2103169095034400772) |
-| 大型强子对撞机三维场景 | [@superalesha](https://x.com/superalesha) | [附件待补齐](cases/2102779758408774104.md) | [原帖](https://x.com/superalesha/status/2102779758408774104) |
-| 从草图到住宅的三维演化 | [@techartist_](https://x.com/techartist_) | [附件待补齐](cases/2102503719762018434.md) | [原帖](https://x.com/techartist_/status/2102503719762018434) |
+| Atlantis Three.js导览 | [@DannyLimanseta](https://x.com/DannyLimanseta) | [GitHub 播放](cases/2103169095034400772.md) | [原帖](https://x.com/DannyLimanseta/status/2103169095034400772) |
+| 大型强子对撞机三维场景 | [@superalesha](https://x.com/superalesha) | [GitHub 播放](cases/2102779758408774104.md) | [原帖](https://x.com/superalesha/status/2102779758408774104) |
+| 从草图到住宅的三维演化 | [@techartist_](https://x.com/techartist_) | [GitHub 播放](cases/2102503719762018434.md) | [原帖](https://x.com/techartist_/status/2102503719762018434) |
 
 ## 收录与版权
 

@@ -17,18 +17,18 @@
 | 代码生成视频 | [@bridgemindai](https://x.com/bridgemindai) | [GitHub 播放](../cases/2103530750767206626.md) | [原帖](https://x.com/bridgemindai/status/2103530750767206626) |
 | 动态设计师履历短片 | [@darel023](https://x.com/darel023) | [GitHub 播放](../cases/2103424524297420829.md) | [原帖](https://x.com/darel023/status/2103424524297420829) |
 | Opus5.5自我迭代实验 | [@dashiAIxz](https://x.com/dashiAIxz) | [GitHub 播放](../cases/2103344448696648058.md) | [原帖](https://x.com/dashiAIxz/status/2103344448696648058) |
-| 单提示动态作品 | [@kenn](https://x.com/kenn) | [附件待补齐](../cases/2103337314021937232.md) | [原帖](https://x.com/kenn/status/2103337314021937232) |
+| 单提示动态作品 | [@kenn](https://x.com/kenn) | [GitHub 播放](../cases/2103337314021937232.md) | [原帖](https://x.com/kenn/status/2103337314021937232) |
 | After Effects粒子系统动画 | [@icreatelife](https://x.com/icreatelife) | [GitHub 播放](../cases/2103193149879246906.md) | [原帖](https://x.com/icreatelife/status/2103193149879246906) |
-| 十二种风格机器人动画 | [@pradeepXkapoor](https://x.com/pradeepXkapoor) | [附件待补齐](../cases/2103099194693271874.md) | [原帖](https://x.com/pradeepXkapoor/status/2103099194693271874) |
-| 书签动画细节实验 | [@kippe07](https://x.com/kippe07) | [附件待补齐](../cases/2103036199774585026.md) | [原帖](https://x.com/kippe07/status/2103036199774585026) |
-| 虚构电影开场字幕 | [@goodside](https://x.com/goodside) | [附件待补齐](../cases/2102937913726235004.md) | [原帖](https://x.com/goodside/status/2102937913726235004) |
-| 19分钟动态视频实验 | [@chhddavid](https://x.com/chhddavid) | [附件待补齐](../cases/2102666619029999989.md) | [原帖](https://x.com/chhddavid/status/2102666619029999989) |
-| 代码驱动节拍动画 | [@twoclipping](https://x.com/twoclipping) | [附件待补齐](../cases/2102554209166000267.md) | [原帖](https://x.com/twoclipping/status/2102554209166000267) |
-| Opus5.5独立创作实验 | [@LCSlates](https://x.com/LCSlates) | [附件待补齐](../cases/2102503027340988559.md) | [原帖](https://x.com/LCSlates/status/2102503027340988559) |
-| 280KB HTML Demoscene片头 | [@JustinPerea](https://x.com/JustinPerea) | [附件待补齐](../cases/2102893186330841502.md) | [原帖](https://x.com/JustinPerea/status/2102893186330841502) |
-| Apple Wonderful Tools动画复刻 | [@DavidKPiano](https://x.com/DavidKPiano) | [附件待补齐](../cases/2103555549929566323.md) | [原帖](https://x.com/DavidKPiano/status/2103555549929566323) |
-| 128BPM代码驱动动态图形 | [@aiehon_aya](https://x.com/aiehon_aya) | [附件待补齐](../cases/2103403361022419005.md) | [原帖](https://x.com/aiehon_aya/status/2103403361022419005) |
-| Opus5.5动态设计实验 | [@dashiAIxz](https://x.com/dashiAIxz) | [附件待补齐](../cases/2103031723428917626.md) | [原帖](https://x.com/dashiAIxz/status/2103031723428917626) |
-| Donald提示词与Moodboard视频 | [@anabology](https://x.com/anabology) | [附件待补齐](../cases/2103534482930491441.md) | [原帖](https://x.com/anabology/status/2103534482930491441) |
-| Ultracode与Dynamic Workflows动画 | [@daniel_mac8](https://x.com/daniel_mac8) | [附件待补齐](../cases/2103666105461924131.md) | [原帖](https://x.com/daniel_mac8/status/2103666105461924131) |
+| 十二种风格机器人动画 | [@pradeepXkapoor](https://x.com/pradeepXkapoor) | [GitHub 播放](../cases/2103099194693271874.md) | [原帖](https://x.com/pradeepXkapoor/status/2103099194693271874) |
+| 书签动画细节实验 | [@kippe07](https://x.com/kippe07) | [GitHub 播放](../cases/2103036199774585026.md) | [原帖](https://x.com/kippe07/status/2103036199774585026) |
+| 虚构电影开场字幕 | [@goodside](https://x.com/goodside) | [GitHub 播放](../cases/2102937913726235004.md) | [原帖](https://x.com/goodside/status/2102937913726235004) |
+| 19分钟动态视频实验 | [@chhddavid](https://x.com/chhddavid) | [GitHub 播放](../cases/2102666619029999989.md) | [原帖](https://x.com/chhddavid/status/2102666619029999989) |
+| 代码驱动节拍动画 | [@twoclipping](https://x.com/twoclipping) | [GitHub 播放](../cases/2102554209166000267.md) | [原帖](https://x.com/twoclipping/status/2102554209166000267) |
+| Opus5.5独立创作实验 | [@LCSlates](https://x.com/LCSlates) | [GitHub 播放](../cases/2102503027340988559.md) | [原帖](https://x.com/LCSlates/status/2102503027340988559) |
+| 280KB HTML Demoscene片头 | [@JustinPerea](https://x.com/JustinPerea) | [GitHub 播放](../cases/2102893186330841502.md) | [原帖](https://x.com/JustinPerea/status/2102893186330841502) |
+| Apple Wonderful Tools动画复刻 | [@DavidKPiano](https://x.com/DavidKPiano) | [GitHub 播放](../cases/2103555549929566323.md) | [原帖](https://x.com/DavidKPiano/status/2103555549929566323) |
+| 128BPM代码驱动动态图形 | [@aiehon_aya](https://x.com/aiehon_aya) | [GitHub 播放](../cases/2103403361022419005.md) | [原帖](https://x.com/aiehon_aya/status/2103403361022419005) |
+| Opus5.5动态设计实验 | [@dashiAIxz](https://x.com/dashiAIxz) | [GitHub 播放](../cases/2103031723428917626.md) | [原帖](https://x.com/dashiAIxz/status/2103031723428917626) |
+| Donald提示词与Moodboard视频 | [@anabology](https://x.com/anabology) | [GitHub 播放](../cases/2103534482930491441.md) | [原帖](https://x.com/anabology/status/2103534482930491441) |
+| Ultracode与Dynamic Workflows动画 | [@daniel_mac8](https://x.com/daniel_mac8) | [GitHub 播放](../cases/2103666105461924131.md) | [原帖](https://x.com/daniel_mac8/status/2103666105461924131) |
 | 动态设计师Showreel | [@ajith_io](https://x.com/ajith_io) | [GitHub 播放](../cases/2103449416325890146.md) | [原帖](https://x.com/ajith_io/status/2103449416325890146) |

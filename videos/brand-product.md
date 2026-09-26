@@ -17,7 +17,7 @@
 | Twitter主题宣传视频 | [@superalesha](https://x.com/superalesha) | [GitHub 播放](../cases/2103578446056321426.md) | [原帖](https://x.com/superalesha/status/2103578446056321426) |
 | SaaS产品预告片 | [@javiiarchive](https://x.com/javiiarchive) | [GitHub 播放](../cases/2103501151438323850.md) | [原帖](https://x.com/javiiarchive/status/2103501151438323850) |
 | Opus5.5一句话宣传片 | [@berryxia](https://x.com/berryxia) | [GitHub 播放](../cases/2103391717894566368.md) | [原帖](https://x.com/berryxia/status/2103391717894566368) |
-| CodePilot产品宣传片 | [@op7418](https://x.com/op7418) | [附件待补齐](../cases/2103148288400924827.md) | [原帖](https://x.com/op7418/status/2103148288400924827) |
-| Distilbook产品宣传片 | [@ajith_io](https://x.com/ajith_io) | [附件待补齐](../cases/2103469807375208546.md) | [原帖](https://x.com/ajith_io/status/2103469807375208546) |
-| Designship2026三十秒广告 | [@hajipion](https://x.com/hajipion) | [附件待补齐](../cases/2103766842024362220.md) | [原帖](https://x.com/hajipion/status/2103766842024362220) |
-| 纽约游客宣传片 | [@LinearUncle](https://x.com/LinearUncle) | [附件待补齐](../cases/2103705625075331442.md) | [原帖](https://x.com/LinearUncle/status/2103705625075331442) |
+| CodePilot产品宣传片 | [@op7418](https://x.com/op7418) | [GitHub 播放](../cases/2103148288400924827.md) | [原帖](https://x.com/op7418/status/2103148288400924827) |
+| Distilbook产品宣传片 | [@ajith_io](https://x.com/ajith_io) | [GitHub 播放](../cases/2103469807375208546.md) | [原帖](https://x.com/ajith_io/status/2103469807375208546) |
+| Designship2026三十秒广告 | [@hajipion](https://x.com/hajipion) | [GitHub 播放](../cases/2103766842024362220.md) | [原帖](https://x.com/hajipion/status/2103766842024362220) |
+| 纽约游客宣传片 | [@LinearUncle](https://x.com/LinearUncle) | [GitHub 播放](../cases/2103705625075331442.md) | [原帖](https://x.com/LinearUncle/status/2103705625075331442) |

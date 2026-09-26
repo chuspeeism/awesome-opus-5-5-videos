@@ -10,6 +10,6 @@
 | Clawd与Grok宇宙对比 | [@Jeremybtc](https://x.com/Jeremybtc) | [GitHub 播放](../cases/2103153744523489659.md) | [原帖](https://x.com/Jeremybtc/status/2103153744523489659) |
 | NVIDIA Blackwell芯片三维动画 | [@lucian__03](https://x.com/lucian__03) | [GitHub 播放](../cases/2103494418477260830.md) | [原帖](https://x.com/lucian__03/status/2103494418477260830) |
 | 1906旧金山市场街三维场景 | [@alexalbert__](https://x.com/alexalbert__) | [GitHub 播放](../cases/2102466523164274839.md) | [原帖](https://x.com/alexalbert__/status/2102466523164274839) |
-| Atlantis Three.js导览 | [@DannyLimanseta](https://x.com/DannyLimanseta) | [附件待补齐](../cases/2103169095034400772.md) | [原帖](https://x.com/DannyLimanseta/status/2103169095034400772) |
-| 大型强子对撞机三维场景 | [@superalesha](https://x.com/superalesha) | [附件待补齐](../cases/2102779758408774104.md) | [原帖](https://x.com/superalesha/status/2102779758408774104) |
-| 从草图到住宅的三维演化 | [@techartist_](https://x.com/techartist_) | [附件待补齐](../cases/2102503719762018434.md) | [原帖](https://x.com/techartist_/status/2102503719762018434) |
+| Atlantis Three.js导览 | [@DannyLimanseta](https://x.com/DannyLimanseta) | [GitHub 播放](../cases/2103169095034400772.md) | [原帖](https://x.com/DannyLimanseta/status/2103169095034400772) |
+| 大型强子对撞机三维场景 | [@superalesha](https://x.com/superalesha) | [GitHub 播放](../cases/2102779758408774104.md) | [原帖](https://x.com/superalesha/status/2102779758408774104) |
+| 从草图到住宅的三维演化 | [@techartist_](https://x.com/techartist_) | [GitHub 播放](../cases/2102503719762018434.md) | [原帖](https://x.com/techartist_/status/2102503719762018434) |
