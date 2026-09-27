@@ -1,9 +1,32 @@
 # 叙事与音乐
 
-[返回总目录](../README.md)
+[访问官网](https://img.dsxzai.com/) · [返回总目录](../README.md)
 
 | 案例 | 作者 | 观看 | 来源 |
 | --- | --- | --- | --- |
+| FC风格游戏战斗主题动态图形 | [@gigabit_million](https://x.com/gigabit_million) | [GitHub 播放](../cases/2104048491295318358.md) | [原帖](https://x.com/gigabit_million/status/2104048491295318358) |
+| The Shadow Remembers 第二版 | [@CDB_Dave](https://x.com/CDB_Dave) | [GitHub 播放](../cases/2104048140559278579.md) | [原帖](https://x.com/CDB_Dave/status/2104048140559278579) |
+| The Shadow Remembers 短片 | [@CDB_Dave](https://x.com/CDB_Dave) | [GitHub 播放](../cases/2104046963457216588.md) | [原帖](https://x.com/CDB_Dave/status/2104046963457216588) |
+| 《ラップで現文》竖屏动态图形 | [@ito_jo](https://x.com/ito_jo) | [GitHub 播放](../cases/2104045451989454910.md) | [原帖](https://x.com/ito_jo/status/2104045451989454910) |
+| 《Pétales Givrés》创作过程回述 | [@dan_riverbendai](https://x.com/dan_riverbendai) | [GitHub 播放](../cases/2104043566339375547.md) | [原帖](https://x.com/dan_riverbendai/status/2104043566339375547) |
+| 《Hush》无声星球预告片 | [@VoidStateKate](https://x.com/VoidStateKate) | [GitHub 播放](../cases/2104041451084517742.md) | [原帖](https://x.com/VoidStateKate/status/2104041451084517742) |
+| Little Dark Age 档案影像剪辑 | [@bitstein](https://x.com/bitstein) | [GitHub 播放](../cases/2104040489301295502.md) | [原帖](https://x.com/bitstein/status/2104040489301295502) |
+| 基于歌曲的动画音乐视频 | [@shuminchuuu](https://x.com/shuminchuuu) | [GitHub 播放](../cases/2104039791444808170.md) | [原帖](https://x.com/shuminchuuu/status/2104039791444808170) |
+| 封号经历改编动画片 | [@servasyy](https://x.com/servasyy) | [GitHub 播放](../cases/2104039075175182487.md) | [原帖](https://x.com/servasyy/status/2104039075175182487) |
+| 九十年代至今怀旧短片 | [@cosmintrica](https://x.com/cosmintrica) | [GitHub 播放](../cases/2104036566653923630.md) | [原帖](https://x.com/cosmintrica/status/2104036566653923630) |
+| 《任天堂明星大乱斗》节拍连招动画 | [@BishPlsOk](https://x.com/BishPlsOk) | [GitHub 播放](../cases/2104034109798433093.md) | [原帖](https://x.com/BishPlsOk/status/2104034109798433093) |
+| 从童年到接触人工智能 | [@juergentron9000](https://x.com/juergentron9000) | [GitHub 播放](../cases/2104030437320302621.md) | [原帖](https://x.com/juergentron9000/status/2104030437320302621) |
+| 点阵像素科技主题影像 | [@Mochi_AGI](https://x.com/Mochi_AGI) | [GitHub 播放](../cases/2104029928593543321.md) | [原帖](https://x.com/Mochi_AGI/status/2104029928593543321) |
+| Yukon Research 发展故事视频 | [@sreeramkannan](https://x.com/sreeramkannan) | [GitHub 播放](../cases/2104027910004949132.md) | [原帖](https://x.com/sreeramkannan/status/2104027910004949132) |
+| 基于原创韵文的音乐影像 | [@QRoonjha](https://x.com/QRoonjha) | [GitHub 播放](../cases/2104026175765197118.md) | [原帖](https://x.com/QRoonjha/status/2104026175765197118) |
+| Claude 的 20 页手绘速写本 | [@kloss_xyz](https://x.com/kloss_xyz) | [GitHub 播放](../cases/2104021881229869394.md) | [原帖](https://x.com/kloss_xyz/status/2104021881229869394) |
+| Remotion 角色短动画 | [@challenger_ND](https://x.com/challenger_ND) | [GitHub 播放](../cases/2104021764863078697.md) | [原帖](https://x.com/challenger_ND/status/2104021764863078697) |
+| 尼泊尔主题视频 | [@sahaj_soti](https://x.com/sahaj_soti) | [GitHub 播放](../cases/2104020879890055657.md) | [原帖](https://x.com/sahaj_soti/status/2104020879890055657) |
+| 《Love Her》音乐视频 | [@Rolando51500806](https://x.com/Rolando51500806) | [GitHub 播放](../cases/2104020626751009116.md) | [原帖](https://x.com/Rolando51500806/status/2104020626751009116) |
+| Neon Sovereign 像素动画 | [@SpikeRiser](https://x.com/SpikeRiser) | [GitHub 播放](../cases/2104019121377583446.md) | [原帖](https://x.com/SpikeRiser/status/2104019121377583446) |
+| Hello Kitty 与哥斯拉歌词视频 | [@Percival_Galios](https://x.com/Percival_Galios) | [GitHub 播放](../cases/2104018631898382624.md) | [原帖](https://x.com/Percival_Galios/status/2104018631898382624) |
+| 《ノイズキャンセラ》音乐视频 | [@nakaaki04](https://x.com/nakaaki04) | [GitHub 播放](../cases/2104013220231118861.md) | [原帖](https://x.com/nakaaki04/status/2104013220231118861) |
+| 桃太郎动态故事 | [@aicreataro](https://x.com/aicreataro) | [GitHub 播放](../cases/2104012367290077604.md) | [原帖](https://x.com/aicreataro/status/2104012367290077604) |
 | 纯 JavaScript 音画实验 | [@chetaslua](https://x.com/chetaslua) | [GitHub 播放](../cases/2102482039522107417.md) | [原帖](https://x.com/chetaslua/status/2102482039522107417) |
 | 纸船与折叠海洋故事 | [@ivanainai](https://x.com/ivanainai) | [GitHub 播放](../cases/2102502183891587378.md) | [原帖](https://x.com/ivanainai/status/2102502183891587378) |
 | 破茧成蝶动画 | [@AISuperDomain](https://x.com/AISuperDomain) | [GitHub 播放](../cases/2102691006894530990.md) | [原帖](https://x.com/AISuperDomain/status/2102691006894530990) |

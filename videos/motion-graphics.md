@@ -1,9 +1,20 @@
 # 动效与片头
 
-[返回总目录](../README.md)
+[访问官网](https://img.dsxzai.com/) · [返回总目录](../README.md)
 
 | 案例 | 作者 | 观看 | 来源 |
 | --- | --- | --- | --- |
+| 《光环3》十九年后：Cortana | [@seancclabs](https://x.com/seancclabs) | [GitHub 播放](../cases/2104048833009422669.md) | [原帖](https://x.com/seancclabs/status/2104048833009422669) |
+| 漫画风格代码绘制视频 | [@DANIEL35776543](https://x.com/DANIEL35776543) | [GitHub 播放](../cases/2104040986611703970.md) | [原帖](https://x.com/DANIEL35776543/status/2104040986611703970) |
+| Opus 5.5 动态设计短片 | [@Rushtwz](https://x.com/Rushtwz) | [GitHub 播放](../cases/2104038643442835749.md) | [原帖](https://x.com/Rushtwz/status/2104038643442835749) |
+| Obsolescence 标题卡片动画 | [@rhrshk](https://x.com/rhrshk) | [GitHub 播放](../cases/2104036481748947270.md) | [原帖](https://x.com/rhrshk/status/2104036481748947270) |
+| RedSeed AI 动态设计履历片 | [@en______ra](https://x.com/en______ra) | [GitHub 播放](../cases/2104035188061986980.md) | [原帖](https://x.com/en______ra/status/2104035188061986980) |
+| 一次生成的动态图形视频 | [@rickjcra](https://x.com/rickjcra) | [GitHub 播放](../cases/2104031187245392074.md) | [原帖](https://x.com/rickjcra/status/2104031187245392074) |
+| ElevenLabs 配音动态图形试作 | [@alonso_smb](https://x.com/alonso_smb) | [GitHub 播放](../cases/2104030609802952933.md) | [原帖](https://x.com/alonso_smb/status/2104030609802952933) |
+| 动态设计师作品集短片 | [@tonytonggg](https://x.com/tonytonggg) | [GitHub 播放](../cases/2104021942638674231.md) | [原帖](https://x.com/tonytonggg/status/2104021942638674231) |
+| 由代码绘制的动画短片 | [@midasavocado](https://x.com/midasavocado) | [GitHub 播放](../cases/2104019705917018536.md) | [原帖](https://x.com/midasavocado/status/2104019705917018536) |
+| 风格化动态图形视频 | [@toshimaru_e](https://x.com/toshimaru_e) | [GitHub 播放](../cases/2104018908718174258.md) | [原帖](https://x.com/toshimaru_e/status/2104018908718174258) |
+| Demoscene 风格着色器动画 | [@OneHung](https://x.com/OneHung) | [GitHub 播放](../cases/2104013351521333527.md) | [原帖](https://x.com/OneHung/status/2104013351521333527) |
 | JavaScript填色涂鸦动画 | [@Tz_2022](https://x.com/Tz_2022) | [GitHub 播放](../cases/2102501726431687055.md) | [原帖](https://x.com/Tz_2022/status/2102501726431687055) |
 | 一键动态图形作品 | [@DentalAkimoto](https://x.com/DentalAkimoto) | [GitHub 播放](../cases/2103417432757166200.md) | [原帖](https://x.com/DentalAkimoto/status/2103417432757166200) |
 | 像素骑士待机动画 | [@yugen_matuni](https://x.com/yugen_matuni) | [GitHub 播放](../cases/2102623847166116294.md) | [原帖](https://x.com/yugen_matuni/status/2102623847166116294) |

@@ -1,9 +1,26 @@
 # 知识与教学
 
-[返回总目录](../README.md)
+[访问官网](https://img.dsxzai.com/) · [返回总目录](../README.md)
 
 | 案例 | 作者 | 观看 | 来源 |
 | --- | --- | --- | --- |
+| 比特币区块数据货币史动画 | [@bradmillscan](https://x.com/bradmillscan) | [GitHub 播放](../cases/2104048013362839974.md) | [原帖](https://x.com/bradmillscan/status/2104048013362839974) |
+| 东京南向房间日照时长可视化 | [@mizugame_22](https://x.com/mizugame_22) | [GitHub 播放](../cases/2104045418141368438.md) | [原帖](https://x.com/mizugame_22/status/2104045418141368438) |
+| 自我介绍视频原理解说 | [@hitonona_ve_ai](https://x.com/hitonona_ve_ai) | [GitHub 播放](../cases/2104045155296870862.md) | [原帖](https://x.com/hitonona_ve_ai/status/2104045155296870862) |
+| 什么是 Git：零基础中文讲解 | [@Yunn260414](https://x.com/Yunn260414) | [GitHub 播放](../cases/2104044910769016888.md) | [原帖](https://x.com/Yunn260414/status/2104044910769016888) |
+| Next.js 16 日语讲解动画 | [@gamemangaanime](https://x.com/gamemangaanime) | [GitHub 播放](../cases/2104043852684259802.md) | [原帖](https://x.com/gamemangaanime/status/2104043852684259802) |
+| 搜索历史主题视频 | [@totti0223](https://x.com/totti0223) | [GitHub 播放](../cases/2104038435510173929.md) | [原帖](https://x.com/totti0223/status/2104038435510173929) |
+| 点单菜单主题解说视频 | [@erina_dev_](https://x.com/erina_dev_) | [GitHub 播放](../cases/2104036100016894141.md) | [原帖](https://x.com/erina_dev_/status/2104036100016894141) |
+| 以太坊历史视频 | [@apoorveth](https://x.com/apoorveth) | [GitHub 播放](../cases/2104034850172985417.md) | [原帖](https://x.com/apoorveth/status/2104034850172985417) |
+| 台日手游趋势数据视频 | [@h98569856](https://x.com/h98569856) | [GitHub 播放](../cases/2104032357389070713.md) | [原帖](https://x.com/h98569856/status/2104032357389070713) |
+| 物理学与曲柄定理视频 | [@juergentron9000](https://x.com/juergentron9000) | [GitHub 播放](../cases/2104030830402187753.md) | [原帖](https://x.com/juergentron9000/status/2104030830402187753) |
+| 代币化主题讲解视频 | [@bocaibocai_](https://x.com/bocaibocai_) | [GitHub 播放](../cases/2104026304358268990.md) | [原帖](https://x.com/bocaibocai_/status/2104026304358268990) |
+| 电风扇运转原理 3D 科普 | [@LinearUncle](https://x.com/LinearUncle) | [GitHub 播放](../cases/2104024423972155805.md) | [原帖](https://x.com/LinearUncle/status/2104024423972155805) |
+| 深度学习与神经网络讲解 | [@howlemont](https://x.com/howlemont) | [GitHub 播放](../cases/2104023028481077357.md) | [原帖](https://x.com/howlemont/status/2104023028481077357) |
+| SpaceX 发展历程视频 | [@dannykkg](https://x.com/dannykkg) | [GitHub 播放](../cases/2104020905638990042.md) | [原帖](https://x.com/dannykkg/status/2104020905638990042) |
+| Muse 入门教程宣传视频 | [@0xlangeai](https://x.com/0xlangeai) | [GitHub 播放](../cases/2104018569982070866.md) | [原帖](https://x.com/0xlangeai/status/2104018569982070866) |
+| 眼睛演化科普视频 | [@cagrimbakirci](https://x.com/cagrimbakirci) | [GitHub 播放](../cases/2104011756397842869.md) | [原帖](https://x.com/cagrimbakirci/status/2104011756397842869) |
+| 代币数据解说视频 | [@arambarnett](https://x.com/arambarnett) | [GitHub 播放](../cases/2104011150471917838.md) | [原帖](https://x.com/arambarnett/status/2104011150471917838) |
 | 模型评测结果介绍视频 | [@AlchainHust](https://x.com/AlchainHust) | [GitHub 播放](../cases/2102641132236574936.md) | [原帖](https://x.com/AlchainHust/status/2102641132236574936) |
 | 自由电子激光科普视频 | [@Frenchie_](https://x.com/Frenchie_) | [GitHub 播放](../cases/2103731959918948730.md) | [原帖](https://x.com/Frenchie_/status/2103731959918948730) |
 | 扩散模型原理图动画 | [@DotCSV](https://x.com/DotCSV) | [GitHub 播放](../cases/2102810407928819866.md) | [原帖](https://x.com/DotCSV/status/2102810407928819866) |

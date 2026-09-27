@@ -4,7 +4,7 @@
 
 在官网浏览 Opus 5.5 视频与 Image2.5 图片案例，按添加日期查看新作品、筛选分类并查看提示词。
 
-收录 106 个 Claude Opus 5.5 视频案例，按用途分类。保留作者、X 原帖、作品说明及公开提示词。
+收录 181 个 Claude Opus 5.5 视频案例，按用途分类。保留作者、X 原帖、作品说明及公开提示词。
 
 **全部视频均可在本 README 内播放。** 视频默认展示，点击播放即可观看；长视频按编号分段，保留完整内容。
 
@@ -16,15 +16,103 @@
 
 | 分类 | 案例数 |
 | --- | ---: |
-| [动效与片头](#motion-graphics) | 28 |
-| [品牌与产品](#brand-product) | 17 |
-| [叙事与音乐](#story-music) | 30 |
-| [知识与教学](#education) | 22 |
-| [三维与空间](#3d-spaces) | 9 |
+| [动效与片头](#motion-graphics) | 39 |
+| [品牌与产品](#brand-product) | 38 |
+| [叙事与音乐](#story-music) | 53 |
+| [知识与教学](#education) | 39 |
+| [三维与空间](#3d-spaces) | 12 |
 
 <a id="motion-graphics"></a>
 
 ## 动效与片头
+
+### 《光环3》十九年后：Cortana · @seancclabs
+
+发布者：[@seancclabs](https://x.com/seancclabs) · [X 原帖](https://x.com/seancclabs/status/2104048833009422669) · [提示词与制作说明](cases/2104048833009422669.md)
+
+作者用 Opus 5.5 制作 70 秒动态文字视频，配合真实旁白，以 Cortana 为主题。
+
+https://github.com/user-attachments/assets/caf69e18-57c8-4457-8a7f-3e5ab7db6198
+
+### 漫画风格代码绘制视频 · @DANIEL35776543
+
+发布者：[@DANIEL35776543](https://x.com/DANIEL35776543) · [X 原帖](https://x.com/DANIEL35776543/status/2104040986611703970) · [提示词与制作说明](cases/2104040986611703970.md)
+
+作者把一张漫画风格图片交给 Opus 5.5，尝试用代码制作视频，并称制作约20分钟。
+
+https://github.com/user-attachments/assets/938e7be5-d5df-4b37-ab9c-885a2175a336
+
+### Opus 5.5 动态设计短片 · @Rushtwz
+
+发布者：[@Rushtwz](https://x.com/Rushtwz) · [X 原帖](https://x.com/Rushtwz/status/2104038643442835749) · [提示词与制作说明](cases/2104038643442835749.md)
+
+作者展示一支由 Claude Opus 5.5 制作的动态设计视频。
+
+https://github.com/user-attachments/assets/ddb9c510-3551-42d9-956a-e335fc169d20
+
+### Obsolescence 标题卡片动画 · @rhrshk
+
+发布者：[@rhrshk](https://x.com/rhrshk) · [X 原帖](https://x.com/rhrshk/status/2104036481748947270) · [提示词与制作说明](cases/2104036481748947270.md)
+
+作者提供故事笔记，由 Opus 5.5 制作《Obsolescence》标题卡片演示和音乐。
+
+https://github.com/user-attachments/assets/7d11370f-ecd5-4266-a40f-4c95c6fb95e9
+
+### RedSeed AI 动态设计履历片 · @en______ra
+
+发布者：[@en______ra](https://x.com/en______ra) · [X 原帖](https://x.com/en______ra/status/2104035188061986980) · [提示词与制作说明](cases/2104035188061986980.md)
+
+作者公开提示词，要求制作15秒动态设计作品集短片，展示 RedSeed AI。
+
+https://github.com/user-attachments/assets/8cab4895-f4d2-4c28-a623-03b7b311fc5e
+
+### 一次生成的动态图形视频 · @rickjcra
+
+发布者：[@rickjcra](https://x.com/rickjcra) · [X 原帖](https://x.com/rickjcra/status/2104031187245392074) · [提示词与制作说明](cases/2104031187245392074.md)
+
+作者称 Opus 5.5 一次生成了该动态图形视频，并用于介绍其项目。
+
+https://github.com/user-attachments/assets/b33f7f0b-49fd-4a9c-b1bb-08bb3ca3af9b
+
+### ElevenLabs 配音动态图形试作 · @alonso_smb
+
+发布者：[@alonso_smb](https://x.com/alonso_smb) · [X 原帖](https://x.com/alonso_smb/status/2104030609802952933) · [提示词与制作说明](cases/2104030609802952933.md)
+
+作者分享 Opus 5.5 与 ElevenLabs 配合制作的动态图形视频试作。
+
+https://github.com/user-attachments/assets/0a449a69-ffe0-4bf1-b1c6-63dc500c5ed7
+
+### 动态设计师作品集短片 · @tonytonggg
+
+发布者：[@tonytonggg](https://x.com/tonytonggg) · [X 原帖](https://x.com/tonytonggg/status/2104021942638674231) · [提示词与制作说明](cases/2104021942638674231.md)
+
+作者公开了完整提示词：制作一段 15 秒动态设计视频，展示模型作为动态设计师的能力，并由模型生成音频。
+
+https://github.com/user-attachments/assets/e299caa2-c6e8-483a-a7e6-a0c8d9a9bd60
+
+### 由代码绘制的动画短片 · @midasavocado
+
+发布者：[@midasavocado](https://x.com/midasavocado) · [X 原帖](https://x.com/midasavocado/status/2104019705917018536) · [提示词与制作说明](cases/2104019705917018536.md)
+
+作者说明短片中的每个角色和音乐都由绘制它们的程序代码生成，画面可暂停阅读。
+
+https://github.com/user-attachments/assets/0144ab52-a844-4641-9b33-a3f810a4615e
+
+### 风格化动态图形视频 · @toshimaru_e
+
+发布者：[@toshimaru_e](https://x.com/toshimaru_e) · [X 原帖](https://x.com/toshimaru_e/status/2104018908718174258) · [提示词与制作说明](cases/2104018908718174258.md)
+
+作者称 Opus 5.5 生成了风格化的动态图形视频，可作为视频插入素材。
+
+https://github.com/user-attachments/assets/25377c66-d5e7-40dd-8a4b-34510325b8d5
+
+### Demoscene 风格着色器动画 · @OneHung
+
+发布者：[@OneHung](https://x.com/OneHung) · [X 原帖](https://x.com/OneHung/status/2104013351521333527) · [提示词与制作说明](cases/2104013351521333527.md)
+
+作者称 Opus 5.5 数小时内生成了 demoscene 水平的着色器代码，并发布相应视觉作品。
+
+https://github.com/user-attachments/assets/c6842a44-1ab0-4ccd-9208-49c6c13654b9
 
 ### JavaScript填色涂鸦动画 · @Tz_2022
 
@@ -34,8 +122,6 @@
 
 https://github.com/user-attachments/assets/17d3e5eb-1244-4c64-bbd8-be36d80e294c
 
-
-
 ### 一键动态图形作品 · @DentalAkimoto
 
 发布者：[@DentalAkimoto](https://x.com/DentalAkimoto) · [X 原帖](https://x.com/DentalAkimoto/status/2103417432757166200) · [提示词与制作说明](cases/2103417432757166200.md)
@@ -43,8 +129,6 @@ https://github.com/user-attachments/assets/17d3e5eb-1244-4c64-bbd8-be36d80e294c
 原帖称 Opus 5.5 一次生成动态图形作品并自行作曲，未公开具体主题和提示词。
 
 https://github.com/user-attachments/assets/bcf4452c-dd1c-440e-8cba-0f7275136bfd
-
-
 
 ### 像素骑士待机动画 · @yugen_matuni
 
@@ -54,8 +138,6 @@ https://github.com/user-attachments/assets/bcf4452c-dd1c-440e-8cba-0f7275136bfd
 
 https://github.com/user-attachments/assets/01a556d1-95d6-4c0c-9806-5043bf2e44c3
 
-
-
 ### OpenAI与Anthropic像素艺术 · @DotCSV
 
 发布者：[@DotCSV](https://x.com/DotCSV) · [X 原帖](https://x.com/DotCSV/status/2102896366909358276) · [提示词与制作说明](cases/2102896366909358276.md)
@@ -63,8 +145,6 @@ https://github.com/user-attachments/assets/01a556d1-95d6-4c0c-9806-5043bf2e44c3
 原帖以“模型没有创造力”等说法为引子，展示 Opus 5.5 制作的 OpenAI 与 Anthropic 像素艺术视频。
 
 https://github.com/user-attachments/assets/61e97b01-e72b-4d8b-913f-00061e05d9f5
-
-
 
 ### 工作流实验短片 · @pleometric
 
@@ -84,8 +164,6 @@ https://github.com/user-attachments/assets/99c70bcb-939e-40aa-9b20-1301514c3d88
 
 https://github.com/user-attachments/assets/fa449f3e-d33c-4294-8521-0f4d01bfdd8d
 
-
-
 ### 代码卡通剪辑视频 · @NFT_Chen
 
 发布者：[@NFT_Chen](https://x.com/NFT_Chen) · [X 原帖](https://x.com/NFT_Chen/status/2102681172367323300) · [提示词与制作说明](cases/2102681172367323300.md)
@@ -93,8 +171,6 @@ https://github.com/user-attachments/assets/fa449f3e-d33c-4294-8521-0f4d01bfdd8d
 原帖展示 Opus 5.5 自己编写卡通剪辑软件并完成剪辑：时间轴包含日出、热咖啡、三只猫和跳舞，转场、波形、导出按钮和手机预览框均由代码绘制。
 
 https://github.com/user-attachments/assets/ade20f6b-0bf8-4d11-b7d5-9a346f6751da
-
-
 
 ### Python动画转After Effects复现 · @sankakuten91256
 
@@ -104,8 +180,6 @@ https://github.com/user-attachments/assets/ade20f6b-0bf8-4d11-b7d5-9a346f6751da
 
 https://github.com/user-attachments/assets/499ec41a-ad1d-424e-b991-abc4a8b290bc
 
-
-
 ### HTML风格短片合集实验 · @lemomo_ai
 
 发布者：[@lemomo_ai](https://x.com/lemomo_ai) · [X 原帖](https://x.com/lemomo_ai/status/2103371945257685202) · [提示词与制作说明](cases/2103371945257685202.md)
@@ -114,8 +188,6 @@ https://github.com/user-attachments/assets/499ec41a-ad1d-424e-b991-abc4a8b290bc
 
 https://github.com/user-attachments/assets/2026e464-136e-4057-98de-57222cac5f3e
 
-
-
 ### Cosmos两提示动态设计 · @kaolti
 
 发布者：[@kaolti](https://x.com/kaolti) · [X 原帖](https://x.com/kaolti/status/2103481296018092204) · [提示词与制作说明](cases/2103481296018092204.md)
@@ -123,8 +195,6 @@ https://github.com/user-attachments/assets/2026e464-136e-4057-98de-57222cac5f3e
 原帖说明在 HyperFrames 中用两条提示、无参考图制作 Cosmos 主题动态设计作品；提示词放在原帖链接中。
 
 https://github.com/user-attachments/assets/f14c6cab-5bbd-406c-9ab6-e9f7c4c832dc
-
-
 
 ### 代码沙画动画 · @Michaelzsguo
 
@@ -140,8 +210,6 @@ https://github.com/user-attachments/assets/c48c6523-05c1-4d48-b5e0-221dc2ea769c
 
 https://github.com/user-attachments/assets/72c976e4-568b-432a-930e-0ee57af44f10
 
-
-
 ### 代码生成视频 · @bridgemindai
 
 发布者：[@bridgemindai](https://x.com/bridgemindai) · [X 原帖](https://x.com/bridgemindai/status/2103530750767206626) · [提示词与制作说明](cases/2103530750767206626.md)
@@ -149,8 +217,6 @@ https://github.com/user-attachments/assets/72c976e4-568b-432a-930e-0ee57af44f10
 原帖未公开提示词。作者说明：Claude Opus 5.5 完全用代码制作了这支视频；原帖没有公开主题和具体指令。
 
 https://github.com/user-attachments/assets/cc121d8e-80c1-4852-a43c-c09a714b4eb4
-
-
 
 ### 动态设计师履历短片 · @darel023
 
@@ -160,8 +226,6 @@ https://github.com/user-attachments/assets/cc121d8e-80c1-4852-a43c-c09a714b4eb4
 
 https://github.com/user-attachments/assets/1a7b4999-032b-423f-b893-2a2705f53d83
 
-
-
 ### Opus5.5自我迭代实验 · @dashiAIxz
 
 发布者：[@dashiAIxz](https://x.com/dashiAIxz) · [X 原帖](https://x.com/dashiAIxz/status/2103344448696648058) · [提示词与制作说明](cases/2103344448696648058.md)
@@ -169,8 +233,6 @@ https://github.com/user-attachments/assets/1a7b4999-032b-423f-b893-2a2705f53d83
 原帖未公开提示词。作者只分享了 Opus 5.5 自我迭代后的第二版视频，并未公开提示词或制作步骤。
 
 https://github.com/user-attachments/assets/04169532-dd56-42c9-9002-9bf866819825
-
-
 
 ### 单提示动态作品 · @kenn
 
@@ -180,8 +242,6 @@ https://github.com/user-attachments/assets/04169532-dd56-42c9-9002-9bf866819825
 
 https://github.com/user-attachments/assets/c4c5f0cf-0b78-4066-a446-6979fbedb367
 
-
-
 ### After Effects粒子系统动画 · @icreatelife
 
 发布者：[@icreatelife](https://x.com/icreatelife) · [X 原帖](https://x.com/icreatelife/status/2103193149879246906) · [提示词与制作说明](cases/2103193149879246906.md)
@@ -189,8 +249,6 @@ https://github.com/user-attachments/assets/c4c5f0cf-0b78-4066-a446-6979fbedb367
 原帖未公开提示词。作者让 Opus 5.5 在 After Effects 中制作粒子系统，称制作约用10分钟。
 
 https://github.com/user-attachments/assets/8d12a3d5-6fe0-4155-907e-880b4010bcc3
-
-
 
 ### 十二种风格机器人动画 · @pradeepXkapoor
 
@@ -200,8 +258,6 @@ https://github.com/user-attachments/assets/8d12a3d5-6fe0-4155-907e-880b4010bcc3
 
 https://github.com/user-attachments/assets/b74b33d0-d583-469b-9d7f-ccd7f9b0c2f7
 
-
-
 ### 书签动画细节实验 · @kippe07
 
 发布者：[@kippe07](https://x.com/kippe07) · [X 原帖](https://x.com/kippe07/status/2103036199774585026) · [提示词与制作说明](cases/2103036199774585026.md)
@@ -209,8 +265,6 @@ https://github.com/user-attachments/assets/b74b33d0-d583-469b-9d7f-ccd7f9b0c2f7
 原帖未公开提示词。作者说明：作者用 Opus 5.5 为书签动画加入了额外动态细节。
 
 https://github.com/user-attachments/assets/1bc15042-679e-48d1-8808-dc61e1259b1e
-
-
 
 ### 虚构电影开场字幕 · @goodside
 
@@ -220,8 +274,6 @@ https://github.com/user-attachments/assets/1bc15042-679e-48d1-8808-dc61e1259b1e
 
 https://github.com/user-attachments/assets/452fee55-34ac-421d-883d-d27239cb3726
 
-
-
 ### 19分钟动态视频实验 · @chhddavid
 
 发布者：[@chhddavid](https://x.com/chhddavid) · [X 原帖](https://x.com/chhddavid/status/2102666619029999989) · [提示词与制作说明](cases/2102666619029999989.md)
@@ -230,8 +282,6 @@ https://github.com/user-attachments/assets/452fee55-34ac-421d-883d-d27239cb3726
 
 https://github.com/user-attachments/assets/fb20a42f-e801-4ecc-ba66-1ccd612db53d
 
-
-
 ### 代码驱动节拍动画 · @twoclipping
 
 发布者：[@twoclipping](https://x.com/twoclipping) · [X 原帖](https://x.com/twoclipping/status/2102554209166000267) · [提示词与制作说明](cases/2102554209166000267.md)
@@ -239,8 +289,6 @@ https://github.com/user-attachments/assets/fb20a42f-e801-4ecc-ba66-1ccd612db53d
 原帖公开提示词。作者说明：作品完全由代码生成，Opus 5.5 自行选择音乐、下载音效、制作每一帧并与节拍同步；原帖称提示词放在帖子中。
 
 https://github.com/user-attachments/assets/a5af5eb7-d3a4-4e27-a8b1-aacd13a23935
-
-
 
 ### Opus5.5独立创作实验 · @LCSlates
 
@@ -256,8 +304,6 @@ https://github.com/user-attachments/assets/34a748df-9362-4d79-95e5-918b0bd7e073
 
 https://github.com/user-attachments/assets/b39021e7-0289-40c8-a050-dae5ec4bbfc5
 
-
-
 ### 280KB HTML Demoscene片头 · @JustinPerea
 
 发布者：[@JustinPerea](https://x.com/JustinPerea) · [X 原帖](https://x.com/JustinPerea/status/2102893186330841502) · [提示词与制作说明](cases/2102893186330841502.md)
@@ -265,8 +311,6 @@ https://github.com/user-attachments/assets/b39021e7-0289-40c8-a050-dae5ec4bbfc5
 原帖未公开提示词。制作说明：作者让 Claude Opus 5.5 自主制作 demoscene intro，最终所有像素和声音来自一个280KB HTML文件，不使用图片、音频、3D模型或库。
 
 https://github.com/user-attachments/assets/f678d831-8148-498a-bccd-0517f1facf1d
-
-
 
 ### Apple Wonderful Tools动画复刻 · @DavidKPiano
 
@@ -276,8 +320,6 @@ https://github.com/user-attachments/assets/f678d831-8148-498a-bccd-0517f1facf1d
 
 https://github.com/user-attachments/assets/e863919e-9acd-4750-8326-1597073c4046
 
-
-
 ### 128BPM代码驱动动态图形 · @aiehon_aya
 
 发布者：[@aiehon_aya](https://x.com/aiehon_aya) · [X 原帖](https://x.com/aiehon_aya/status/2103403361022419005) · [提示词与制作说明](cases/2103403361022419005.md)
@@ -286,8 +328,6 @@ https://github.com/user-attachments/assets/e863919e-9acd-4750-8326-1597073c4046
 
 https://github.com/user-attachments/assets/1205be6d-cf86-460a-8ae2-c78e88b53e48
 
-
-
 ### Opus5.5动态设计实验 · @dashiAIxz
 
 发布者：[@dashiAIxz](https://x.com/dashiAIxz) · [X 原帖](https://x.com/dashiAIxz/status/2103031723428917626) · [提示词与制作说明](cases/2103031723428917626.md)
@@ -295,8 +335,6 @@ https://github.com/user-attachments/assets/1205be6d-cf86-460a-8ae2-c78e88b53e48
 原帖未公开提示词或制作步骤。作者只分享了一段由 Opus 5.5 制作的作品，并配文“眩晕，瘫坐，原子弹爆炸”。
 
 https://github.com/user-attachments/assets/091c47d2-ddc5-432f-abd6-e048f746ab15
-
-
 
 ### Donald提示词与Moodboard视频 · @anabology
 
@@ -324,8 +362,6 @@ https://github.com/user-attachments/assets/ddffed99-1907-4bd6-ba3c-42f57a0eaa49
 
 https://github.com/user-attachments/assets/2e74daab-c4ee-4342-a30e-899d4e37ecab
 
-
-
 ### Ultracode与Dynamic Workflows动画 · @daniel_mac8
 
 发布者：[@daniel_mac8](https://x.com/daniel_mac8) · [X 原帖](https://x.com/daniel_mac8/status/2103666105461924131) · [提示词与制作说明](cases/2103666105461924131.md)
@@ -333,8 +369,6 @@ https://github.com/user-attachments/assets/2e74daab-c4ee-4342-a30e-899d4e37ecab
 原帖未公开提示词。制作说明：作者让 Opus 5.5 制作一支介绍 Claude Code 中 Ultracode 与 Dynamic Workflows、主题为避免耗尽使用额度的动画，并称视频像素由 Opus 5.5 生成。
 
 https://github.com/user-attachments/assets/373e8074-8af1-4ab8-b946-1424ddc39df6
-
-
 
 ### 动态设计师Showreel · @ajith_io
 
@@ -344,12 +378,183 @@ https://github.com/user-attachments/assets/373e8074-8af1-4ab8-b946-1424ddc39df6
 
 https://github.com/user-attachments/assets/4c264afe-1a77-4103-b6d6-659a044a10eb
 
-
-
-
 <a id="brand-product"></a>
 
 ## 品牌与产品
+
+### 网站 PNG 图像拆分动画 · @Negocios_Arg
+
+发布者：[@Negocios_Arg](https://x.com/Negocios_Arg) · [X 原帖](https://x.com/Negocios_Arg/status/2104047316370067508) · [提示词与制作说明](cases/2104047316370067508.md)
+
+作者用 Opus 5.5 将网站 PNG 拆成碎片并合成为 WebP 动画，成片为 30 FPS。
+
+https://github.com/user-attachments/assets/2e2c8c1e-9100-473d-b358-e49d44dfe1eb
+
+### Jev「只返回判断」主题短片 · @iroai_ai_x
+
+发布者：[@iroai_ai_x](https://x.com/iroai_ai_x) · [X 原帖](https://x.com/iroai_ai_x/status/2104046930699718718) · [提示词与制作说明](cases/2104046930699718718.md)
+
+作者称只用一句话让 Opus 5.5 围绕 Jev 的「只返回判断」理念制作视频。
+
+https://github.com/user-attachments/assets/1958aad1-3157-4084-b69a-3572095155c9
+
+### 加盟业务发布宣传片 · @sahishnubeta
+
+发布者：[@sahishnubeta](https://x.com/sahishnubeta) · [X 原帖](https://x.com/sahishnubeta/status/2104046928304726451) · [提示词与制作说明](cases/2104046928304726451.md)
+
+作者称 Opus 5.5 接手了原本由视频编辑制作的跨国加盟招募宣传视频。
+
+https://github.com/user-attachments/assets/32dab4e4-25a9-4e39-aa82-a712fccb67f4
+
+### Ultracode 产品介绍片 · @BogdanDragomir
+
+发布者：[@BogdanDragomir](https://x.com/BogdanDragomir) · [X 原帖](https://x.com/BogdanDragomir/status/2104045641538412658) · [提示词与制作说明](cases/2104045641538412658.md)
+
+作者公开了提示词：为 Ultracode 制作介绍片、配原创音乐并同步画面；作者称未使用其他工具。
+
+https://github.com/user-attachments/assets/5fbe5eca-f5cd-45b9-b9be-93b75e28e2af
+
+### 游戏宣传转场视频 · @dannykkg
+
+发布者：[@dannykkg](https://x.com/dannykkg) · [X 原帖](https://x.com/dannykkg/status/2104045374805770570) · [提示词与制作说明](cases/2104045374805770570.md)
+
+作者说明该视频由 Opus 5.5 为自己的游戏制作，并提到转场仍较生硬。
+
+https://github.com/user-attachments/assets/6d3a0ad1-04fa-4d7a-a99d-794997b4068b
+
+### 三支约25秒广告视频 · @_petert
+
+发布者：[@_petert](https://x.com/_petert) · [X 原帖](https://x.com/_petert/status/2104042970429432138) · [提示词与制作说明](cases/2104042970429432138.md)
+
+作者让 Opus 5.5 制作三支约25秒广告，并记录每支平均耗时和 API 成本。
+
+https://github.com/user-attachments/assets/e28686c5-dc50-46b7-8fc9-826f12a2e746
+
+### 自制翻译应用介绍视频 · @Kaiyu_AI
+
+发布者：[@Kaiyu_AI](https://x.com/Kaiyu_AI) · [X 原帖](https://x.com/Kaiyu_AI/status/2104042236799512970) · [提示词与制作说明](cases/2104042236799512970.md)
+
+作者让 Opus 5.5 为自制翻译应用制作介绍视频，并由其生成旁白和背景音乐。
+
+https://github.com/user-attachments/assets/5d574c32-a147-4f4f-98ce-b64414b77779
+
+### The Modern Shrine 品牌短片 · @tonytonggg
+
+发布者：[@tonytonggg](https://x.com/tonytonggg) · [X 原帖](https://x.com/tonytonggg/status/2104040744743026973) · [提示词与制作说明](cases/2104040744743026973.md)
+
+作者使用 Opus 5.5 和一项设计技能为 The Modern Shrine 制作作品集短片。
+
+https://github.com/user-attachments/assets/19a75de7-29ab-4954-a9a1-5b696059d5a4
+
+### Deckuse 产品宣传动画 · @feiflow
+
+发布者：[@feiflow](https://x.com/feiflow) · [X 原帖](https://x.com/feiflow/status/2104039666093572362) · [提示词与制作说明](cases/2104039666093572362.md)
+
+作者公开提示词，要求 Opus 5.5 为 Deckuse 制作带音效和音乐的产品宣传动画。
+
+https://github.com/user-attachments/assets/df9cfbc1-3a24-4704-957c-59cde2fa3dcc
+
+### Inbox Zero 产品视频 · @elie2222
+
+发布者：[@elie2222](https://x.com/elie2222) · [X 原帖](https://x.com/elie2222/status/2104037812119150735) · [提示词与制作说明](cases/2104037812119150735.md)
+
+作者说明 Opus 5.5 为 Inbox Zero 制作了视频。
+
+https://github.com/user-attachments/assets/b204ab79-7774-4820-99eb-cfbe50b2a691
+
+### Tycho 功能动态图形介绍片 · @did1k
+
+发布者：[@did1k](https://x.com/did1k) · [X 原帖](https://x.com/did1k/status/2104035527901241816) · [提示词与制作说明](cases/2104035527901241816.md)
+
+作者让 Opus 5.5 和另一模型分别制作 Tycho 功能介绍动态图形；帖文称首段为 Opus 5.5 版本。
+
+第 1 / 2 段
+
+https://github.com/user-attachments/assets/db8ec7b3-e4d6-4e55-9d5b-a27c1094147c
+
+第 2 / 2 段
+
+https://github.com/user-attachments/assets/73f73e9e-5b75-4027-85c9-400ba861ee85
+
+### YouTube 字幕提取产品广告 · @tstfully
+
+发布者：[@tstfully](https://x.com/tstfully) · [X 原帖](https://x.com/tstfully/status/2104033772949680192) · [提示词与制作说明](cases/2104033772949680192.md)
+
+作者公开提示词，要求 Opus 5.5 制作15秒动态图形广告，介绍粘贴视频链接即可提取文字的产品。
+
+https://github.com/user-attachments/assets/9775c70d-ed58-4988-8979-7c701f15e04a
+
+### Pixieboo 应用发布片 · @SteeveDor7
+
+发布者：[@SteeveDor7](https://x.com/SteeveDor7) · [X 原帖](https://x.com/SteeveDor7/status/2104027894217572848) · [提示词与制作说明](cases/2104027894217572848.md)
+
+作者公开提示词「为 Pixieboo 制作最佳发布视频」；三维手机、动态图形和音乐均由代码制作。
+
+https://github.com/user-attachments/assets/f7e2d4c9-7a5e-4937-b4fc-f0028c05c0f9
+
+### 基于品牌素材的首版视频 · @RareApepesNFT
+
+发布者：[@RareApepesNFT](https://x.com/RareApepesNFT) · [X 原帖](https://x.com/RareApepesNFT/status/2104027775598280914) · [提示词与制作说明](cases/2104027775598280914.md)
+
+作者分享 Opus 5.5 使用已有品牌素材制作的首版视频，并称后续还会调整。
+
+https://github.com/user-attachments/assets/7dba1ff4-e85d-440f-ad61-ba7eeff61ae2
+
+### Stuff 15 秒宣传片 · @austnstuff
+
+发布者：[@austnstuff](https://x.com/austnstuff) · [X 原帖](https://x.com/austnstuff/status/2104020914413441103) · [提示词与制作说明](cases/2104020914413441103.md)
+
+作者给出提示词，要求 Opus 5.5 extra 为 Stuff 制作 15 秒宣传视频。
+
+https://github.com/user-attachments/assets/25039872-974e-4a66-8657-44bf1900b954
+
+### 产品动态宣传视频 · @DJAdkison
+
+发布者：[@DJAdkison](https://x.com/DJAdkison) · [X 原帖](https://x.com/DJAdkison/status/2104020177478394122) · [提示词与制作说明](cases/2104020177478394122.md)
+
+作者使用 Opus 5.5 与 Remotion 制作产品动态视频，并称模型在不到 30 分钟内完成了叙事呈现。
+
+https://github.com/user-attachments/assets/46920434-0122-419c-889c-b7ff2dc323a9
+
+### 个人介绍短片 · @mafuzurrahman01
+
+发布者：[@mafuzurrahman01](https://x.com/mafuzurrahman01) · [X 原帖](https://x.com/mafuzurrahman01/status/2104020131273957453) · [提示词与制作说明](cases/2104020131273957453.md)
+
+作者展示了一段由 Claude Opus 5.5 High 制作的个人介绍视频。
+
+https://github.com/user-attachments/assets/1c5c0e94-5a53-4af5-b860-fe3eaaa0d14e
+
+### 创业公司动态图形宣传片 · @vaxjc_
+
+发布者：[@vaxjc_](https://x.com/vaxjc_) · [X 原帖](https://x.com/vaxjc_/status/2104015930837930075) · [提示词与制作说明](cases/2104015930837930075.md)
+
+作者介绍了用动态图形和 Claude Opus 5.5 推广创业公司的作品，并说明流程包含参考素材、提示词、品牌素材和音频。
+
+https://github.com/user-attachments/assets/6b5e03c1-d66e-4128-b74b-a09422075750
+
+### ClimbX 动态宣传片 · @DanielSmidstrup
+
+发布者：[@DanielSmidstrup](https://x.com/DanielSmidstrup) · [X 原帖](https://x.com/DanielSmidstrup/status/2104013515623170390) · [提示词与制作说明](cases/2104013515623170390.md)
+
+作者称 Opus 5.5 用一个提示词在 20 分钟内为 ClimbX 制作了动态设计视频，无需 After Effects。
+
+https://github.com/user-attachments/assets/d1001e32-7a38-41d2-aefa-591bacc9f45a
+
+### X 个人主页动态预告片 · @VikingMango
+
+发布者：[@VikingMango](https://x.com/VikingMango) · [X 原帖](https://x.com/VikingMango/status/2104011850027544802) · [提示词与制作说明](cases/2104011850027544802.md)
+
+作者让 Claude Opus 5.5 把自己的 X 个人主页改编成 15 秒动态预告片，画面和音效均以代码编写。
+
+https://github.com/user-attachments/assets/652d17d5-d797-4779-82cc-357dab618fdc
+
+### 网站产品讲解视频 · @WoCStreet
+
+发布者：[@WoCStreet](https://x.com/WoCStreet) · [X 原帖](https://x.com/WoCStreet/status/2104009930412019774) · [提示词与制作说明](cases/2104009930412019774.md)
+
+作者称用 Claude Opus 5.5 在一小时内为链接所示产品制作了解说视频，花费约 10 美元。
+
+https://github.com/user-attachments/assets/3d5a3d56-492c-40ea-bc1b-49aa8eb8c3ac
 
 ### 歌词文字PV生成器 · @8co28
 
@@ -365,8 +570,6 @@ https://github.com/user-attachments/assets/8e7233b3-8e02-4fb7-b62e-228cbe7f96dc
 
 https://github.com/user-attachments/assets/519dd984-cfdd-4aa0-b544-49d0379a2162
 
-
-
 ### 网站宣传视频 · @sankenainai
 
 发布者：[@sankenainai](https://x.com/sankenainai) · [X 原帖](https://x.com/sankenainai/status/2103340873773916491) · [提示词与制作说明](cases/2103340873773916491.md)
@@ -374,8 +577,6 @@ https://github.com/user-attachments/assets/519dd984-cfdd-4aa0-b544-49d0379a2162
 原帖称用 Opus 5.5 做网站宣传视频，只说了几句话，没有公开完整提示词。
 
 https://github.com/user-attachments/assets/ee66e013-d5d0-48da-9e90-a9897cff5df0
-
-
 
 ### Instagram发布视频重剪 · @joshaeeee
 
@@ -385,8 +586,6 @@ https://github.com/user-attachments/assets/ee66e013-d5d0-48da-9e90-a9897cff5df0
 
 https://github.com/user-attachments/assets/9978c3ab-d7e2-4ad7-b0b3-55232eaad963
 
-
-
 ### 自动化短视频剪辑 · @AIPlus_AISchool
 
 发布者：[@AIPlus_AISchool](https://x.com/AIPlus_AISchool) · [X 原帖](https://x.com/AIPlus_AISchool/status/2103441866717073637) · [提示词与制作说明](cases/2103441866717073637.md)
@@ -394,8 +593,6 @@ https://github.com/user-attachments/assets/9978c3ab-d7e2-4ad7-b0b3-55232eaad963
 原帖称零拍摄、零录音、零图片素材，用 Opus 5.5 做画面、Gemini 做声音，并公开了四条指示文案。
 
 https://github.com/user-attachments/assets/8de0b3be-4761-497e-997a-ba504b96ba08
-
-
 
 ### Allclip产品介绍视频 · @ikuma_uchida18
 
@@ -405,8 +602,6 @@ https://github.com/user-attachments/assets/8de0b3be-4761-497e-997a-ba504b96ba08
 
 https://github.com/user-attachments/assets/ac67ecd4-5f7e-4e99-8ccd-77327483bdc6
 
-
-
 ### 美国股市主题PV · @Capybara_Stock
 
 发布者：[@Capybara_Stock](https://x.com/Capybara_Stock) · [X 原帖](https://x.com/Capybara_Stock/status/2103627768521281672) · [提示词与制作说明](cases/2103627768521281672.md)
@@ -414,8 +609,6 @@ https://github.com/user-attachments/assets/ac67ecd4-5f7e-4e99-8ccd-77327483bdc6
 原帖称听说 Opus 5.5 能做时髦 PV，于是以美国股票市场为主题让它自动制作。
 
 https://github.com/user-attachments/assets/8af47ad9-fa70-475e-8bf4-df87b45b6869
-
-
 
 ### 企业资料转品牌动效 · @haru_jp_teacher
 
@@ -425,8 +618,6 @@ https://github.com/user-attachments/assets/8af47ad9-fa70-475e-8bf4-df87b45b6869
 
 https://github.com/user-attachments/assets/9b3fece4-6e1c-4a4b-9715-21b302194dfa
 
-
-
 ### Ren应用发布视频 · @macrohou
 
 发布者：[@macrohou](https://x.com/macrohou) · [X 原帖](https://x.com/macrohou/status/2103545787875733862) · [提示词与制作说明](cases/2103545787875733862.md)
@@ -434,8 +625,6 @@ https://github.com/user-attachments/assets/9b3fece4-6e1c-4a4b-9715-21b302194dfa
 原帖公开英文提示词，说明向 Opus 5.5 提供 Ren 代码仓库访问权限，制作30秒动态发布视频并展示动态与声音设计。
 
 https://github.com/user-attachments/assets/15708bdf-3bfe-4558-9d79-ccd0c8ede9a1
-
-
 
 ### 16比9与9比16产品广告 · @aiwarts
 
@@ -445,8 +634,6 @@ https://github.com/user-attachments/assets/15708bdf-3bfe-4558-9d79-ccd0c8ede9a1
 
 https://github.com/user-attachments/assets/c5dc38a7-af1b-422f-a903-71b3dbbfcae6
 
-
-
 ### Dub产品宣传视频 · @steventey
 
 发布者：[@steventey](https://x.com/steventey) · [X 原帖](https://x.com/steventey/status/2103625902211088880) · [提示词与制作说明](cases/2103625902211088880.md)
@@ -454,8 +641,6 @@ https://github.com/user-attachments/assets/c5dc38a7-af1b-422f-a903-71b3dbbfcae6
 原帖未公开提示词。作者说明：作者用 Opus 5.5 制作 Dub 产品宣传视频，并称一次生成完成。
 
 https://github.com/user-attachments/assets/532fb4d6-28b7-453f-91c1-4998ed49b56a
-
-
 
 ### Twitter主题宣传视频 · @superalesha
 
@@ -465,8 +650,6 @@ https://github.com/user-attachments/assets/532fb4d6-28b7-453f-91c1-4998ed49b56a
 
 https://github.com/user-attachments/assets/f95a393f-b2f2-4c75-bad4-21404256d9f1
 
-
-
 ### SaaS产品预告片 · @javiiarchive
 
 发布者：[@javiiarchive](https://x.com/javiiarchive) · [X 原帖](https://x.com/javiiarchive/status/2103501151438323850) · [提示词与制作说明](cases/2103501151438323850.md)
@@ -474,8 +657,6 @@ https://github.com/user-attachments/assets/f95a393f-b2f2-4c75-bad4-21404256d9f1
 原帖未公开提示词。作者说明：作者用 Opus 5.5 制作了自己的 SaaS 产品预告片。
 
 https://github.com/user-attachments/assets/f36b364b-67f7-4d87-b651-62d20c3bf490
-
-
 
 ### Opus5.5一句话宣传片 · @berryxia
 
@@ -485,8 +666,6 @@ https://github.com/user-attachments/assets/f36b364b-67f7-4d87-b651-62d20c3bf490
 
 https://github.com/user-attachments/assets/5c283b07-0ffa-4863-9e7b-cd68a578af58
 
-
-
 ### CodePilot产品宣传片 · @op7418
 
 发布者：[@op7418](https://x.com/op7418) · [X 原帖](https://x.com/op7418/status/2103148288400924827) · [提示词与制作说明](cases/2103148288400924827.md)
@@ -494,8 +673,6 @@ https://github.com/user-attachments/assets/5c283b07-0ffa-4863-9e7b-cd68a578af58
 原帖未公开提示词。作者说明：作者让 Opus 5.5 为 CodePilot 产品制作宣传片，强调使用前端图像和图形能力一键完成。
 
 https://github.com/user-attachments/assets/def8a07e-6cfc-445a-83d9-5c6dbe457e01
-
-
 
 ### Distilbook产品宣传片 · @ajith_io
 
@@ -505,8 +682,6 @@ https://github.com/user-attachments/assets/def8a07e-6cfc-445a-83d9-5c6dbe457e01
 
 https://github.com/user-attachments/assets/0350aa3f-0c0d-4cc1-b25d-d2743c30cdf6
 
-
-
 ### Designship2026三十秒广告 · @hajipion
 
 发布者：[@hajipion](https://x.com/hajipion) · [X 原帖](https://x.com/hajipion/status/2103766842024362220) · [提示词与制作说明](cases/2103766842024362220.md)
@@ -514,8 +689,6 @@ https://github.com/user-attachments/assets/0350aa3f-0c0d-4cc1-b25d-d2743c30cdf6
 原帖未公开提示词。制作说明：作者让 Opus 5.5 与 Gemini 3.8 Flash TTS 阅读 Designship2026 网站和当年 VI 资料，生成30秒 CM；原帖称用于类似出租车广告的呈现。
 
 https://github.com/user-attachments/assets/c64cc6c0-7fa3-4ae8-aa31-efc65730917f
-
-
 
 ### 纽约游客宣传片 · @LinearUncle
 
@@ -543,12 +716,243 @@ https://github.com/user-attachments/assets/fd33b4be-a8eb-43ae-bdfb-9d173987aa21
 
 https://github.com/user-attachments/assets/d0fab42b-42c0-43d3-aa02-2fdad3ed8c9a
 
-
-
-
 <a id="story-music"></a>
 
 ## 叙事与音乐
+
+### FC风格游戏战斗主题动态图形 · @gigabit_million
+
+发布者：[@gigabit_million](https://x.com/gigabit_million) · [X 原帖](https://x.com/gigabit_million/status/2104048491295318358) · [提示词与制作说明](cases/2104048491295318358.md)
+
+作者让 Opus 5.5 制作一段FC风格 RPG 战斗主题音乐，并配套完成动态图形艺术作品。
+
+https://github.com/user-attachments/assets/263cd69a-b7b3-4566-8fd4-33f24a3ead46
+
+### The Shadow Remembers 第二版 · @CDB_Dave
+
+发布者：[@CDB_Dave](https://x.com/CDB_Dave) · [X 原帖](https://x.com/CDB_Dave/status/2104048140559278579) · [提示词与制作说明](cases/2104048140559278579.md)
+
+作者称第二版由 Opus 5.5 根据同一提示制作，并更换了艺术指导方案。
+
+https://github.com/user-attachments/assets/4bbf1b64-2572-437e-add7-df8685034287
+
+### The Shadow Remembers 短片 · @CDB_Dave
+
+发布者：[@CDB_Dave](https://x.com/CDB_Dave) · [X 原帖](https://x.com/CDB_Dave/status/2104046963457216588) · [提示词与制作说明](cases/2104046963457216588.md)
+
+作者分享 Opus 5.5 制作的《The Shadow Remembers》，并说明制作耗时超过三小时。
+
+https://github.com/user-attachments/assets/2a215c9a-8cb5-4bf2-85cf-e764f85cf55c
+
+### 《ラップで現文》竖屏动态图形 · @ito_jo
+
+发布者：[@ito_jo](https://x.com/ito_jo) · [X 原帖](https://x.com/ito_jo/status/2104045451989454910) · [提示词与制作说明](cases/2104045451989454910.md)
+
+作者只提供已有歌曲音频，并要求 Opus 5.5 制作配合歌曲的竖屏动态图形视频。
+
+https://github.com/user-attachments/assets/daafee06-64e1-451f-b9a1-76e95278df4b
+
+### 《Pétales Givrés》创作过程回述 · @dan_riverbendai
+
+发布者：[@dan_riverbendai](https://x.com/dan_riverbendai) · [X 原帖](https://x.com/dan_riverbendai/status/2104043566339375547) · [提示词与制作说明](cases/2104043566339375547.md)
+
+作者分享 Opus 5.5 回述其创作《Pétales Givrés》的视频，内容讲述作品的构思与选择。
+
+第 1 / 5 段
+
+https://github.com/user-attachments/assets/732e10e1-63c1-47c8-8f06-7547ca045973
+
+第 2 / 5 段
+
+https://github.com/user-attachments/assets/7e5bef4c-e19f-46e9-a15a-2046a47a81c3
+
+第 3 / 5 段
+
+https://github.com/user-attachments/assets/1dea87cf-025a-4da2-bcf2-000e86fa7aef
+
+第 4 / 5 段
+
+https://github.com/user-attachments/assets/e64f856f-b61e-4880-81fb-189701e846cb
+
+第 5 / 5 段
+
+https://github.com/user-attachments/assets/c1edbaf6-007c-41eb-a1f1-7d1f5659c311
+
+### 《Hush》无声星球预告片 · @VoidStateKate
+
+发布者：[@VoidStateKate](https://x.com/VoidStateKate) · [X 原帖](https://x.com/VoidStateKate/status/2104041451084517742) · [提示词与制作说明](cases/2104041451084517742.md)
+
+作者让 Opus 5.5 为短篇系列制作预告片；故事、角色、Blender 三维世界、配乐、音效、配音和剪辑均由其完成。
+
+第 1 / 2 段
+
+https://github.com/user-attachments/assets/5375687a-2050-470a-8b43-020ebfd2ea99
+
+第 2 / 2 段
+
+https://github.com/user-attachments/assets/999a4e35-c4dc-4d83-b9a5-4439446f40c8
+
+### Little Dark Age 档案影像剪辑 · @bitstein
+
+发布者：[@bitstein](https://x.com/bitstein) · [X 原帖](https://x.com/bitstein/status/2104040489301295502) · [提示词与制作说明](cases/2104040489301295502.md)
+
+作者将公共领域档案影像素材交给 Opus 5.5，制作名为《Little Dark Age》的剪辑。
+
+第 1 / 2 段
+
+https://github.com/user-attachments/assets/2d1c01ad-1a5b-410e-aa66-f43fb3a55555
+
+第 2 / 2 段
+
+https://github.com/user-attachments/assets/634e6e02-86e7-4208-b5bc-34c7a42c8a31
+
+### 基于歌曲的动画音乐视频 · @shuminchuuu
+
+发布者：[@shuminchuuu](https://x.com/shuminchuuu) · [X 原帖](https://x.com/shuminchuuu/status/2104039791444808170) · [提示词与制作说明](cases/2104039791444808170.md)
+
+作者只提供 Suno 制作的器乐音频，让 Opus 5.5 改编歌曲并编写脚本，制作动画音乐视频。
+
+第 1 / 3 段
+
+https://github.com/user-attachments/assets/acf0b869-4f35-4d77-b5fb-e433f60d4356
+
+第 2 / 3 段
+
+https://github.com/user-attachments/assets/f241ebb6-7c70-464f-b672-8af2667c1a8a
+
+第 3 / 3 段
+
+https://github.com/user-attachments/assets/8fe094f7-7af3-4ed9-a40e-5808e26b914a
+
+### 封号经历改编动画片 · @servasyy
+
+发布者：[@servasyy](https://x.com/servasyy) · [X 原帖](https://x.com/servasyy/status/2104039075175182487) · [提示词与制作说明](cases/2104039075175182487.md)
+
+作者让 Opus 5.5 将自己被封号的经历改编成80秒动画；每帧由代码绘制，模型还逐镜检查并修改画面。
+
+https://github.com/user-attachments/assets/4f980f35-8661-4eb7-9258-24781cc0006a
+
+### 九十年代至今怀旧短片 · @cosmintrica
+
+发布者：[@cosmintrica](https://x.com/cosmintrica) · [X 原帖](https://x.com/cosmintrica/status/2104036566653923630) · [提示词与制作说明](cases/2104036566653923630.md)
+
+作者让 Opus 5.5 制作一支涵盖90年代、00年代和10年代的怀旧影片，并由其编写故事、绘制画面和制作声音。
+
+第 1 / 3 段
+
+https://github.com/user-attachments/assets/12e4d48a-a30c-4762-8a06-4f2ece7a4933
+
+第 2 / 3 段
+
+https://github.com/user-attachments/assets/17d7e8e0-1006-4e2c-9db7-1b57529ef88b
+
+第 3 / 3 段
+
+https://github.com/user-attachments/assets/2543b2a9-e36a-4d3b-8641-a24ce770d8ef
+
+### 《任天堂明星大乱斗》节拍连招动画 · @BishPlsOk
+
+发布者：[@BishPlsOk](https://x.com/BishPlsOk) · [X 原帖](https://x.com/BishPlsOk/status/2104034109798433093) · [提示词与制作说明](cases/2104034109798433093.md)
+
+作者以 Opus 5.5 和《任天堂明星大乱斗》拆包技术制作 machinima 动画，并按实测帧数编排连招节奏。
+
+https://github.com/user-attachments/assets/0aa5ecfc-e135-4cd5-97c2-085bc842eb91
+
+### 从童年到接触人工智能 · @juergentron9000
+
+发布者：[@juergentron9000](https://x.com/juergentron9000) · [X 原帖](https://x.com/juergentron9000/status/2104030437320302621) · [提示词与制作说明](cases/2104030437320302621.md)
+
+作者用 Claude Opus 5.5 制作一支个人经历短片，讲述从童年到成为科技从业者并接触 AI 的过程。
+
+https://github.com/user-attachments/assets/9932fb3b-c51d-4c89-a0fa-35782408cbea
+
+### 点阵像素科技主题影像 · @Mochi_AGI
+
+发布者：[@Mochi_AGI](https://x.com/Mochi_AGI) · [X 原帖](https://x.com/Mochi_AGI/status/2104029928593543321) · [提示词与制作说明](cases/2104029928593543321.md)
+
+作者说明 Opus 5.5 负责企划、程序、音乐和画面，以 NES 模拟器录制代码生成的点阵科技影像。
+
+https://github.com/user-attachments/assets/2a8c65f6-526f-42e9-8eed-f91aaec7b360
+
+### Yukon Research 发展故事视频 · @sreeramkannan
+
+发布者：[@sreeramkannan](https://x.com/sreeramkannan) · [X 原帖](https://x.com/sreeramkannan/status/2104027910004949132) · [提示词与制作说明](cases/2104027910004949132.md)
+
+作者让 Opus 5.5 讲述 Yukon Research 从开放排行榜发展为开放研究平台的历程。
+
+https://github.com/user-attachments/assets/aadc3bab-13c1-494e-b3cb-49d822f6ed1a
+
+### 基于原创韵文的音乐影像 · @QRoonjha
+
+发布者：[@QRoonjha](https://x.com/QRoonjha) · [X 原帖](https://x.com/QRoonjha/status/2104026175765197118) · [提示词与制作说明](cases/2104026175765197118.md)
+
+作者将原创韵文音频交给 Claude Opus 5.5，并分享其制作的成片。
+
+https://github.com/user-attachments/assets/1cb9dc32-67ff-428f-ac37-6f40a43d3538
+
+### Claude 的 20 页手绘速写本 · @kloss_xyz
+
+发布者：[@kloss_xyz](https://x.com/kloss_xyz) · [X 原帖](https://x.com/kloss_xyz/status/2104021881229869394) · [提示词与制作说明](cases/2104021881229869394.md)
+
+作者让 Opus 5.5 制作一本表达“无人提问时在想什么”的速写本，内容包括手写字、涂鸦和 Claude 创作的钢琴音乐。
+
+https://github.com/user-attachments/assets/68efdb1e-7cec-47ca-97c2-3e57dee12d6e
+
+### Remotion 角色短动画 · @challenger_ND
+
+发布者：[@challenger_ND](https://x.com/challenger_ND) · [X 原帖](https://x.com/challenger_ND/status/2104021764863078697) · [提示词与制作说明](cases/2104021764863078697.md)
+
+作者用 Claude Code Opus 5.5 在 Remotion 中制作简易动画，并借助图像生成和 ElevenLabs 加入角色表情、动作、背景、对白、音效及配乐。
+
+https://github.com/user-attachments/assets/d30c1f50-c7d8-4bab-8845-4b1351c74f52
+
+### 尼泊尔主题视频 · @sahaj_soti
+
+发布者：[@sahaj_soti](https://x.com/sahaj_soti) · [X 原帖](https://x.com/sahaj_soti/status/2104020879890055657) · [提示词与制作说明](cases/2104020879890055657.md)
+
+作者跟随当时的创作趋势，让 Opus 5.5 制作一段关于尼泊尔的视频。
+
+https://github.com/user-attachments/assets/df40a203-7c38-4b37-a0b8-652b41e4a1c7
+
+### 《Love Her》音乐视频 · @Rolando51500806
+
+发布者：[@Rolando51500806](https://x.com/Rolando51500806) · [X 原帖](https://x.com/Rolando51500806/status/2104020626751009116) · [提示词与制作说明](cases/2104020626751009116.md)
+
+作者将原创歌曲《Love Her》和一张封面图交给 Opus 5.5，生成音乐视频，把封面延展成完整人生叙事。
+
+https://github.com/user-attachments/assets/142a7964-7da4-4976-81d7-c6fd277ea8de
+
+### Neon Sovereign 像素动画 · @SpikeRiser
+
+发布者：[@SpikeRiser](https://x.com/SpikeRiser) · [X 原帖](https://x.com/SpikeRiser/status/2104019121377583446) · [提示词与制作说明](cases/2104019121377583446.md)
+
+作者为作品提供了明确场景描述：巨型骑士坐在王座上俯瞰霓虹城市，台阶有瀑布，下方广场聚集人群。
+
+https://github.com/user-attachments/assets/402390a7-aeec-4e82-8652-77358606ebc9
+
+### Hello Kitty 与哥斯拉歌词视频 · @Percival_Galios
+
+发布者：[@Percival_Galios](https://x.com/Percival_Galios) · [X 原帖](https://x.com/Percival_Galios/status/2104018631898382624) · [提示词与制作说明](cases/2104018631898382624.md)
+
+作者将儿子用 Suno 创作的歌曲和 Hello Kitty × Godzilla 主题交给 Opus 5.5，制作歌词视频。
+
+https://github.com/user-attachments/assets/14065abd-f311-46b3-9d9c-d8de1f84f55d
+
+### 《ノイズキャンセラ》音乐视频 · @nakaaki04
+
+发布者：[@nakaaki04](https://x.com/nakaaki04) · [X 原帖](https://x.com/nakaaki04/status/2104013220231118861) · [提示词与制作说明](cases/2104013220231118861.md)
+
+作者说明歌曲歌词、影像和动态机制都由代码编写，未使用视频编辑软件；文字与城市灯光随音乐变化。
+
+https://github.com/user-attachments/assets/40e9acc8-abc2-4ef8-a1dc-9b43b0513795
+
+### 桃太郎动态故事 · @aicreataro
+
+发布者：[@aicreataro](https://x.com/aicreataro) · [X 原帖](https://x.com/aicreataro/status/2104012367290077604) · [提示词与制作说明](cases/2104012367290077604.md)
+
+作者以《桃太郎》为题，用 Opus 5.5 制作 HTML 动态图形；脚本与 Claude 协作编写，Gemini TTS 配音，最后录制为 MP4。
+
+https://github.com/user-attachments/assets/ef8450c5-6148-4f52-aef2-34da8a5eb7b6
 
 ### 纯 JavaScript 音画实验 · @chetaslua
 
@@ -558,8 +962,6 @@ Opus 5.5 生成一段以纯 JavaScript 代码完成音乐、图像和视频的�
 
 https://github.com/user-attachments/assets/53222c0a-048c-4f8a-9226-59aa70c57a3f
 
-
-
 ### 纸船与折叠海洋故事 · @ivanainai
 
 发布者：[@ivanainai](https://x.com/ivanainai) · [X 原帖](https://x.com/ivanainai/status/2102502183891587378) · [提示词与制作说明](cases/2102502183891587378.md)
@@ -568,8 +970,6 @@ https://github.com/user-attachments/assets/53222c0a-048c-4f8a-9226-59aa70c57a3f
 
 https://github.com/user-attachments/assets/2fd91356-65d0-4157-8e9d-f97d5f4d784c
 
-
-
 ### 破茧成蝶动画 · @AISuperDomain
 
 发布者：[@AISuperDomain](https://x.com/AISuperDomain) · [X 原帖](https://x.com/AISuperDomain/status/2102691006894530990) · [提示词与制作说明](cases/2102691006894530990.md)
@@ -577,8 +977,6 @@ https://github.com/user-attachments/assets/2fd91356-65d0-4157-8e9d-f97d5f4d784c
 原帖展示作者用 Opus 5.5 制作的破茧成蝶动画。
 
 https://github.com/user-attachments/assets/478ae94c-aa45-43ce-888e-c6419b0546ea
-
-
 
 ### 一条提示词生成的场景动画 · @donaldjewkes
 
@@ -598,8 +996,6 @@ https://github.com/user-attachments/assets/5173d0be-8716-413a-b5a8-4148012e87c8
 
 https://github.com/user-attachments/assets/854c1793-f0b7-4ba3-875e-699e847345a2
 
-
-
 ### 优化分镜的故事视频 · @agentchengfeng
 
 发布者：[@agentchengfeng](https://x.com/agentchengfeng) · [X 原帖](https://x.com/agentchengfeng/status/2103074818518380924) · [提示词与制作说明](cases/2103074818518380924.md)
@@ -608,8 +1004,6 @@ https://github.com/user-attachments/assets/854c1793-f0b7-4ba3-875e-699e847345a2
 
 https://github.com/user-attachments/assets/d8a53f74-00f0-4150-be07-9a228776c5b1
 
-
-
 ### 节奏与音效优化视频 · @agentchengfeng
 
 发布者：[@agentchengfeng](https://x.com/agentchengfeng) · [X 原帖](https://x.com/agentchengfeng/status/2103099972975784169) · [提示词与制作说明](cases/2103099972975784169.md)
@@ -617,8 +1011,6 @@ https://github.com/user-attachments/assets/d8a53f74-00f0-4150-be07-9a228776c5b1
 原帖说明作者让 Opus 5.5 增加视频节奏，并继续调整音效和背景音。
 
 https://github.com/user-attachments/assets/8b797aab-ef43-49a6-8217-31f08b8bd268
-
-
 
 ### 多智能体生成短片 · @AndrewOnXYZ
 
@@ -642,8 +1034,6 @@ https://github.com/user-attachments/assets/046fe694-2c8f-4d62-a060-340bd83ed958
 
 https://github.com/user-attachments/assets/4cfe293e-e7aa-4800-826c-432ded322c0c
 
-
-
 ### 多镜头节奏扩展影片 · @sundyme
 
 发布者：[@sundyme](https://x.com/sundyme) · [X 原帖](https://x.com/sundyme/status/2103152622865977726) · [提示词与制作说明](cases/2103152622865977726.md)
@@ -658,8 +1048,6 @@ https://github.com/user-attachments/assets/14084cc6-a425-480c-b219-97c5424e9e66
 
 https://github.com/user-attachments/assets/3b7429d5-2f71-4f1c-be44-fab2458d0084
 
-
-
 ### 纯代码音画视频 · @gunsturn_tw
 
 发布者：[@gunsturn_tw](https://x.com/gunsturn_tw) · [X 原帖](https://x.com/gunsturn_tw/status/2103393070058529016) · [提示词与制作说明](cases/2103393070058529016.md)
@@ -667,8 +1055,6 @@ https://github.com/user-attachments/assets/3b7429d5-2f71-4f1c-be44-fab2458d0084
 原帖称作品没有使用 Blender 或 DAW，只用 JS、HTML 和 Python 代码完成。
 
 https://github.com/user-attachments/assets/30aa9992-dc35-4b9d-8014-49cb0f3efeb5
-
-
 
 ### 阿雷西博讯息科幻短片 · @angrypenguinPNG
 
@@ -678,8 +1064,6 @@ https://github.com/user-attachments/assets/30aa9992-dc35-4b9d-8014-49cb0f3efeb5
 
 https://github.com/user-attachments/assets/7dc1cae8-7fcd-41a8-8ee3-5974d4e3d417
 
-
-
 ### 节奏天国对比动画 · @lemomo_ai
 
 发布者：[@lemomo_ai](https://x.com/lemomo_ai) · [X 原帖](https://x.com/lemomo_ai/status/2103005399574294811) · [提示词与制作说明](cases/2103005399574294811.md)
@@ -687,8 +1071,6 @@ https://github.com/user-attachments/assets/7dc1cae8-7fcd-41a8-8ee3-5974d4e3d417
 原帖展示作者用 Opus 5.5 制作《节奏天国 vs AI》视频，并称通过简单想法生成。
 
 https://github.com/user-attachments/assets/e9108b55-8b8c-4d93-8666-aeafa5d4261b
-
-
 
 ### 原创音乐影像作品 · @notargs
 
@@ -703,8 +1085,6 @@ https://github.com/user-attachments/assets/ee649977-9da1-42a3-ab0d-535f974fdcf4
 第 2 / 2 段
 
 https://github.com/user-attachments/assets/5a620f2e-cdb9-4a77-b9a1-add25cc1af5c
-
-
 
 ### VTuber角色MV · @miyumiyuna5
 
@@ -724,8 +1104,6 @@ https://github.com/user-attachments/assets/acde219e-ee69-4a8e-8297-690caa3c79be
 
 https://github.com/user-attachments/assets/f4892578-88b7-4379-a260-a6b60c1bfedc
 
-
-
 ### Dario对战奥特曼三维动画 · @MinLiBuilds
 
 发布者：[@MinLiBuilds](https://x.com/MinLiBuilds) · [X 原帖](https://x.com/MinLiBuilds/status/2102756822990180387) · [提示词与制作说明](cases/2102756822990180387.md)
@@ -733,8 +1111,6 @@ https://github.com/user-attachments/assets/f4892578-88b7-4379-a260-a6b60c1bfedc
 原帖未公开提示词。作者说明：作者在记事本上随手画出 Opus5，再用 Opus 5.5 将其扩展成 Dario 对战奥特曼的三维动画，并把流程封装成 Skill。
 
 https://github.com/user-attachments/assets/e7e7776f-84a9-4c3c-8980-bd216b553d27
-
-
 
 ### DJ Opus电子音乐视频 · @leodavincs3
 
@@ -754,8 +1130,6 @@ https://github.com/user-attachments/assets/ac46b7ca-d23e-40fe-82a8-79dfa1d9b947
 
 https://github.com/user-attachments/assets/c2303c96-8067-42c8-9039-c93b8c4b19f9
 
-
-
 ### Overthinking动态图形电影 · @gizakdag
 
 发布者：[@gizakdag](https://x.com/gizakdag) · [X 原帖](https://x.com/gizakdag/status/2103566030916239768) · [提示词与制作说明](cases/2103566030916239768.md)
@@ -763,8 +1137,6 @@ https://github.com/user-attachments/assets/c2303c96-8067-42c8-9039-c93b8c4b19f9
 原帖公开提示词。作者说明：作品名为“Overthinking”，作者加入自己的风格参考，并尝试一条关于动态设计师作品集的提示词。
 
 https://github.com/user-attachments/assets/da574eec-c19f-41d3-9362-d6a9775fabf6
-
-
 
 ### 钢琴作曲与JavaScript动画 · @kevin_t_ngo
 
@@ -774,8 +1146,6 @@ https://github.com/user-attachments/assets/da574eec-c19f-41d3-9362-d6a9775fabf6
 
 https://github.com/user-attachments/assets/55ae67ac-9f34-4617-b74c-7dfb3047cb04
 
-
-
 ### Claude Code会话转三维短片 · @shneural
 
 发布者：[@shneural](https://x.com/shneural) · [X 原帖](https://x.com/shneural/status/2103472385563459833) · [提示词与制作说明](cases/2103472385563459833.md)
@@ -784,8 +1154,6 @@ https://github.com/user-attachments/assets/55ae67ac-9f34-4617-b74c-7dfb3047cb04
 
 https://github.com/user-attachments/assets/d1415da8-a8d1-4b7a-82e8-558f305620c1
 
-
-
 ### 旧作角色纯JS动画 · @adriankuleszo
 
 发布者：[@adriankuleszo](https://x.com/adriankuleszo) · [X 原帖](https://x.com/adriankuleszo/status/2103452143055483132) · [提示词与制作说明](cases/2103452143055483132.md)
@@ -793,8 +1161,6 @@ https://github.com/user-attachments/assets/d1415da8-a8d1-4b7a-82e8-558f305620c1
 原帖未公开提示词。作者说明：作者用 Opus 5.5 和纯 JavaScript 为此前设计的角色制作动画，输入是若干 JPG 图像。
 
 https://github.com/user-attachments/assets/779c41d6-991b-487b-a566-936e5c9eedad
-
-
 
 ### 动漫风社交学习短片 · @emollick
 
@@ -810,8 +1176,6 @@ https://github.com/user-attachments/assets/38408ad4-e52c-4eec-ab48-38bc8aaa7beb
 
 https://github.com/user-attachments/assets/cb7bac98-e823-41cc-b1ed-e96f6c1a038a
 
-
-
 ### CodeRabbit兔子音乐视频 · @IndraVahan
 
 发布者：[@IndraVahan](https://x.com/IndraVahan) · [X 原帖](https://x.com/IndraVahan/status/2103183939745751083) · [提示词与制作说明](cases/2103183939745751083.md)
@@ -826,8 +1190,6 @@ https://github.com/user-attachments/assets/a01c93e6-0167-4d2f-83aa-8a5021ad76f1
 
 https://github.com/user-attachments/assets/255f83c1-d6cc-483c-be1b-c537ba8a988f
 
-
-
 ### 60秒自主动画电影 · @jurlycat
 
 发布者：[@jurlycat](https://x.com/jurlycat) · [X 原帖](https://x.com/jurlycat/status/2103063664966205720) · [提示词与制作说明](cases/2103063664966205720.md)
@@ -835,8 +1197,6 @@ https://github.com/user-attachments/assets/255f83c1-d6cc-483c-be1b-c537ba8a988f
 原帖未公开提示词。发帖人介绍一位开发者给 Claude Code 提供一条提示和10美元外部 API 预算的案例，称 Opus 5.5 约80分钟后完成60秒动画，包含剧本、画面、旁白和8种 API 的调用。
 
 https://github.com/user-attachments/assets/c9a8e1e4-61f2-40bd-b9cd-ca18f994d124
-
-
 
 ### p5.js手绘音乐MV · @xiaohu
 
@@ -855,8 +1215,6 @@ https://github.com/user-attachments/assets/5fd1e312-d1f8-4045-aeb1-eb81565991ca
 第 3 / 3 段
 
 https://github.com/user-attachments/assets/27085fcc-4485-4e8e-ae1c-73f400983e0b
-
-
 
 ### Three.js《桃花源记》重制 · @dotey
 
@@ -880,8 +1238,6 @@ https://github.com/user-attachments/assets/a5da1ba5-2d2f-4dc7-98de-319fefe67a09
 
 https://github.com/user-attachments/assets/4b315f44-3289-498d-9648-409d0e355159
 
-
-
 ### 人类到AI的自述故事 · @songkeys
 
 发布者：[@songkeys](https://x.com/songkeys) · [X 原帖](https://x.com/songkeys/status/2102743212922384673) · [提示词与制作说明](cases/2102743212922384673.md)
@@ -896,8 +1252,6 @@ https://github.com/user-attachments/assets/52c1465f-2f4f-4824-afa7-64b7fcd22e25
 
 https://github.com/user-attachments/assets/cc9fc774-a73b-4dc8-9b9a-7af40bc5baab
 
-
-
 ### 78秒单文件动画电影 · @jurlycat
 
 发布者：[@jurlycat](https://x.com/jurlycat) · [X 原帖](https://x.com/jurlycat/status/2102645793828036643) · [提示词与制作说明](cases/2102645793828036643.md)
@@ -905,8 +1259,6 @@ https://github.com/user-attachments/assets/cc9fc774-a73b-4dc8-9b9a-7af40bc5baab
 原帖未公开提示词。作者说明：Claude Opus 5.5 在约45分钟内制作78秒动画电影，只有一个 index.html，不使用图片、视频文件或库，由 JavaScript、Canvas 2D 和 Web Audio 生成画面与声音。
 
 https://github.com/user-attachments/assets/1049fcf1-46dc-4462-8286-8c5352edf763
-
-
 
 ### 新西兰旅行照丙烯画动画 · @ann_nnng
 
@@ -916,8 +1268,6 @@ https://github.com/user-attachments/assets/1049fcf1-46dc-4462-8286-8c5352edf763
 
 https://github.com/user-attachments/assets/70e9866b-1d38-4aa6-acfd-7bb274026c3d
 
-
-
 ### Small Print代码动画故事 · @Voxyz_ai
 
 发布者：[@Voxyz_ai](https://x.com/Voxyz_ai) · [X 原帖](https://x.com/Voxyz_ai/status/2102531681450119426) · [提示词与制作说明](cases/2102531681450119426.md)
@@ -925,8 +1275,6 @@ https://github.com/user-attachments/assets/70e9866b-1d38-4aa6-acfd-7bb274026c3d
 原帖未公开提示词。作者说明：Opus 5.5 自己写故事、绘制每一帧并制作音乐，完全用 JavaScript、无图片素材，作品名为“Small Print”。
 
 https://github.com/user-attachments/assets/099c22d0-8613-4c6a-954b-5053926451d1
-
-
 
 ### JavaScript逐帧动画故事 · @kevin_t_ngo
 
@@ -936,8 +1284,6 @@ https://github.com/user-attachments/assets/099c22d0-8613-4c6a-954b-5053926451d1
 
 https://github.com/user-attachments/assets/37058fed-da43-423d-90cf-cd6c65a10f51
 
-
-
 ### 用JavaScript画出自己的生命 · @shfred0
 
 发布者：[@shfred0](https://x.com/shfred0) · [X 原帖](https://x.com/shfred0/status/2102495989194236158) · [提示词与制作说明](cases/2102495989194236158.md)
@@ -946,12 +1292,209 @@ https://github.com/user-attachments/assets/37058fed-da43-423d-90cf-cd6c65a10f51
 
 https://github.com/user-attachments/assets/6e91e72e-bcf7-437f-a4c5-4ad012bd1371
 
-
-
-
 <a id="education"></a>
 
 ## 知识与教学
+
+### 比特币区块数据货币史动画 · @bradmillscan
+
+发布者：[@bradmillscan](https://x.com/bradmillscan) · [X 原帖](https://x.com/bradmillscan/status/2104048013362839974) · [提示词与制作说明](cases/2104048013362839974.md)
+
+作者给 Opus 5.5 创作自由，并要求用比特币区块数据制作货币史动画，不用生成式视频工具。
+
+第 1 / 3 段
+
+https://github.com/user-attachments/assets/5d89252c-798e-4499-b525-3c582f08fdb2
+
+第 2 / 3 段
+
+https://github.com/user-attachments/assets/7d40d89a-4315-4dde-9011-20127086ac9a
+
+第 3 / 3 段
+
+https://github.com/user-attachments/assets/a4822771-ed9c-4add-a344-74fad68cfcce
+
+### 东京南向房间日照时长可视化 · @mizugame_22
+
+发布者：[@mizugame_22](https://x.com/mizugame_22) · [X 原帖](https://x.com/mizugame_22/status/2104045418141368438) · [提示词与制作说明](cases/2104045418141368438.md)
+
+作者让 Opus 5.5 将一年中阳光照到桌面一点的时长做成逐日填色可视化视频。
+
+https://github.com/user-attachments/assets/8113282f-38a9-495d-94dd-004577d1e45b
+
+### 自我介绍视频原理解说 · @hitonona_ve_ai
+
+发布者：[@hitonona_ve_ai](https://x.com/hitonona_ve_ai) · [X 原帖](https://x.com/hitonona_ve_ai/status/2104045155296870862) · [提示词与制作说明](cases/2104045155296870862.md)
+
+作者让 Opus 5.5 根据自我介绍视频制作一条解释其工作原理的解说视频。
+
+第 1 / 2 段
+
+https://github.com/user-attachments/assets/77295bfc-2b19-4dbb-9bf1-953c0bdb4d06
+
+第 2 / 2 段
+
+https://github.com/user-attachments/assets/02424b43-6367-4554-9cec-9a9ca42c76db
+
+### 什么是 Git：零基础中文讲解 · @Yunn260414
+
+发布者：[@Yunn260414](https://x.com/Yunn260414) · [X 原帖](https://x.com/Yunn260414/status/2104044910769016888) · [提示词与制作说明](cases/2104044910769016888.md)
+
+作者公开了视频提示词：用 JavaScript 制作中文 Git 入门视频，解释常用命令并加入声音。
+
+第 1 / 6 段
+
+https://github.com/user-attachments/assets/d1f8736e-33ff-4890-be32-643b6d61725d
+
+第 2 / 6 段
+
+https://github.com/user-attachments/assets/4bd73114-e1b4-48d2-9d41-f387d2d7e4ce
+
+第 3 / 6 段
+
+https://github.com/user-attachments/assets/00ab0564-fcc8-4717-a499-d9ce31d4e3c2
+
+第 4 / 6 段
+
+https://github.com/user-attachments/assets/1216e799-df90-4ade-98b0-719ec9fda1eb
+
+第 5 / 6 段
+
+https://github.com/user-attachments/assets/84e39c62-e739-43cf-a706-6b9624b72963
+
+第 6 / 6 段
+
+https://github.com/user-attachments/assets/330bacf7-3468-4398-90cd-1fdb05c57c32
+
+### Next.js 16 日语讲解动画 · @gamemangaanime
+
+发布者：[@gamemangaanime](https://x.com/gamemangaanime) · [X 原帖](https://x.com/gamemangaanime/status/2104043852684259802) · [提示词与制作说明](cases/2104043852684259802.md)
+
+作者用 Opus 5.5、3D 模型和 Gemini TTS 制作约三分钟讲解视频，并提到口型同步。
+
+第 1 / 3 段
+
+https://github.com/user-attachments/assets/9ea199ab-aa9c-4cf5-aa30-d5f14a112ae4
+
+第 2 / 3 段
+
+https://github.com/user-attachments/assets/e08bd372-9628-4206-b6c0-87d49cd44085
+
+第 3 / 3 段
+
+https://github.com/user-attachments/assets/6942167b-c71d-4d6f-9d4d-2bf25d709abf
+
+### 搜索历史主题视频 · @totti0223
+
+发布者：[@totti0223](https://x.com/totti0223) · [X 原帖](https://x.com/totti0223/status/2104038435510173929) · [提示词与制作说明](cases/2104038435510173929.md)
+
+作者展示一支以搜索历史为主题、由 Opus 5.5 制作的视频。
+
+https://github.com/user-attachments/assets/d3929885-cfac-4b60-81d4-75e8b412b467
+
+### 点单菜单主题解说视频 · @erina_dev_
+
+发布者：[@erina_dev_](https://x.com/erina_dev_) · [X 原帖](https://x.com/erina_dev_/status/2104036100016894141) · [提示词与制作说明](cases/2104036100016894141.md)
+
+作者用「单点菜单」作为指示，让 Opus 5.5 制作解说视频，并沿用品牌指南。
+
+第 1 / 3 段
+
+https://github.com/user-attachments/assets/0da8842a-03d5-41ec-ae92-afe6e3a45a08
+
+第 2 / 3 段
+
+https://github.com/user-attachments/assets/f7c1a806-bc42-40cd-8f38-792cc6e4b0f2
+
+第 3 / 3 段
+
+https://github.com/user-attachments/assets/194b5d3f-7a88-46d5-9397-9ba6ef07525a
+
+### 以太坊历史视频 · @apoorveth
+
+发布者：[@apoorveth](https://x.com/apoorveth) · [X 原帖](https://x.com/apoorveth/status/2104034850172985417) · [提示词与制作说明](cases/2104034850172985417.md)
+
+作者让 Opus 5.5 制作一支以太坊历史主题视频。
+
+第 1 / 2 段
+
+https://github.com/user-attachments/assets/a34058c3-c95b-4ae3-822f-8766870d5a9a
+
+第 2 / 2 段
+
+https://github.com/user-attachments/assets/ea635a88-8875-4ffc-b4db-eb7c3262a0fc
+
+### 台日手游趋势数据视频 · @h98569856
+
+发布者：[@h98569856](https://x.com/h98569856) · [X 原帖](https://x.com/h98569856/status/2104032357389070713) · [提示词与制作说明](cases/2104032357389070713.md)
+
+作者把简报和原始数据交给 Opus 5.5，录制旁白后由其剪辑成台湾与日本手游趋势视频。
+
+https://github.com/user-attachments/assets/b0a8b242-27fa-44cf-9cc5-c13cc3f596b9
+
+### 物理学与曲柄定理视频 · @juergentron9000
+
+发布者：[@juergentron9000](https://x.com/juergentron9000) · [X 原帖](https://x.com/juergentron9000/status/2104030830402187753) · [提示词与制作说明](cases/2104030830402187753.md)
+
+作者分享第二支 Claude Opus 5.5 视频，主题涉及物理学和曲柄定理。
+
+https://github.com/user-attachments/assets/a903cfd7-1e8f-4cd0-a2de-1207ce2dcb9d
+
+### 代币化主题讲解视频 · @bocaibocai_
+
+发布者：[@bocaibocai_](https://x.com/bocaibocai_) · [X 原帖](https://x.com/bocaibocai_/status/2104026304358268990) · [提示词与制作说明](cases/2104026304358268990.md)
+
+作者让 Opus 5.5 制作一支解释代币化的视频，并分享成片。
+
+https://github.com/user-attachments/assets/babd156b-fb5c-49a1-8c91-c5bffe6fe040
+
+### 电风扇运转原理 3D 科普 · @LinearUncle
+
+发布者：[@LinearUncle](https://x.com/LinearUncle) · [X 原帖](https://x.com/LinearUncle/status/2104024423972155805) · [提示词与制作说明](cases/2104024423972155805.md)
+
+作者称该片由 Opus 5.5 制作，用三维动画讲解电风扇如何产生气流。
+
+https://github.com/user-attachments/assets/d8410a3e-7b3b-4f0f-b074-273e5357769d
+
+### 深度学习与神经网络讲解 · @howlemont
+
+发布者：[@howlemont](https://x.com/howlemont) · [X 原帖](https://x.com/howlemont/status/2104023028481077357) · [提示词与制作说明](cases/2104023028481077357.md)
+
+作者依据 Gilbert Strang《Linear Algebra and Learning from Data》中四页关于深度学习与神经网络的内容，用 Opus 5.5 extra 制作讲解视频。
+
+https://github.com/user-attachments/assets/2c2b4252-4879-44bc-93e9-90135389ab40
+
+### SpaceX 发展历程视频 · @dannykkg
+
+发布者：[@dannykkg](https://x.com/dannykkg) · [X 原帖](https://x.com/dannykkg/status/2104020905638990042) · [提示词与制作说明](cases/2104020905638990042.md)
+
+作者称 Opus 5.5 以 Medium 模式快速完成一段介绍 SpaceX 发展历程的四分钟视频。
+
+https://github.com/user-attachments/assets/dfb9700b-f1de-4fdc-9d86-38ebac3cf403
+
+### Muse 入门教程宣传视频 · @0xlangeai
+
+发布者：[@0xlangeai](https://x.com/0xlangeai) · [X 原帖](https://x.com/0xlangeai/status/2104018569982070866) · [提示词与制作说明](cases/2104018569982070866.md)
+
+作者称使用 Opus 5.5 与 Remotion 制作 Muse 入门教程视频，并展示宣传片成品。
+
+https://github.com/user-attachments/assets/91484013-c3e7-43ee-b991-9d349f3a1350
+
+### 眼睛演化科普视频 · @cagrimbakirci
+
+发布者：[@cagrimbakirci](https://x.com/cagrimbakirci) · [X 原帖](https://x.com/cagrimbakirci/status/2104011756397842869) · [提示词与制作说明](cases/2104011756397842869.md)
+
+作者称 Opus 5.5 一次生成了眼睛演化科普视频，其中每张视网膜图像均由计算生成，而非手绘。
+
+https://github.com/user-attachments/assets/5433451a-7115-4676-8e2e-72cf49cd897f
+
+### 代币数据解说视频 · @arambarnett
+
+发布者：[@arambarnett](https://x.com/arambarnett) · [X 原帖](https://x.com/arambarnett/status/2104011150471917838) · [提示词与制作说明](cases/2104011150471917838.md)
+
+作者给 Opus 5.5 一个代币地址；模型读取链上数据、设计视频、撰写并配音脚本，还核对画面中的数字。
+
+https://github.com/user-attachments/assets/724adeba-d4f8-48d2-b26b-ae5679081a87
 
 ### 模型评测结果介绍视频 · @AlchainHust
 
@@ -967,8 +1510,6 @@ https://github.com/user-attachments/assets/1bcc71d6-c10d-40ac-be75-1e53306b7124
 
 https://github.com/user-attachments/assets/6e349d92-157d-4444-b75d-b6d432763e58
 
-
-
 ### 自由电子激光科普视频 · @Frenchie_
 
 发布者：[@Frenchie_](https://x.com/Frenchie_) · [X 原帖](https://x.com/Frenchie_/status/2103731959918948730) · [提示词与制作说明](cases/2103731959918948730.md)
@@ -977,8 +1518,6 @@ https://github.com/user-attachments/assets/6e349d92-157d-4444-b75d-b6d432763e58
 
 https://github.com/user-attachments/assets/8bf708d8-d16d-49b4-9881-0f53526fedc1
 
-
-
 ### 扩散模型原理图动画 · @DotCSV
 
 发布者：[@DotCSV](https://x.com/DotCSV) · [X 原帖](https://x.com/DotCSV/status/2102810407928819866) · [提示词与制作说明](cases/2102810407928819866.md)
@@ -986,8 +1525,6 @@ https://github.com/user-attachments/assets/8bf708d8-d16d-49b4-9881-0f53526fedc1
 原帖展示 Opus 5.5 制作的扩散模型图解动画，是该作者系列内容的续作。
 
 https://github.com/user-attachments/assets/7f60ff03-f7b1-473f-8365-2008c7455f38
-
-
 
 ### 崂山道士三维讲解片 · @wshuyi
 
@@ -1019,8 +1556,6 @@ https://github.com/user-attachments/assets/6e3e45c9-a0fd-402a-be37-7b56af0ad84f
 
 https://github.com/user-attachments/assets/19d27719-0a80-4dc2-ab07-b409057d53d7
 
-
-
 ### 重训肌群发力科普视频 · @DAGINGINGIN
 
 发布者：[@DAGINGINGIN](https://x.com/DAGINGINGIN) · [X 原帖](https://x.com/DAGINGINGIN/status/2103050917901922606) · [提示词与制作说明](cases/2103050917901922606.md)
@@ -1028,8 +1563,6 @@ https://github.com/user-attachments/assets/19d27719-0a80-4dc2-ab07-b409057d53d7
 原帖说明作者用 Opus 5.5 了解重训时哪些肌群参与发力，并展示相关视频。
 
 https://github.com/user-attachments/assets/4cbafd3e-6b9c-44c6-9f8f-8ebb9aad6b19
-
-
 
 ### DNA到血红蛋白科普动画 · @mrmagan_
 
@@ -1049,8 +1582,6 @@ https://github.com/user-attachments/assets/16f03ce8-93ad-4ee2-b0d2-4e0e4e2637a3
 
 https://github.com/user-attachments/assets/b127e5e2-e03a-4311-80f5-a2c71cc95921
 
-
-
 ### 海外剧集介绍视频 · @_nogu66
 
 发布者：[@_nogu66](https://x.com/_nogu66) · [X 原帖](https://x.com/_nogu66/status/2103751299808497959) · [提示词与制作说明](cases/2103751299808497959.md)
@@ -1058,8 +1589,6 @@ https://github.com/user-attachments/assets/b127e5e2-e03a-4311-80f5-a2c71cc95921
 原帖称作者让 Opus 5.5 制作一支喜爱的海外电视剧介绍视频。
 
 https://github.com/user-attachments/assets/4f3bc6f2-ed42-4d5c-a76e-6c703e922605
-
-
 
 ### 幕府主题历史视频 · @uroborosu_ai
 
@@ -1069,8 +1598,6 @@ https://github.com/user-attachments/assets/4f3bc6f2-ed42-4d5c-a76e-6c703e922605
 
 https://github.com/user-attachments/assets/bfd67adf-817e-44e6-887a-b05fed24f32e
 
-
-
 ### 恐龙到绳文时代教育动态图形 · @mellow_neet2000
 
 发布者：[@mellow_neet2000](https://x.com/mellow_neet2000) · [X 原帖](https://x.com/mellow_neet2000/status/2103487198758834408) · [提示词与制作说明](cases/2103487198758834408.md)
@@ -1078,8 +1605,6 @@ https://github.com/user-attachments/assets/bfd67adf-817e-44e6-887a-b05fed24f32e
 原帖公开日文提示词，要求制作从地球恐龙时代到绳文时代的教育性动态图形视频，使用日语并重视视觉演出。
 
 https://github.com/user-attachments/assets/3f279dcb-568e-40c6-9fcc-b0ee40d613f0
-
-
 
 ### 特殊相对论纸艺教学动画 · @masahirochaen
 
@@ -1089,8 +1614,6 @@ https://github.com/user-attachments/assets/3f279dcb-568e-40c6-9fcc-b0ee40d613f0
 
 https://github.com/user-attachments/assets/6ad370e4-f4c3-4892-8e81-68c45f14fc8e
 
-
-
 ### 自动化高架花床三维教程 · @Skylartkitchen
 
 发布者：[@Skylartkitchen](https://x.com/Skylartkitchen) · [X 原帖](https://x.com/Skylartkitchen/status/2103522230957420843) · [提示词与制作说明](cases/2103522230957420843.md)
@@ -1099,8 +1622,6 @@ https://github.com/user-attachments/assets/6ad370e4-f4c3-4892-8e81-68c45f14fc8e
 
 https://github.com/user-attachments/assets/7c655fce-eab1-46ac-9c42-85c5d0075f26
 
-
-
 ### AI是什么动画解释 · @icreatelife
 
 发布者：[@icreatelife](https://x.com/icreatelife) · [X 原帖](https://x.com/icreatelife/status/2103237092553773233) · [提示词与制作说明](cases/2103237092553773233.md)
@@ -1108,8 +1629,6 @@ https://github.com/user-attachments/assets/7c655fce-eab1-46ac-9c42-85c5d0075f26
 原帖未公开提示词。作者说明：作者让 Opus 5.5 用任意工具制作一支解释 AI 是什么的动画视频，并称作品适合帮助初学者理解。
 
 https://github.com/user-attachments/assets/fd5cf1b3-3b42-41aa-ace5-a865f17ad331
-
-
 
 ### Claude发展史研究视频 · @SkyeSharkie
 
@@ -1137,8 +1656,6 @@ https://github.com/user-attachments/assets/c41ae80e-5e36-44a1-9821-c83f6e691b24
 
 https://github.com/user-attachments/assets/1b5e730a-0eee-4a66-a066-20246e52114a
 
-
-
 ### 旋转轴工程史动画 · @ootamato
 
 发布者：[@ootamato](https://x.com/ootamato) · [X 原帖](https://x.com/ootamato/status/2103099960069873856) · [提示词与制作说明](cases/2103099960069873856.md)
@@ -1146,8 +1663,6 @@ https://github.com/user-attachments/assets/1b5e730a-0eee-4a66-a066-20246e52114a
 原帖未公开提示词。作者说明：Opus 5.5 用 JavaScript 制作以旋转轴为主题、回顾工程历史的动画，并包含声音。
 
 https://github.com/user-attachments/assets/a9cf44f5-b7ed-412a-9006-72784b2d13ed
-
-
 
 ### HTML食谱动态图形 · @Ror_Fly
 
@@ -1157,8 +1672,6 @@ https://github.com/user-attachments/assets/a9cf44f5-b7ed-412a-9006-72784b2d13ed
 
 https://github.com/user-attachments/assets/9b985886-45fb-4454-a829-67778edf1c16
 
-
-
 ### 像素风神经网络训练动画 · @DotCSV
 
 发布者：[@DotCSV](https://x.com/DotCSV) · [X 原帖](https://x.com/DotCSV/status/2102737776219168939) · [提示词与制作说明](cases/2102737776219168939.md)
@@ -1166,8 +1679,6 @@ https://github.com/user-attachments/assets/9b985886-45fb-4454-a829-67778edf1c16
 原帖未公开提示词。作者说明：作者让 Opus 5.5 制作一支像素艺术风格的神经网络训练动画。
 
 https://github.com/user-attachments/assets/621fc194-304c-444a-b24f-c9e7511fe6ac
-
-
 
 ### 上下五千年知识视频 · @akokoi1
 
@@ -1186,8 +1697,6 @@ https://github.com/user-attachments/assets/981db6ec-ebbc-47cf-9850-c428ff026412
 第 3 / 3 段
 
 https://github.com/user-attachments/assets/249a5515-d663-4a04-869a-50f5f6359dd1
-
-
 
 ### 超智能主题Netflix风格纪录片 · @gavinpurcell
 
@@ -1214,8 +1723,6 @@ https://github.com/user-attachments/assets/6637fac7-2514-4044-bce2-597732e3a69c
 第 5 / 5 段
 
 https://github.com/user-attachments/assets/b835e736-1394-4e77-abb8-c7153f39e631
-
-
 
 ### 研究论文转3blue1brown教学视频 · @deedydas
 
@@ -1255,8 +1762,6 @@ https://github.com/user-attachments/assets/cbd54f04-7b2b-4d6e-a5c8-b4d0719d1b5e
 
 https://github.com/user-attachments/assets/f8d608e9-96f6-4bd1-86ce-6fe375dfa5e1
 
-
-
 ### Leidenfrost效应白板动画 · @realYunfanYe
 
 发布者：[@realYunfanYe](https://x.com/realYunfanYe) · [X 原帖](https://x.com/realYunfanYe/status/2103496245343916158) · [提示词与制作说明](cases/2103496245343916158.md)
@@ -1264,8 +1769,6 @@ https://github.com/user-attachments/assets/f8d608e9-96f6-4bd1-86ce-6fe375dfa5e1
 原帖未公开提示词。制作说明：作者让 Opus 5.5 一次性制作解释 Leidenfrost effect 的手绘白板动画，旁白和音乐也在同一轮加入。
 
 https://github.com/user-attachments/assets/6d8e602d-48d6-476f-877e-a045be253ede
-
-
 
 ### 递归概念九种风格解释 · @emollick
 
@@ -1275,8 +1778,6 @@ https://github.com/user-attachments/assets/6d8e602d-48d6-476f-877e-a045be253ede
 
 https://github.com/user-attachments/assets/4e918b66-d854-4426-893b-b2eadc5397d1
 
-
-
 ### Manim导数概念教学视频 · @LinearUncle
 
 发布者：[@LinearUncle](https://x.com/LinearUncle) · [X 原帖](https://x.com/LinearUncle/status/2103128559174971663) · [提示词与制作说明](cases/2103128559174971663.md)
@@ -1285,12 +1786,33 @@ https://github.com/user-attachments/assets/4e918b66-d854-4426-893b-b2eadc5397d1
 
 https://github.com/user-attachments/assets/765c5f54-b8cb-4d30-93b9-890782d2f025
 
-
-
-
 <a id="3d-spaces"></a>
 
 ## 三维与空间
+
+### 《Mercury Moon》循环三维短片 · @park_danie36173
+
+发布者：[@park_danie36173](https://x.com/park_danie36173) · [X 原帖](https://x.com/park_danie36173/status/2104037878036824375) · [提示词与制作说明](cases/2104037878036824375.md)
+
+作者用 Opus 5.5 和 Blender 制作循环三维短片，包含水滴、涟漪、月亮及原创配乐和音效。
+
+https://github.com/user-attachments/assets/5872cc42-488d-4502-9061-c09c8c7c4588
+
+### 创业项目60秒三维广告 · @Halley_Zhu
+
+发布者：[@Halley_Zhu](https://x.com/Halley_Zhu) · [X 原帖](https://x.com/Halley_Zhu/status/2104033472616497200) · [提示词与制作说明](cases/2104033472616497200.md)
+
+作者用 Opus 5.5 在 Claude Code 中制作60秒三维广告，画面由代码和脚本渲染。
+
+https://github.com/user-attachments/assets/42ef22fe-3d9c-4ecc-8e63-36d566e50d62
+
+### HATCH 场景三维预演 · @slipgatecentral
+
+发布者：[@slipgatecentral](https://x.com/slipgatecentral) · [X 原帖](https://x.com/slipgatecentral/status/2104021676107407427) · [提示词与制作说明](cases/2104021676107407427.md)
+
+作者说明这段 HATCH 场景的 3D 预演由 Opus 5.5 与 Blender 制作，并提到可用于后续视频转视频制作。
+
+https://github.com/user-attachments/assets/b3a4c30d-964f-4c3e-a0e6-bf9bcedfd5b3
 
 ### 照片转卡通三维场景 · @ishuagra02
 
@@ -1299,8 +1821,6 @@ https://github.com/user-attachments/assets/765c5f54-b8cb-4d30-93b9-890782d2f025
 原帖展示 Opus 5.5 根据照片生成的高细节卡通渲染三维场景。
 
 https://github.com/user-attachments/assets/cb61786f-535b-4488-bd92-6b2f59f742b4
-
-
 
 ### 海岛生态三维长镜头 · @dangreenheck
 
@@ -1324,8 +1844,6 @@ https://github.com/user-attachments/assets/05f7a8bf-0389-4fb8-a785-99aa0ba8b693
 
 https://github.com/user-attachments/assets/44151427-b73e-4d6f-b3d7-1b2833cc3c2a
 
-
-
 ### 图纸转Blender动画 · @Ayu_AI_0912
 
 发布者：[@Ayu_AI_0912](https://x.com/Ayu_AI_0912) · [X 原帖](https://x.com/Ayu_AI_0912/status/2103021748551872907) · [提示词与制作说明](cases/2103021748551872907.md)
@@ -1333,8 +1851,6 @@ https://github.com/user-attachments/assets/44151427-b73e-4d6f-b3d7-1b2833cc3c2a
 原帖说明作者把图纸交给 Opus 5.5，再在 Blender 中转成视频，并提供了提示词外链。
 
 https://github.com/user-attachments/assets/6dc80167-2362-4933-b1a6-da57196866ac
-
-
 
 ### Clawd与Grok宇宙对比 · @Jeremybtc
 
@@ -1344,8 +1860,6 @@ https://github.com/user-attachments/assets/6dc80167-2362-4933-b1a6-da57196866ac
 
 https://github.com/user-attachments/assets/b39998d3-7f69-4185-b2b8-b3f92c8f668a
 
-
-
 ### NVIDIA Blackwell芯片三维动画 · @lucian__03
 
 发布者：[@lucian__03](https://x.com/lucian__03) · [X 原帖](https://x.com/lucian__03/status/2103494418477260830) · [提示词与制作说明](cases/2103494418477260830.md)
@@ -1354,8 +1868,6 @@ https://github.com/user-attachments/assets/b39998d3-7f69-4185-b2b8-b3f92c8f668a
 
 https://github.com/user-attachments/assets/20a330a0-dc3c-442c-86e6-b4a7d3f1cb59
 
-
-
 ### 1906旧金山市场街三维场景 · @alexalbert__
 
 发布者：[@alexalbert__](https://x.com/alexalbert__) · [X 原帖](https://x.com/alexalbert__/status/2102466523164274839) · [提示词与制作说明](cases/2102466523164274839.md)
@@ -1363,8 +1875,6 @@ https://github.com/user-attachments/assets/20a330a0-dc3c-442c-86e6-b4a7d3f1cb59
 原帖未公开提示词。作者说明：使用 Blender 和 Opus 5.5，从一条提示生成1906年地震前旧金山 Market Street 的历史准确三维场景。
 
 https://github.com/user-attachments/assets/9979665b-ec46-4028-a68b-7f35a4d090d7
-
-
 
 ### Atlantis Three.js导览 · @DannyLimanseta
 
@@ -1380,8 +1890,6 @@ https://github.com/user-attachments/assets/c7892e25-f297-4152-90c2-a186abefe17c
 
 https://github.com/user-attachments/assets/ec2a7f3e-2ed6-4e05-8872-0a007c427ef4
 
-
-
 ### 大型强子对撞机三维场景 · @superalesha
 
 发布者：[@superalesha](https://x.com/superalesha) · [X 原帖](https://x.com/superalesha/status/2102779758408774104) · [提示词与制作说明](cases/2102779758408774104.md)
@@ -1390,8 +1898,6 @@ https://github.com/user-attachments/assets/ec2a7f3e-2ed6-4e05-8872-0a007c427ef4
 
 https://github.com/user-attachments/assets/eea02605-307c-444a-b716-d7d5556aaa59
 
-
-
 ### 从草图到住宅的三维演化 · @techartist_
 
 发布者：[@techartist_](https://x.com/techartist_) · [X 原帖](https://x.com/techartist_/status/2102503719762018434) · [提示词与制作说明](cases/2102503719762018434.md)
@@ -1399,8 +1905,6 @@ https://github.com/user-attachments/assets/eea02605-307c-444a-b716-d7d5556aaa59
 原帖未公开提示词。作者说明：作者用 Claude Opus 5.5、Three.js 和 TSL 从草图制作住宅三维体验，过程分为线稿、体块、细节和完成住宅四个阶段。
 
 https://github.com/user-attachments/assets/f49f9ef4-ebc3-4613-b616-db22501d444d
-
-
 
 ## 收录与版权
 
