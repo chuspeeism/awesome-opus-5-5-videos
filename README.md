@@ -29,7 +29,7 @@
 
 原帖展示 Claude Opus 5.5 用 JavaScript 一气呵成制作的填色涂鸦动画。
 
-https://github.com/user-attachments/assets/17d3e5eb-1244-4c64-bbd8-be36d80e294c
+<video controls preload="none" src="https://github.com/user-attachments/assets/17d3e5eb-1244-4c64-bbd8-be36d80e294c" width="840"></video>
 
 </details>
 
@@ -40,7 +40,7 @@ https://github.com/user-attachments/assets/17d3e5eb-1244-4c64-bbd8-be36d80e294c
 
 原帖称 Opus 5.5 一次生成动态图形作品并自行作曲，未公开具体主题和提示词。
 
-https://github.com/user-attachments/assets/bcf4452c-dd1c-440e-8cba-0f7275136bfd
+<video controls preload="none" src="https://github.com/user-attachments/assets/bcf4452c-dd1c-440e-8cba-0f7275136bfd" width="840"></video>
 
 </details>
 
@@ -51,7 +51,7 @@ https://github.com/user-attachments/assets/bcf4452c-dd1c-440e-8cba-0f7275136bfd
 
 原帖对比 Opus 5.5 手工制作的像素骑士与经 Skills 修正的版本，提到待机动画和飘动围巾。
 
-https://github.com/user-attachments/assets/01a556d1-95d6-4c0c-9806-5043bf2e44c3
+<video controls preload="none" src="https://github.com/user-attachments/assets/01a556d1-95d6-4c0c-9806-5043bf2e44c3" width="840"></video>
 
 </details>
 
@@ -62,7 +62,7 @@ https://github.com/user-attachments/assets/01a556d1-95d6-4c0c-9806-5043bf2e44c3
 
 原帖以“模型没有创造力”等说法为引子，展示 Opus 5.5 制作的 OpenAI 与 Anthropic 像素艺术视频。
 
-https://github.com/user-attachments/assets/61e97b01-e72b-4d8b-913f-00061e05d9f5
+<video controls preload="none" src="https://github.com/user-attachments/assets/61e97b01-e72b-4d8b-913f-00061e05d9f5" width="840"></video>
 
 </details>
 
@@ -75,15 +75,15 @@ https://github.com/user-attachments/assets/61e97b01-e72b-4d8b-913f-00061e05d9f5
 
 第 1 / 3 段
 
-https://github.com/user-attachments/assets/c3163501-00d6-4d70-b851-9a99bfbf97dc
+<video controls preload="none" src="https://github.com/user-attachments/assets/c3163501-00d6-4d70-b851-9a99bfbf97dc" width="840"></video>
 
 第 2 / 3 段
 
-https://github.com/user-attachments/assets/99c70bcb-939e-40aa-9b20-1301514c3d88
+<video controls preload="none" src="https://github.com/user-attachments/assets/99c70bcb-939e-40aa-9b20-1301514c3d88" width="840"></video>
 
 第 3 / 3 段
 
-https://github.com/user-attachments/assets/fa449f3e-d33c-4294-8521-0f4d01bfdd8d
+<video controls preload="none" src="https://github.com/user-attachments/assets/fa449f3e-d33c-4294-8521-0f4d01bfdd8d" width="840"></video>
 
 </details>
 
@@ -94,7 +94,7 @@ https://github.com/user-attachments/assets/fa449f3e-d33c-4294-8521-0f4d01bfdd8d
 
 原帖展示 Opus 5.5 自己编写卡通剪辑软件并完成剪辑：时间轴包含日出、热咖啡、三只猫和跳舞，转场、波形、导出按钮和手机预览框均由代码绘制。
 
-https://github.com/user-attachments/assets/ade20f6b-0bf8-4d11-b7d5-9a346f6751da
+<video controls preload="none" src="https://github.com/user-attachments/assets/ade20f6b-0bf8-4d11-b7d5-9a346f6751da" width="840"></video>
 
 </details>
 
@@ -105,7 +105,7 @@ https://github.com/user-attachments/assets/ade20f6b-0bf8-4d11-b7d5-9a346f6751da
 
 原帖说明原始作品由 Opus 5.5 的 Claude Web 制作，作者把生成的 Python 文件打包下载后尝试用 Claude 应用复现并展示结果。
 
-https://github.com/user-attachments/assets/499ec41a-ad1d-424e-b991-abc4a8b290bc
+<video controls preload="none" src="https://github.com/user-attachments/assets/499ec41a-ad1d-424e-b991-abc4a8b290bc" width="840"></video>
 
 </details>
 
@@ -116,7 +116,7 @@ https://github.com/user-attachments/assets/499ec41a-ad1d-424e-b991-abc4a8b290bc
 
 原帖说明作者用 Opus 5.5 在 HTML 视频方向尝试多种风格，并计划整理 style reel 库，同时收录故事分镜和导演提示词。
 
-https://github.com/user-attachments/assets/2026e464-136e-4057-98de-57222cac5f3e
+<video controls preload="none" src="https://github.com/user-attachments/assets/2026e464-136e-4057-98de-57222cac5f3e" width="840"></video>
 
 </details>
 
@@ -127,7 +127,7 @@ https://github.com/user-attachments/assets/2026e464-136e-4057-98de-57222cac5f3e
 
 原帖说明在 HyperFrames 中用两条提示、无参考图制作 Cosmos 主题动态设计作品；提示词放在原帖链接中。
 
-https://github.com/user-attachments/assets/f14c6cab-5bbd-406c-9ab6-e9f7c4c832dc
+<video controls preload="none" src="https://github.com/user-attachments/assets/f14c6cab-5bbd-406c-9ab6-e9f7c4c832dc" width="840"></video>
 
 </details>
 
@@ -140,11 +140,11 @@ https://github.com/user-attachments/assets/f14c6cab-5bbd-406c-9ab6-e9f7c4c832dc
 
 第 1 / 2 段
 
-https://github.com/user-attachments/assets/c48c6523-05c1-4d48-b5e0-221dc2ea769c
+<video controls preload="none" src="https://github.com/user-attachments/assets/c48c6523-05c1-4d48-b5e0-221dc2ea769c" width="840"></video>
 
 第 2 / 2 段
 
-https://github.com/user-attachments/assets/72c976e4-568b-432a-930e-0ee57af44f10
+<video controls preload="none" src="https://github.com/user-attachments/assets/72c976e4-568b-432a-930e-0ee57af44f10" width="840"></video>
 
 </details>
 
@@ -155,7 +155,7 @@ https://github.com/user-attachments/assets/72c976e4-568b-432a-930e-0ee57af44f10
 
 原帖未公开提示词。作者说明：Claude Opus 5.5 完全用代码制作了这支视频；原帖没有公开主题和具体指令。
 
-https://github.com/user-attachments/assets/cc121d8e-80c1-4852-a43c-c09a714b4eb4
+<video controls preload="none" src="https://github.com/user-attachments/assets/cc121d8e-80c1-4852-a43c-c09a714b4eb4" width="840"></video>
 
 </details>
 
@@ -166,7 +166,7 @@ https://github.com/user-attachments/assets/cc121d8e-80c1-4852-a43c-c09a714b4eb4
 
 原帖公开英文提示词，要求 Opus 5.5 以世界级动态设计师身份制作15秒履历展示片。
 
-https://github.com/user-attachments/assets/1a7b4999-032b-423f-b893-2a2705f53d83
+<video controls preload="none" src="https://github.com/user-attachments/assets/1a7b4999-032b-423f-b893-2a2705f53d83" width="840"></video>
 
 </details>
 
@@ -177,7 +177,7 @@ https://github.com/user-attachments/assets/1a7b4999-032b-423f-b893-2a2705f53d83
 
 原帖未公开提示词。作者只分享了 Opus 5.5 自我迭代后的第二版视频，并未公开提示词或制作步骤。
 
-https://github.com/user-attachments/assets/04169532-dd56-42c9-9002-9bf866819825
+<video controls preload="none" src="https://github.com/user-attachments/assets/04169532-dd56-42c9-9002-9bf866819825" width="840"></video>
 
 </details>
 
@@ -188,7 +188,7 @@ https://github.com/user-attachments/assets/04169532-dd56-42c9-9002-9bf866819825
 
 原帖未公开提示词。作者说明：作品由 Opus 5.5 xhigh 单提示生成；原帖没有公开主题和完整指令。
 
-https://github.com/user-attachments/assets/c4c5f0cf-0b78-4066-a446-6979fbedb367
+<video controls preload="none" src="https://github.com/user-attachments/assets/c4c5f0cf-0b78-4066-a446-6979fbedb367" width="840"></video>
 
 </details>
 
@@ -199,7 +199,7 @@ https://github.com/user-attachments/assets/c4c5f0cf-0b78-4066-a446-6979fbedb367
 
 原帖未公开提示词。作者让 Opus 5.5 在 After Effects 中制作粒子系统，称制作约用10分钟。
 
-https://github.com/user-attachments/assets/8d12a3d5-6fe0-4155-907e-880b4010bcc3
+<video controls preload="none" src="https://github.com/user-attachments/assets/8d12a3d5-6fe0-4155-907e-880b4010bcc3" width="840"></video>
 
 </details>
 
@@ -210,7 +210,7 @@ https://github.com/user-attachments/assets/8d12a3d5-6fe0-4155-907e-880b4010bcc3
 
 原帖未公开提示词。作者说明：作者让 Opus 5.5 制作一个意识到自己困在 AI 生成世界中的机器人故事，包含12个世界和从8-bit到黏土动画、铅笔素描等风格。
 
-https://github.com/user-attachments/assets/b74b33d0-d583-469b-9d7f-ccd7f9b0c2f7
+<video controls preload="none" src="https://github.com/user-attachments/assets/b74b33d0-d583-469b-9d7f-ccd7f9b0c2f7" width="840"></video>
 
 </details>
 
@@ -221,7 +221,7 @@ https://github.com/user-attachments/assets/b74b33d0-d583-469b-9d7f-ccd7f9b0c2f7
 
 原帖未公开提示词。作者说明：作者用 Opus 5.5 为书签动画加入了额外动态细节。
 
-https://github.com/user-attachments/assets/1bc15042-679e-48d1-8808-dc61e1259b1e
+<video controls preload="none" src="https://github.com/user-attachments/assets/1bc15042-679e-48d1-8808-dc61e1259b1e" width="840"></video>
 
 </details>
 
@@ -232,7 +232,7 @@ https://github.com/user-attachments/assets/1bc15042-679e-48d1-8808-dc61e1259b1e
 
 原帖公开英文提示词，要求 Opus 5.5 为一部虚构的“关于你”的电影制作带虚构人名的开场字幕，并输出 mp4。
 
-https://github.com/user-attachments/assets/452fee55-34ac-421d-883d-d27239cb3726
+<video controls preload="none" src="https://github.com/user-attachments/assets/452fee55-34ac-421d-883d-d27239cb3726" width="840"></video>
 
 </details>
 
@@ -243,7 +243,7 @@ https://github.com/user-attachments/assets/452fee55-34ac-421d-883d-d27239cb3726
 
 原帖未公开提示词。作者说明：作者称 Opus 5.5 在19分钟内生成视频，只做了两次修改。
 
-https://github.com/user-attachments/assets/fb20a42f-e801-4ecc-ba66-1ccd612db53d
+<video controls preload="none" src="https://github.com/user-attachments/assets/fb20a42f-e801-4ecc-ba66-1ccd612db53d" width="840"></video>
 
 </details>
 
@@ -254,7 +254,7 @@ https://github.com/user-attachments/assets/fb20a42f-e801-4ecc-ba66-1ccd612db53d
 
 原帖公开提示词。作者说明：作品完全由代码生成，Opus 5.5 自行选择音乐、下载音效、制作每一帧并与节拍同步；原帖称提示词放在帖子中。
 
-https://github.com/user-attachments/assets/a5af5eb7-d3a4-4e27-a8b1-aacd13a23935
+<video controls preload="none" src="https://github.com/user-attachments/assets/a5af5eb7-d3a4-4e27-a8b1-aacd13a23935" width="840"></video>
 
 </details>
 
@@ -267,11 +267,11 @@ https://github.com/user-attachments/assets/a5af5eb7-d3a4-4e27-a8b1-aacd13a23935
 
 第 1 / 2 段
 
-https://github.com/user-attachments/assets/34a748df-9362-4d79-95e5-918b0bd7e073
+<video controls preload="none" src="https://github.com/user-attachments/assets/34a748df-9362-4d79-95e5-918b0bd7e073" width="840"></video>
 
 第 2 / 2 段
 
-https://github.com/user-attachments/assets/b39021e7-0289-40c8-a050-dae5ec4bbfc5
+<video controls preload="none" src="https://github.com/user-attachments/assets/b39021e7-0289-40c8-a050-dae5ec4bbfc5" width="840"></video>
 
 </details>
 
@@ -282,7 +282,7 @@ https://github.com/user-attachments/assets/b39021e7-0289-40c8-a050-dae5ec4bbfc5
 
 原帖未公开提示词。制作说明：作者让 Claude Opus 5.5 自主制作 demoscene intro，最终所有像素和声音来自一个280KB HTML文件，不使用图片、音频、3D模型或库。
 
-https://github.com/user-attachments/assets/f678d831-8148-498a-bccd-0517f1facf1d
+<video controls preload="none" src="https://github.com/user-attachments/assets/f678d831-8148-498a-bccd-0517f1facf1d" width="840"></video>
 
 </details>
 
@@ -293,7 +293,7 @@ https://github.com/user-attachments/assets/f678d831-8148-498a-bccd-0517f1facf1d
 
 原帖未公开提示词。制作说明：作者用 HTML、CSS、SVG 和 JavaScript，并经过多轮提示，复刻 Apple 的“Wonderful Tools”动画；作者称效果并不完美。
 
-https://github.com/user-attachments/assets/e863919e-9acd-4750-8326-1597073c4046
+<video controls preload="none" src="https://github.com/user-attachments/assets/e863919e-9acd-4750-8326-1597073c4046" width="840"></video>
 
 </details>
 
@@ -304,7 +304,7 @@ https://github.com/user-attachments/assets/e863919e-9acd-4750-8326-1597073c4046
 
 原帖未给出单条提示词，但公开了完整制作说明：HTML 绘制、Python 逐帧渲染900帧、程序化音乐和 ffmpeg 合成；视频事件按32拍、128BPM安排。
 
-https://github.com/user-attachments/assets/1205be6d-cf86-460a-8ae2-c78e88b53e48
+<video controls preload="none" src="https://github.com/user-attachments/assets/1205be6d-cf86-460a-8ae2-c78e88b53e48" width="840"></video>
 
 </details>
 
@@ -315,7 +315,7 @@ https://github.com/user-attachments/assets/1205be6d-cf86-460a-8ae2-c78e88b53e48
 
 原帖未公开提示词或制作步骤。作者只分享了一段由 Opus 5.5 制作的作品，并配文“眩晕，瘫坐，原子弹爆炸”。
 
-https://github.com/user-attachments/assets/091c47d2-ddc5-432f-abd6-e048f746ab15
+<video controls preload="none" src="https://github.com/user-attachments/assets/091c47d2-ddc5-432f-abd6-e048f746ab15" width="840"></video>
 
 </details>
 
@@ -328,23 +328,23 @@ https://github.com/user-attachments/assets/091c47d2-ddc5-432f-abd6-e048f746ab15
 
 第 1 / 5 段
 
-https://github.com/user-attachments/assets/afaa59e1-d33b-42e2-a5f5-ceba92abca84
+<video controls preload="none" src="https://github.com/user-attachments/assets/afaa59e1-d33b-42e2-a5f5-ceba92abca84" width="840"></video>
 
 第 2 / 5 段
 
-https://github.com/user-attachments/assets/10634657-19cf-4baa-b39e-c1cfec26797c
+<video controls preload="none" src="https://github.com/user-attachments/assets/10634657-19cf-4baa-b39e-c1cfec26797c" width="840"></video>
 
 第 3 / 5 段
 
-https://github.com/user-attachments/assets/aea3b65c-6abe-4e7e-849e-edd0f68ab23f
+<video controls preload="none" src="https://github.com/user-attachments/assets/aea3b65c-6abe-4e7e-849e-edd0f68ab23f" width="840"></video>
 
 第 4 / 5 段
 
-https://github.com/user-attachments/assets/ddffed99-1907-4bd6-ba3c-42f57a0eaa49
+<video controls preload="none" src="https://github.com/user-attachments/assets/ddffed99-1907-4bd6-ba3c-42f57a0eaa49" width="840"></video>
 
 第 5 / 5 段
 
-https://github.com/user-attachments/assets/2e74daab-c4ee-4342-a30e-899d4e37ecab
+<video controls preload="none" src="https://github.com/user-attachments/assets/2e74daab-c4ee-4342-a30e-899d4e37ecab" width="840"></video>
 
 </details>
 
@@ -355,7 +355,7 @@ https://github.com/user-attachments/assets/2e74daab-c4ee-4342-a30e-899d4e37ecab
 
 原帖未公开提示词。制作说明：作者让 Opus 5.5 制作一支介绍 Claude Code 中 Ultracode 与 Dynamic Workflows、主题为避免耗尽使用额度的动画，并称视频像素由 Opus 5.5 生成。
 
-https://github.com/user-attachments/assets/373e8074-8af1-4ab8-b946-1424ddc39df6
+<video controls preload="none" src="https://github.com/user-attachments/assets/373e8074-8af1-4ab8-b946-1424ddc39df6" width="840"></video>
 
 </details>
 
@@ -366,7 +366,7 @@ https://github.com/user-attachments/assets/373e8074-8af1-4ab8-b946-1424ddc39df6
 
 原帖公开英文提示词，作品为 Opus 5.5 生成的15秒动态设计展示片。
 
-https://github.com/user-attachments/assets/4c264afe-1a77-4103-b6d6-659a044a10eb
+<video controls preload="none" src="https://github.com/user-attachments/assets/4c264afe-1a77-4103-b6d6-659a044a10eb" width="840"></video>
 
 </details>
 
@@ -384,11 +384,11 @@ https://github.com/user-attachments/assets/4c264afe-1a77-4103-b6d6-659a044a10eb
 
 第 1 / 2 段
 
-https://github.com/user-attachments/assets/8e7233b3-8e02-4fb7-b62e-228cbe7f96dc
+<video controls preload="none" src="https://github.com/user-attachments/assets/8e7233b3-8e02-4fb7-b62e-228cbe7f96dc" width="840"></video>
 
 第 2 / 2 段
 
-https://github.com/user-attachments/assets/519dd984-cfdd-4aa0-b544-49d0379a2162
+<video controls preload="none" src="https://github.com/user-attachments/assets/519dd984-cfdd-4aa0-b544-49d0379a2162" width="840"></video>
 
 </details>
 
@@ -399,7 +399,7 @@ https://github.com/user-attachments/assets/519dd984-cfdd-4aa0-b544-49d0379a2162
 
 原帖称用 Opus 5.5 做网站宣传视频，只说了几句话，没有公开完整提示词。
 
-https://github.com/user-attachments/assets/ee66e013-d5d0-48da-9e90-a9897cff5df0
+<video controls preload="none" src="https://github.com/user-attachments/assets/ee66e013-d5d0-48da-9e90-a9897cff5df0" width="840"></video>
 
 </details>
 
@@ -410,7 +410,7 @@ https://github.com/user-attachments/assets/ee66e013-d5d0-48da-9e90-a9897cff5df0
 
 原帖说明作者用 Opus 5.5 重新剪辑自己的 Instagram 发布视频，并邀请读者比较结果。
 
-https://github.com/user-attachments/assets/9978c3ab-d7e2-4ad7-b0b3-55232eaad963
+<video controls preload="none" src="https://github.com/user-attachments/assets/9978c3ab-d7e2-4ad7-b0b3-55232eaad963" width="840"></video>
 
 </details>
 
@@ -421,7 +421,7 @@ https://github.com/user-attachments/assets/9978c3ab-d7e2-4ad7-b0b3-55232eaad963
 
 原帖称零拍摄、零录音、零图片素材，用 Opus 5.5 做画面、Gemini 做声音，并公开了四条指示文案。
 
-https://github.com/user-attachments/assets/8de0b3be-4761-497e-997a-ba504b96ba08
+<video controls preload="none" src="https://github.com/user-attachments/assets/8de0b3be-4761-497e-997a-ba504b96ba08" width="840"></video>
 
 </details>
 
@@ -432,7 +432,7 @@ https://github.com/user-attachments/assets/8de0b3be-4761-497e-997a-ba504b96ba08
 
 原帖称用 Opus 5.5 制作 Allclip 的介绍视频。
 
-https://github.com/user-attachments/assets/ac67ecd4-5f7e-4e99-8ccd-77327483bdc6
+<video controls preload="none" src="https://github.com/user-attachments/assets/ac67ecd4-5f7e-4e99-8ccd-77327483bdc6" width="840"></video>
 
 </details>
 
@@ -443,7 +443,7 @@ https://github.com/user-attachments/assets/ac67ecd4-5f7e-4e99-8ccd-77327483bdc6
 
 原帖称听说 Opus 5.5 能做时髦 PV，于是以美国股票市场为主题让它自动制作。
 
-https://github.com/user-attachments/assets/8af47ad9-fa70-475e-8bf4-df87b45b6869
+<video controls preload="none" src="https://github.com/user-attachments/assets/8af47ad9-fa70-475e-8bf4-df87b45b6869" width="840"></video>
 
 </details>
 
@@ -454,7 +454,7 @@ https://github.com/user-attachments/assets/8af47ad9-fa70-475e-8bf4-df87b45b6869
 
 原帖说明 Opus 5.5 根据企业资料自动生成 Logo 动效和资料文字，作者称仍有少量内容需要修改。
 
-https://github.com/user-attachments/assets/9b3fece4-6e1c-4a4b-9715-21b302194dfa
+<video controls preload="none" src="https://github.com/user-attachments/assets/9b3fece4-6e1c-4a4b-9715-21b302194dfa" width="840"></video>
 
 </details>
 
@@ -465,7 +465,7 @@ https://github.com/user-attachments/assets/9b3fece4-6e1c-4a4b-9715-21b302194dfa
 
 原帖公开英文提示词，说明向 Opus 5.5 提供 Ren 代码仓库访问权限，制作30秒动态发布视频并展示动态与声音设计。
 
-https://github.com/user-attachments/assets/15708bdf-3bfe-4558-9d79-ccd0c8ede9a1
+<video controls preload="none" src="https://github.com/user-attachments/assets/15708bdf-3bfe-4558-9d79-ccd0c8ede9a1" width="840"></video>
 
 </details>
 
@@ -476,7 +476,7 @@ https://github.com/user-attachments/assets/15708bdf-3bfe-4558-9d79-ccd0c8ede9a1
 
 原帖公开提示词分段发布，说明使用 Opus 5.5 一次直出产品宣传片，并同时生成16:9和9:16版本，不接入其他 AI 视频、音乐或图像模型。
 
-https://github.com/user-attachments/assets/c5dc38a7-af1b-422f-a903-71b3dbbfcae6
+<video controls preload="none" src="https://github.com/user-attachments/assets/c5dc38a7-af1b-422f-a903-71b3dbbfcae6" width="840"></video>
 
 </details>
 
@@ -487,7 +487,7 @@ https://github.com/user-attachments/assets/c5dc38a7-af1b-422f-a903-71b3dbbfcae6
 
 原帖未公开提示词。作者说明：作者用 Opus 5.5 制作 Dub 产品宣传视频，并称一次生成完成。
 
-https://github.com/user-attachments/assets/532fb4d6-28b7-453f-91c1-4998ed49b56a
+<video controls preload="none" src="https://github.com/user-attachments/assets/532fb4d6-28b7-453f-91c1-4998ed49b56a" width="840"></video>
 
 </details>
 
@@ -498,7 +498,7 @@ https://github.com/user-attachments/assets/532fb4d6-28b7-453f-91c1-4998ed49b56a
 
 原帖未公开提示词。作者说明：作者让 Opus 5.5 制作一支关于自己 Twitter 的视频。
 
-https://github.com/user-attachments/assets/f95a393f-b2f2-4c75-bad4-21404256d9f1
+<video controls preload="none" src="https://github.com/user-attachments/assets/f95a393f-b2f2-4c75-bad4-21404256d9f1" width="840"></video>
 
 </details>
 
@@ -509,7 +509,7 @@ https://github.com/user-attachments/assets/f95a393f-b2f2-4c75-bad4-21404256d9f1
 
 原帖未公开提示词。作者说明：作者用 Opus 5.5 制作了自己的 SaaS 产品预告片。
 
-https://github.com/user-attachments/assets/f36b364b-67f7-4d87-b651-62d20c3bf490
+<video controls preload="none" src="https://github.com/user-attachments/assets/f36b364b-67f7-4d87-b651-62d20c3bf490" width="840"></video>
 
 </details>
 
@@ -520,7 +520,7 @@ https://github.com/user-attachments/assets/f36b364b-67f7-4d87-b651-62d20c3bf490
 
 原帖未公开提示词。发帖人分享了 Opus 5.5 制作的宣传片，并称通过一句话生成；原帖没有公开具体提示词。
 
-https://github.com/user-attachments/assets/5c283b07-0ffa-4863-9e7b-cd68a578af58
+<video controls preload="none" src="https://github.com/user-attachments/assets/5c283b07-0ffa-4863-9e7b-cd68a578af58" width="840"></video>
 
 </details>
 
@@ -531,7 +531,7 @@ https://github.com/user-attachments/assets/5c283b07-0ffa-4863-9e7b-cd68a578af58
 
 原帖未公开提示词。作者说明：作者让 Opus 5.5 为 CodePilot 产品制作宣传片，强调使用前端图像和图形能力一键完成。
 
-https://github.com/user-attachments/assets/def8a07e-6cfc-445a-83d9-5c6dbe457e01
+<video controls preload="none" src="https://github.com/user-attachments/assets/def8a07e-6cfc-445a-83d9-5c6dbe457e01" width="840"></video>
 
 </details>
 
@@ -542,7 +542,7 @@ https://github.com/user-attachments/assets/def8a07e-6cfc-445a-83d9-5c6dbe457e01
 
 原帖公开英文提示词，说明用 Opus 5.5 研究 Distilbook 并生成40秒动态产品视频。
 
-https://github.com/user-attachments/assets/0350aa3f-0c0d-4cc1-b25d-d2743c30cdf6
+<video controls preload="none" src="https://github.com/user-attachments/assets/0350aa3f-0c0d-4cc1-b25d-d2743c30cdf6" width="840"></video>
 
 </details>
 
@@ -553,7 +553,7 @@ https://github.com/user-attachments/assets/0350aa3f-0c0d-4cc1-b25d-d2743c30cdf6
 
 原帖未公开提示词。制作说明：作者让 Opus 5.5 与 Gemini 3.8 Flash TTS 阅读 Designship2026 网站和当年 VI 资料，生成30秒 CM；原帖称用于类似出租车广告的呈现。
 
-https://github.com/user-attachments/assets/c64cc6c0-7fa3-4ae8-aa31-efc65730917f
+<video controls preload="none" src="https://github.com/user-attachments/assets/c64cc6c0-7fa3-4ae8-aa31-efc65730917f" width="840"></video>
 
 </details>
 
@@ -566,23 +566,23 @@ https://github.com/user-attachments/assets/c64cc6c0-7fa3-4ae8-aa31-efc65730917f
 
 第 1 / 5 段
 
-https://github.com/user-attachments/assets/47695840-4647-49a4-8bc3-b235a9dbb35a
+<video controls preload="none" src="https://github.com/user-attachments/assets/47695840-4647-49a4-8bc3-b235a9dbb35a" width="840"></video>
 
 第 2 / 5 段
 
-https://github.com/user-attachments/assets/b86af183-095e-4c35-a7a7-e79c6fb6c9e2
+<video controls preload="none" src="https://github.com/user-attachments/assets/b86af183-095e-4c35-a7a7-e79c6fb6c9e2" width="840"></video>
 
 第 3 / 5 段
 
-https://github.com/user-attachments/assets/a657a0c1-3ecc-44e9-a8d5-cffec3cadeec
+<video controls preload="none" src="https://github.com/user-attachments/assets/a657a0c1-3ecc-44e9-a8d5-cffec3cadeec" width="840"></video>
 
 第 4 / 5 段
 
-https://github.com/user-attachments/assets/fd33b4be-a8eb-43ae-bdfb-9d173987aa21
+<video controls preload="none" src="https://github.com/user-attachments/assets/fd33b4be-a8eb-43ae-bdfb-9d173987aa21" width="840"></video>
 
 第 5 / 5 段
 
-https://github.com/user-attachments/assets/d0fab42b-42c0-43d3-aa02-2fdad3ed8c9a
+<video controls preload="none" src="https://github.com/user-attachments/assets/d0fab42b-42c0-43d3-aa02-2fdad3ed8c9a" width="840"></video>
 
 </details>
 
@@ -598,7 +598,7 @@ https://github.com/user-attachments/assets/d0fab42b-42c0-43d3-aa02-2fdad3ed8c9a
 
 Opus 5.5 生成一段以纯 JavaScript 代码完成音乐、图像和视频的实验作品，原帖未给出具体主题。
 
-https://github.com/user-attachments/assets/53222c0a-048c-4f8a-9226-59aa70c57a3f
+<video controls preload="none" src="https://github.com/user-attachments/assets/53222c0a-048c-4f8a-9226-59aa70c57a3f" width="840"></video>
 
 </details>
 
@@ -609,7 +609,7 @@ https://github.com/user-attachments/assets/53222c0a-048c-4f8a-9226-59aa70c57a3f
 
 原帖比较 Astra 与 Opus 5.5 用同一提示制作的纸船叙事网页视频；Opus 版本颜色更强，故事包含海洋折叠、鲸鱼和书本揭示。
 
-https://github.com/user-attachments/assets/2fd91356-65d0-4157-8e9d-f97d5f4d784c
+<video controls preload="none" src="https://github.com/user-attachments/assets/2fd91356-65d0-4157-8e9d-f97d5f4d784c" width="840"></video>
 
 </details>
 
@@ -620,7 +620,7 @@ https://github.com/user-attachments/assets/2fd91356-65d0-4157-8e9d-f97d5f4d784c
 
 原帖展示作者用 Opus 5.5 制作的破茧成蝶动画。
 
-https://github.com/user-attachments/assets/478ae94c-aa45-43ce-888e-c6419b0546ea
+<video controls preload="none" src="https://github.com/user-attachments/assets/478ae94c-aa45-43ce-888e-c6419b0546ea" width="840"></video>
 
 </details>
 
@@ -633,15 +633,15 @@ https://github.com/user-attachments/assets/478ae94c-aa45-43ce-888e-c6419b0546ea
 
 第 1 / 3 段
 
-https://github.com/user-attachments/assets/6524367c-9637-458d-9458-3a9891d56bbb
+<video controls preload="none" src="https://github.com/user-attachments/assets/6524367c-9637-458d-9458-3a9891d56bbb" width="840"></video>
 
 第 2 / 3 段
 
-https://github.com/user-attachments/assets/5173d0be-8716-413a-b5a8-4148012e87c8
+<video controls preload="none" src="https://github.com/user-attachments/assets/5173d0be-8716-413a-b5a8-4148012e87c8" width="840"></video>
 
 第 3 / 3 段
 
-https://github.com/user-attachments/assets/854c1793-f0b7-4ba3-875e-699e847345a2
+<video controls preload="none" src="https://github.com/user-attachments/assets/854c1793-f0b7-4ba3-875e-699e847345a2" width="840"></video>
 
 </details>
 
@@ -652,7 +652,7 @@ https://github.com/user-attachments/assets/854c1793-f0b7-4ba3-875e-699e847345a2
 
 原帖称作者让 Opus 5.5 优化 GPT‑6 Astra 生成的视频，重点是分镜设计和故事表达。
 
-https://github.com/user-attachments/assets/d8a53f74-00f0-4150-be07-9a228776c5b1
+<video controls preload="none" src="https://github.com/user-attachments/assets/d8a53f74-00f0-4150-be07-9a228776c5b1" width="840"></video>
 
 </details>
 
@@ -663,7 +663,7 @@ https://github.com/user-attachments/assets/d8a53f74-00f0-4150-be07-9a228776c5b1
 
 原帖说明作者让 Opus 5.5 增加视频节奏，并继续调整音效和背景音。
 
-https://github.com/user-attachments/assets/8b797aab-ef43-49a6-8217-31f08b8bd268
+<video controls preload="none" src="https://github.com/user-attachments/assets/8b797aab-ef43-49a6-8217-31f08b8bd268" width="840"></video>
 
 </details>
 
@@ -676,19 +676,19 @@ https://github.com/user-attachments/assets/8b797aab-ef43-49a6-8217-31f08b8bd268
 
 第 1 / 4 段
 
-https://github.com/user-attachments/assets/ab91ce17-02a9-4030-91de-9bfa4617dfd8
+<video controls preload="none" src="https://github.com/user-attachments/assets/ab91ce17-02a9-4030-91de-9bfa4617dfd8" width="840"></video>
 
 第 2 / 4 段
 
-https://github.com/user-attachments/assets/11e9001c-273d-49bd-a399-c8ea743d19a4
+<video controls preload="none" src="https://github.com/user-attachments/assets/11e9001c-273d-49bd-a399-c8ea743d19a4" width="840"></video>
 
 第 3 / 4 段
 
-https://github.com/user-attachments/assets/046fe694-2c8f-4d62-a060-340bd83ed958
+<video controls preload="none" src="https://github.com/user-attachments/assets/046fe694-2c8f-4d62-a060-340bd83ed958" width="840"></video>
 
 第 4 / 4 段
 
-https://github.com/user-attachments/assets/4cfe293e-e7aa-4800-826c-432ded322c0c
+<video controls preload="none" src="https://github.com/user-attachments/assets/4cfe293e-e7aa-4800-826c-432ded322c0c" width="840"></video>
 
 </details>
 
@@ -701,11 +701,11 @@ https://github.com/user-attachments/assets/4cfe293e-e7aa-4800-826c-432ded322c0c
 
 第 1 / 2 段
 
-https://github.com/user-attachments/assets/14084cc6-a425-480c-b219-97c5424e9e66
+<video controls preload="none" src="https://github.com/user-attachments/assets/14084cc6-a425-480c-b219-97c5424e9e66" width="840"></video>
 
 第 2 / 2 段
 
-https://github.com/user-attachments/assets/3b7429d5-2f71-4f1c-be44-fab2458d0084
+<video controls preload="none" src="https://github.com/user-attachments/assets/3b7429d5-2f71-4f1c-be44-fab2458d0084" width="840"></video>
 
 </details>
 
@@ -716,7 +716,7 @@ https://github.com/user-attachments/assets/3b7429d5-2f71-4f1c-be44-fab2458d0084
 
 原帖称作品没有使用 Blender 或 DAW，只用 JS、HTML 和 Python 代码完成。
 
-https://github.com/user-attachments/assets/30aa9992-dc35-4b9d-8014-49cb0f3efeb5
+<video controls preload="none" src="https://github.com/user-attachments/assets/30aa9992-dc35-4b9d-8014-49cb0f3efeb5" width="840"></video>
 
 </details>
 
@@ -727,7 +727,7 @@ https://github.com/user-attachments/assets/30aa9992-dc35-4b9d-8014-49cb0f3efeb5
 
 原帖说明作者用 Krea MCP 与 Hyperframes 让 Opus 5.5 导演一支以 1974 年阿雷西博讯息为主题的科幻短片。
 
-https://github.com/user-attachments/assets/7dc1cae8-7fcd-41a8-8ee3-5974d4e3d417
+<video controls preload="none" src="https://github.com/user-attachments/assets/7dc1cae8-7fcd-41a8-8ee3-5974d4e3d417" width="840"></video>
 
 </details>
 
@@ -738,7 +738,7 @@ https://github.com/user-attachments/assets/7dc1cae8-7fcd-41a8-8ee3-5974d4e3d417
 
 原帖展示作者用 Opus 5.5 制作《节奏天国 vs AI》视频，并称通过简单想法生成。
 
-https://github.com/user-attachments/assets/e9108b55-8b8c-4d93-8666-aeafa5d4261b
+<video controls preload="none" src="https://github.com/user-attachments/assets/e9108b55-8b8c-4d93-8666-aeafa5d4261b" width="840"></video>
 
 </details>
 
@@ -751,11 +751,11 @@ https://github.com/user-attachments/assets/e9108b55-8b8c-4d93-8666-aeafa5d4261b
 
 第 1 / 2 段
 
-https://github.com/user-attachments/assets/ee649977-9da1-42a3-ab0d-535f974fdcf4
+<video controls preload="none" src="https://github.com/user-attachments/assets/ee649977-9da1-42a3-ab0d-535f974fdcf4" width="840"></video>
 
 第 2 / 2 段
 
-https://github.com/user-attachments/assets/5a620f2e-cdb9-4a77-b9a1-add25cc1af5c
+<video controls preload="none" src="https://github.com/user-attachments/assets/5a620f2e-cdb9-4a77-b9a1-add25cc1af5c" width="840"></video>
 
 </details>
 
@@ -768,15 +768,15 @@ https://github.com/user-attachments/assets/5a620f2e-cdb9-4a77-b9a1-add25cc1af5c
 
 第 1 / 3 段
 
-https://github.com/user-attachments/assets/9011e903-5ee5-43f0-ba43-af1ad3cf61dd
+<video controls preload="none" src="https://github.com/user-attachments/assets/9011e903-5ee5-43f0-ba43-af1ad3cf61dd" width="840"></video>
 
 第 2 / 3 段
 
-https://github.com/user-attachments/assets/acde219e-ee69-4a8e-8297-690caa3c79be
+<video controls preload="none" src="https://github.com/user-attachments/assets/acde219e-ee69-4a8e-8297-690caa3c79be" width="840"></video>
 
 第 3 / 3 段
 
-https://github.com/user-attachments/assets/f4892578-88b7-4379-a260-a6b60c1bfedc
+<video controls preload="none" src="https://github.com/user-attachments/assets/f4892578-88b7-4379-a260-a6b60c1bfedc" width="840"></video>
 
 </details>
 
@@ -787,7 +787,7 @@ https://github.com/user-attachments/assets/f4892578-88b7-4379-a260-a6b60c1bfedc
 
 原帖未公开提示词。作者说明：作者在记事本上随手画出 Opus5，再用 Opus 5.5 将其扩展成 Dario 对战奥特曼的三维动画，并把流程封装成 Skill。
 
-https://github.com/user-attachments/assets/e7e7776f-84a9-4c3c-8980-bd216b553d27
+<video controls preload="none" src="https://github.com/user-attachments/assets/e7e7776f-84a9-4c3c-8980-bd216b553d27" width="840"></video>
 
 </details>
 
@@ -800,15 +800,15 @@ https://github.com/user-attachments/assets/e7e7776f-84a9-4c3c-8980-bd216b553d27
 
 第 1 / 3 段
 
-https://github.com/user-attachments/assets/56bb872f-3d40-4199-9812-2180dfde1d34
+<video controls preload="none" src="https://github.com/user-attachments/assets/56bb872f-3d40-4199-9812-2180dfde1d34" width="840"></video>
 
 第 2 / 3 段
 
-https://github.com/user-attachments/assets/ac46b7ca-d23e-40fe-82a8-79dfa1d9b947
+<video controls preload="none" src="https://github.com/user-attachments/assets/ac46b7ca-d23e-40fe-82a8-79dfa1d9b947" width="840"></video>
 
 第 3 / 3 段
 
-https://github.com/user-attachments/assets/c2303c96-8067-42c8-9039-c93b8c4b19f9
+<video controls preload="none" src="https://github.com/user-attachments/assets/c2303c96-8067-42c8-9039-c93b8c4b19f9" width="840"></video>
 
 </details>
 
@@ -819,7 +819,7 @@ https://github.com/user-attachments/assets/c2303c96-8067-42c8-9039-c93b8c4b19f9
 
 原帖公开提示词。作者说明：作品名为“Overthinking”，作者加入自己的风格参考，并尝试一条关于动态设计师作品集的提示词。
 
-https://github.com/user-attachments/assets/da574eec-c19f-41d3-9362-d6a9775fabf6
+<video controls preload="none" src="https://github.com/user-attachments/assets/da574eec-c19f-41d3-9362-d6a9775fabf6" width="840"></video>
 
 </details>
 
@@ -830,7 +830,7 @@ https://github.com/user-attachments/assets/da574eec-c19f-41d3-9362-d6a9775fabf6
 
 原帖未公开提示词。作者让 Claude Opus 5.5 创作钢琴音乐，并使用 JavaScript 绘制动画。
 
-https://github.com/user-attachments/assets/55ae67ac-9f34-4617-b74c-7dfb3047cb04
+<video controls preload="none" src="https://github.com/user-attachments/assets/55ae67ac-9f34-4617-b74c-7dfb3047cb04" width="840"></video>
 
 </details>
 
@@ -841,7 +841,7 @@ https://github.com/user-attachments/assets/55ae67ac-9f34-4617-b74c-7dfb3047cb04
 
 原帖未公开提示词。作者说明：Opus 5.5 把 Claude Code 会话转成视频，自写 Python 引擎、制作 Blender 三维镜头、音乐并渲染900帧。
 
-https://github.com/user-attachments/assets/d1415da8-a8d1-4b7a-82e8-558f305620c1
+<video controls preload="none" src="https://github.com/user-attachments/assets/d1415da8-a8d1-4b7a-82e8-558f305620c1" width="840"></video>
 
 </details>
 
@@ -852,7 +852,7 @@ https://github.com/user-attachments/assets/d1415da8-a8d1-4b7a-82e8-558f305620c1
 
 原帖未公开提示词。作者说明：作者用 Opus 5.5 和纯 JavaScript 为此前设计的角色制作动画，输入是若干 JPG 图像。
 
-https://github.com/user-attachments/assets/779c41d6-991b-487b-a566-936e5c9eedad
+<video controls preload="none" src="https://github.com/user-attachments/assets/779c41d6-991b-487b-a566-936e5c9eedad" width="840"></video>
 
 </details>
 
@@ -865,11 +865,11 @@ https://github.com/user-attachments/assets/779c41d6-991b-487b-a566-936e5c9eedad
 
 第 1 / 2 段
 
-https://github.com/user-attachments/assets/38408ad4-e52c-4eec-ab48-38bc8aaa7beb
+<video controls preload="none" src="https://github.com/user-attachments/assets/38408ad4-e52c-4eec-ab48-38bc8aaa7beb" width="840"></video>
 
 第 2 / 2 段
 
-https://github.com/user-attachments/assets/cb7bac98-e823-41cc-b1ed-e96f6c1a038a
+<video controls preload="none" src="https://github.com/user-attachments/assets/cb7bac98-e823-41cc-b1ed-e96f6c1a038a" width="840"></video>
 
 </details>
 
@@ -882,11 +882,11 @@ https://github.com/user-attachments/assets/cb7bac98-e823-41cc-b1ed-e96f6c1a038a
 
 第 1 / 2 段
 
-https://github.com/user-attachments/assets/a01c93e6-0167-4d2f-83aa-8a5021ad76f1
+<video controls preload="none" src="https://github.com/user-attachments/assets/a01c93e6-0167-4d2f-83aa-8a5021ad76f1" width="840"></video>
 
 第 2 / 2 段
 
-https://github.com/user-attachments/assets/255f83c1-d6cc-483c-be1b-c537ba8a988f
+<video controls preload="none" src="https://github.com/user-attachments/assets/255f83c1-d6cc-483c-be1b-c537ba8a988f" width="840"></video>
 
 </details>
 
@@ -897,7 +897,7 @@ https://github.com/user-attachments/assets/255f83c1-d6cc-483c-be1b-c537ba8a988f
 
 原帖未公开提示词。发帖人介绍一位开发者给 Claude Code 提供一条提示和10美元外部 API 预算的案例，称 Opus 5.5 约80分钟后完成60秒动画，包含剧本、画面、旁白和8种 API 的调用。
 
-https://github.com/user-attachments/assets/c9a8e1e4-61f2-40bd-b9cd-ca18f994d124
+<video controls preload="none" src="https://github.com/user-attachments/assets/c9a8e1e4-61f2-40bd-b9cd-ca18f994d124" width="840"></video>
 
 </details>
 
@@ -910,15 +910,15 @@ https://github.com/user-attachments/assets/c9a8e1e4-61f2-40bd-b9cd-ca18f994d124
 
 第 1 / 3 段
 
-https://github.com/user-attachments/assets/06551b6d-4375-46a7-a01a-2d2065378c4b
+<video controls preload="none" src="https://github.com/user-attachments/assets/06551b6d-4375-46a7-a01a-2d2065378c4b" width="840"></video>
 
 第 2 / 3 段
 
-https://github.com/user-attachments/assets/5fd1e312-d1f8-4045-aeb1-eb81565991ca
+<video controls preload="none" src="https://github.com/user-attachments/assets/5fd1e312-d1f8-4045-aeb1-eb81565991ca" width="840"></video>
 
 第 3 / 3 段
 
-https://github.com/user-attachments/assets/27085fcc-4485-4e8e-ae1c-73f400983e0b
+<video controls preload="none" src="https://github.com/user-attachments/assets/27085fcc-4485-4e8e-ae1c-73f400983e0b" width="840"></video>
 
 </details>
 
@@ -931,19 +931,19 @@ https://github.com/user-attachments/assets/27085fcc-4485-4e8e-ae1c-73f400983e0b
 
 第 1 / 4 段
 
-https://github.com/user-attachments/assets/b2353df4-0a07-4116-a1ac-3d7bfe2f428b
+<video controls preload="none" src="https://github.com/user-attachments/assets/b2353df4-0a07-4116-a1ac-3d7bfe2f428b" width="840"></video>
 
 第 2 / 4 段
 
-https://github.com/user-attachments/assets/6235e3ce-6dd7-4dec-beb5-90690319bdb3
+<video controls preload="none" src="https://github.com/user-attachments/assets/6235e3ce-6dd7-4dec-beb5-90690319bdb3" width="840"></video>
 
 第 3 / 4 段
 
-https://github.com/user-attachments/assets/a5da1ba5-2d2f-4dc7-98de-319fefe67a09
+<video controls preload="none" src="https://github.com/user-attachments/assets/a5da1ba5-2d2f-4dc7-98de-319fefe67a09" width="840"></video>
 
 第 4 / 4 段
 
-https://github.com/user-attachments/assets/4b315f44-3289-498d-9648-409d0e355159
+<video controls preload="none" src="https://github.com/user-attachments/assets/4b315f44-3289-498d-9648-409d0e355159" width="840"></video>
 
 </details>
 
@@ -956,11 +956,11 @@ https://github.com/user-attachments/assets/4b315f44-3289-498d-9648-409d0e355159
 
 第 1 / 2 段
 
-https://github.com/user-attachments/assets/52c1465f-2f4f-4824-afa7-64b7fcd22e25
+<video controls preload="none" src="https://github.com/user-attachments/assets/52c1465f-2f4f-4824-afa7-64b7fcd22e25" width="840"></video>
 
 第 2 / 2 段
 
-https://github.com/user-attachments/assets/cc9fc774-a73b-4dc8-9b9a-7af40bc5baab
+<video controls preload="none" src="https://github.com/user-attachments/assets/cc9fc774-a73b-4dc8-9b9a-7af40bc5baab" width="840"></video>
 
 </details>
 
@@ -971,7 +971,7 @@ https://github.com/user-attachments/assets/cc9fc774-a73b-4dc8-9b9a-7af40bc5baab
 
 原帖未公开提示词。作者说明：Claude Opus 5.5 在约45分钟内制作78秒动画电影，只有一个 index.html，不使用图片、视频文件或库，由 JavaScript、Canvas 2D 和 Web Audio 生成画面与声音。
 
-https://github.com/user-attachments/assets/1049fcf1-46dc-4462-8286-8c5352edf763
+<video controls preload="none" src="https://github.com/user-attachments/assets/1049fcf1-46dc-4462-8286-8c5352edf763" width="840"></video>
 
 </details>
 
@@ -982,7 +982,7 @@ https://github.com/user-attachments/assets/1049fcf1-46dc-4462-8286-8c5352edf763
 
 原帖未公开提示词。作者说明：作者让 Claude Opus 5.5 把新西兰旅行照片转成丙烯画风格，并用 JavaScript 绘制。
 
-https://github.com/user-attachments/assets/70e9866b-1d38-4aa6-acfd-7bb274026c3d
+<video controls preload="none" src="https://github.com/user-attachments/assets/70e9866b-1d38-4aa6-acfd-7bb274026c3d" width="840"></video>
 
 </details>
 
@@ -993,7 +993,7 @@ https://github.com/user-attachments/assets/70e9866b-1d38-4aa6-acfd-7bb274026c3d
 
 原帖未公开提示词。作者说明：Opus 5.5 自己写故事、绘制每一帧并制作音乐，完全用 JavaScript、无图片素材，作品名为“Small Print”。
 
-https://github.com/user-attachments/assets/099c22d0-8613-4c6a-954b-5053926451d1
+<video controls preload="none" src="https://github.com/user-attachments/assets/099c22d0-8613-4c6a-954b-5053926451d1" width="840"></video>
 
 </details>
 
@@ -1004,7 +1004,7 @@ https://github.com/user-attachments/assets/099c22d0-8613-4c6a-954b-5053926451d1
 
 原帖未公开提示词。作者说明：Opus 5.5 用 JavaScript 绘制动画的每一帧，故事围绕镇上居民向 Claude 提出请求以及一个女孩提出“你爱什么”展开。
 
-https://github.com/user-attachments/assets/37058fed-da43-423d-90cf-cd6c65a10f51
+<video controls preload="none" src="https://github.com/user-attachments/assets/37058fed-da43-423d-90cf-cd6c65a10f51" width="840"></video>
 
 </details>
 
@@ -1015,7 +1015,7 @@ https://github.com/user-attachments/assets/37058fed-da43-423d-90cf-cd6c65a10f51
 
 原帖未公开提示词。制作说明：作者让 Claude Opus 5.5 把从出生第0天到现在的生命做成动画；没有视频模型或图片，每一帧都是 JavaScript 绘制的笔触。
 
-https://github.com/user-attachments/assets/6e91e72e-bcf7-437f-a4c5-4ad012bd1371
+<video controls preload="none" src="https://github.com/user-attachments/assets/6e91e72e-bcf7-437f-a4c5-4ad012bd1371" width="840"></video>
 
 </details>
 
@@ -1033,11 +1033,11 @@ https://github.com/user-attachments/assets/6e91e72e-bcf7-437f-a4c5-4ad012bd1371
 
 第 1 / 2 段
 
-https://github.com/user-attachments/assets/1bcc71d6-c10d-40ac-be75-1e53306b7124
+<video controls preload="none" src="https://github.com/user-attachments/assets/1bcc71d6-c10d-40ac-be75-1e53306b7124" width="840"></video>
 
 第 2 / 2 段
 
-https://github.com/user-attachments/assets/6e349d92-157d-4444-b75d-b6d432763e58
+<video controls preload="none" src="https://github.com/user-attachments/assets/6e349d92-157d-4444-b75d-b6d432763e58" width="840"></video>
 
 </details>
 
@@ -1048,7 +1048,7 @@ https://github.com/user-attachments/assets/6e349d92-157d-4444-b75d-b6d432763e58
 
 原帖称 Opus 5.5 生成了一支关于自由电子激光（FEL）的教育视频，使用一个提示并工作了一小时以上。
 
-https://github.com/user-attachments/assets/8bf708d8-d16d-49b4-9881-0f53526fedc1
+<video controls preload="none" src="https://github.com/user-attachments/assets/8bf708d8-d16d-49b4-9881-0f53526fedc1" width="840"></video>
 
 </details>
 
@@ -1059,7 +1059,7 @@ https://github.com/user-attachments/assets/8bf708d8-d16d-49b4-9881-0f53526fedc1
 
 原帖展示 Opus 5.5 制作的扩散模型图解动画，是该作者系列内容的续作。
 
-https://github.com/user-attachments/assets/7f60ff03-f7b1-473f-8365-2008c7455f38
+<video controls preload="none" src="https://github.com/user-attachments/assets/7f60ff03-f7b1-473f-8365-2008c7455f38" width="840"></video>
 
 </details>
 
@@ -1072,27 +1072,27 @@ https://github.com/user-attachments/assets/7f60ff03-f7b1-473f-8365-2008c7455f38
 
 第 1 / 6 段
 
-https://github.com/user-attachments/assets/c2106e8e-14d4-4b6e-94ba-e61d81cf7b0c
+<video controls preload="none" src="https://github.com/user-attachments/assets/c2106e8e-14d4-4b6e-94ba-e61d81cf7b0c" width="840"></video>
 
 第 2 / 6 段
 
-https://github.com/user-attachments/assets/7802fb64-9d66-400a-8f58-0fb7c5907e6a
+<video controls preload="none" src="https://github.com/user-attachments/assets/7802fb64-9d66-400a-8f58-0fb7c5907e6a" width="840"></video>
 
 第 3 / 6 段
 
-https://github.com/user-attachments/assets/405f13ee-ef3b-4d40-a31d-6a4377c756a0
+<video controls preload="none" src="https://github.com/user-attachments/assets/405f13ee-ef3b-4d40-a31d-6a4377c756a0" width="840"></video>
 
 第 4 / 6 段
 
-https://github.com/user-attachments/assets/474ee573-8e4f-446d-9648-d50d07dd5344
+<video controls preload="none" src="https://github.com/user-attachments/assets/474ee573-8e4f-446d-9648-d50d07dd5344" width="840"></video>
 
 第 5 / 6 段
 
-https://github.com/user-attachments/assets/6e3e45c9-a0fd-402a-be37-7b56af0ad84f
+<video controls preload="none" src="https://github.com/user-attachments/assets/6e3e45c9-a0fd-402a-be37-7b56af0ad84f" width="840"></video>
 
 第 6 / 6 段
 
-https://github.com/user-attachments/assets/19d27719-0a80-4dc2-ab07-b409057d53d7
+<video controls preload="none" src="https://github.com/user-attachments/assets/19d27719-0a80-4dc2-ab07-b409057d53d7" width="840"></video>
 
 </details>
 
@@ -1103,7 +1103,7 @@ https://github.com/user-attachments/assets/19d27719-0a80-4dc2-ab07-b409057d53d7
 
 原帖说明作者用 Opus 5.5 了解重训时哪些肌群参与发力，并展示相关视频。
 
-https://github.com/user-attachments/assets/4cbafd3e-6b9c-44c6-9f8f-8ebb9aad6b19
+<video controls preload="none" src="https://github.com/user-attachments/assets/4cbafd3e-6b9c-44c6-9f8f-8ebb9aad6b19" width="840"></video>
 
 </details>
 
@@ -1116,15 +1116,15 @@ https://github.com/user-attachments/assets/4cbafd3e-6b9c-44c6-9f8f-8ebb9aad6b19
 
 第 1 / 3 段
 
-https://github.com/user-attachments/assets/aeb27a29-e0c4-4446-81c1-a9fe70b6bfc9
+<video controls preload="none" src="https://github.com/user-attachments/assets/aeb27a29-e0c4-4446-81c1-a9fe70b6bfc9" width="840"></video>
 
 第 2 / 3 段
 
-https://github.com/user-attachments/assets/16f03ce8-93ad-4ee2-b0d2-4e0e4e2637a3
+<video controls preload="none" src="https://github.com/user-attachments/assets/16f03ce8-93ad-4ee2-b0d2-4e0e4e2637a3" width="840"></video>
 
 第 3 / 3 段
 
-https://github.com/user-attachments/assets/b127e5e2-e03a-4311-80f5-a2c71cc95921
+<video controls preload="none" src="https://github.com/user-attachments/assets/b127e5e2-e03a-4311-80f5-a2c71cc95921" width="840"></video>
 
 </details>
 
@@ -1135,7 +1135,7 @@ https://github.com/user-attachments/assets/b127e5e2-e03a-4311-80f5-a2c71cc95921
 
 原帖称作者让 Opus 5.5 制作一支喜爱的海外电视剧介绍视频。
 
-https://github.com/user-attachments/assets/4f3bc6f2-ed42-4d5c-a76e-6c703e922605
+<video controls preload="none" src="https://github.com/user-attachments/assets/4f3bc6f2-ed42-4d5c-a76e-6c703e922605" width="840"></video>
 
 </details>
 
@@ -1146,7 +1146,7 @@ https://github.com/user-attachments/assets/4f3bc6f2-ed42-4d5c-a76e-6c703e922605
 
 原帖称用一个简单提示让 Opus 5.5 制作幕府主题视频。
 
-https://github.com/user-attachments/assets/bfd67adf-817e-44e6-887a-b05fed24f32e
+<video controls preload="none" src="https://github.com/user-attachments/assets/bfd67adf-817e-44e6-887a-b05fed24f32e" width="840"></video>
 
 </details>
 
@@ -1157,7 +1157,7 @@ https://github.com/user-attachments/assets/bfd67adf-817e-44e6-887a-b05fed24f32e
 
 原帖公开日文提示词，要求制作从地球恐龙时代到绳文时代的教育性动态图形视频，使用日语并重视视觉演出。
 
-https://github.com/user-attachments/assets/3f279dcb-568e-40c6-9fcc-b0ee40d613f0
+<video controls preload="none" src="https://github.com/user-attachments/assets/3f279dcb-568e-40c6-9fcc-b0ee40d613f0" width="840"></video>
 
 </details>
 
@@ -1168,7 +1168,7 @@ https://github.com/user-attachments/assets/3f279dcb-568e-40c6-9fcc-b0ee40d613f0
 
 原帖未公开提示词。作者说明：用 Claude Code 与 Opus 5.5 制作日语版特殊相对论动画，以纸张拼贴视觉解释双生子佯谬，BGM 和音效由 JavaScript 生成。
 
-https://github.com/user-attachments/assets/6ad370e4-f4c3-4892-8e81-68c45f14fc8e
+<video controls preload="none" src="https://github.com/user-attachments/assets/6ad370e4-f4c3-4892-8e81-68c45f14fc8e" width="840"></video>
 
 </details>
 
@@ -1179,7 +1179,7 @@ https://github.com/user-attachments/assets/6ad370e4-f4c3-4892-8e81-68c45f14fc8e
 
 原帖未公开提示词。作者说明：作者用 Opus 5.5 制作一支关于自动化后院高架花床的三维教程。
 
-https://github.com/user-attachments/assets/7c655fce-eab1-46ac-9c42-85c5d0075f26
+<video controls preload="none" src="https://github.com/user-attachments/assets/7c655fce-eab1-46ac-9c42-85c5d0075f26" width="840"></video>
 
 </details>
 
@@ -1190,7 +1190,7 @@ https://github.com/user-attachments/assets/7c655fce-eab1-46ac-9c42-85c5d0075f26
 
 原帖未公开提示词。作者说明：作者让 Opus 5.5 用任意工具制作一支解释 AI 是什么的动画视频，并称作品适合帮助初学者理解。
 
-https://github.com/user-attachments/assets/fd5cf1b3-3b42-41aa-ace5-a865f17ad331
+<video controls preload="none" src="https://github.com/user-attachments/assets/fd5cf1b3-3b42-41aa-ace5-a865f17ad331" width="840"></video>
 
 </details>
 
@@ -1203,23 +1203,23 @@ https://github.com/user-attachments/assets/fd5cf1b3-3b42-41aa-ace5-a865f17ad331
 
 第 1 / 5 段
 
-https://github.com/user-attachments/assets/44972751-48d2-40cd-9e27-dafb9e56a51e
+<video controls preload="none" src="https://github.com/user-attachments/assets/44972751-48d2-40cd-9e27-dafb9e56a51e" width="840"></video>
 
 第 2 / 5 段
 
-https://github.com/user-attachments/assets/71d50b81-9549-4027-85bc-e0d1d5ea7e58
+<video controls preload="none" src="https://github.com/user-attachments/assets/71d50b81-9549-4027-85bc-e0d1d5ea7e58" width="840"></video>
 
 第 3 / 5 段
 
-https://github.com/user-attachments/assets/353aec84-b9b6-4bba-8ff1-319d8ab9cb9d
+<video controls preload="none" src="https://github.com/user-attachments/assets/353aec84-b9b6-4bba-8ff1-319d8ab9cb9d" width="840"></video>
 
 第 4 / 5 段
 
-https://github.com/user-attachments/assets/c41ae80e-5e36-44a1-9821-c83f6e691b24
+<video controls preload="none" src="https://github.com/user-attachments/assets/c41ae80e-5e36-44a1-9821-c83f6e691b24" width="840"></video>
 
 第 5 / 5 段
 
-https://github.com/user-attachments/assets/1b5e730a-0eee-4a66-a066-20246e52114a
+<video controls preload="none" src="https://github.com/user-attachments/assets/1b5e730a-0eee-4a66-a066-20246e52114a" width="840"></video>
 
 </details>
 
@@ -1230,7 +1230,7 @@ https://github.com/user-attachments/assets/1b5e730a-0eee-4a66-a066-20246e52114a
 
 原帖未公开提示词。作者说明：Opus 5.5 用 JavaScript 制作以旋转轴为主题、回顾工程历史的动画，并包含声音。
 
-https://github.com/user-attachments/assets/a9cf44f5-b7ed-412a-9006-72784b2d13ed
+<video controls preload="none" src="https://github.com/user-attachments/assets/a9cf44f5-b7ed-412a-9006-72784b2d13ed" width="840"></video>
 
 </details>
 
@@ -1241,7 +1241,7 @@ https://github.com/user-attachments/assets/a9cf44f5-b7ed-412a-9006-72784b2d13ed
 
 原帖公开提示词，要求 Opus 5.5 用 JavaScript 或 HTML 渲染食谱动态图形。
 
-https://github.com/user-attachments/assets/9b985886-45fb-4454-a829-67778edf1c16
+<video controls preload="none" src="https://github.com/user-attachments/assets/9b985886-45fb-4454-a829-67778edf1c16" width="840"></video>
 
 </details>
 
@@ -1252,7 +1252,7 @@ https://github.com/user-attachments/assets/9b985886-45fb-4454-a829-67778edf1c16
 
 原帖未公开提示词。作者说明：作者让 Opus 5.5 制作一支像素艺术风格的神经网络训练动画。
 
-https://github.com/user-attachments/assets/621fc194-304c-444a-b24f-c9e7511fe6ac
+<video controls preload="none" src="https://github.com/user-attachments/assets/621fc194-304c-444a-b24f-c9e7511fe6ac" width="840"></video>
 
 </details>
 
@@ -1265,15 +1265,15 @@ https://github.com/user-attachments/assets/621fc194-304c-444a-b24f-c9e7511fe6ac
 
 第 1 / 3 段
 
-https://github.com/user-attachments/assets/9ebbcfd9-8a93-42e1-ac81-04f06aec2fbe
+<video controls preload="none" src="https://github.com/user-attachments/assets/9ebbcfd9-8a93-42e1-ac81-04f06aec2fbe" width="840"></video>
 
 第 2 / 3 段
 
-https://github.com/user-attachments/assets/981db6ec-ebbc-47cf-9850-c428ff026412
+<video controls preload="none" src="https://github.com/user-attachments/assets/981db6ec-ebbc-47cf-9850-c428ff026412" width="840"></video>
 
 第 3 / 3 段
 
-https://github.com/user-attachments/assets/249a5515-d663-4a04-869a-50f5f6359dd1
+<video controls preload="none" src="https://github.com/user-attachments/assets/249a5515-d663-4a04-869a-50f5f6359dd1" width="840"></video>
 
 </details>
 
@@ -1286,23 +1286,23 @@ https://github.com/user-attachments/assets/249a5515-d663-4a04-869a-50f5f6359dd1
 
 第 1 / 5 段
 
-https://github.com/user-attachments/assets/7ddb487f-f78f-410f-98fc-f1e2cbf13ceb
+<video controls preload="none" src="https://github.com/user-attachments/assets/7ddb487f-f78f-410f-98fc-f1e2cbf13ceb" width="840"></video>
 
 第 2 / 5 段
 
-https://github.com/user-attachments/assets/a68c1a7d-f6fb-4483-b004-a021116b0c86
+<video controls preload="none" src="https://github.com/user-attachments/assets/a68c1a7d-f6fb-4483-b004-a021116b0c86" width="840"></video>
 
 第 3 / 5 段
 
-https://github.com/user-attachments/assets/5e628cb4-a79b-4f2c-818d-1c8b0da77609
+<video controls preload="none" src="https://github.com/user-attachments/assets/5e628cb4-a79b-4f2c-818d-1c8b0da77609" width="840"></video>
 
 第 4 / 5 段
 
-https://github.com/user-attachments/assets/6637fac7-2514-4044-bce2-597732e3a69c
+<video controls preload="none" src="https://github.com/user-attachments/assets/6637fac7-2514-4044-bce2-597732e3a69c" width="840"></video>
 
 第 5 / 5 段
 
-https://github.com/user-attachments/assets/b835e736-1394-4e77-abb8-c7153f39e631
+<video controls preload="none" src="https://github.com/user-attachments/assets/b835e736-1394-4e77-abb8-c7153f39e631" width="840"></video>
 
 </details>
 
@@ -1315,35 +1315,35 @@ https://github.com/user-attachments/assets/b835e736-1394-4e77-abb8-c7153f39e631
 
 第 1 / 8 段
 
-https://github.com/user-attachments/assets/66216b83-e576-4a99-a752-4c5a63e3d13f
+<video controls preload="none" src="https://github.com/user-attachments/assets/66216b83-e576-4a99-a752-4c5a63e3d13f" width="840"></video>
 
 第 2 / 8 段
 
-https://github.com/user-attachments/assets/0dcdbca0-eae8-4807-aaa2-5cf612e36160
+<video controls preload="none" src="https://github.com/user-attachments/assets/0dcdbca0-eae8-4807-aaa2-5cf612e36160" width="840"></video>
 
 第 3 / 8 段
 
-https://github.com/user-attachments/assets/f217d263-a4a0-4fe8-a8d1-f9cc7eacd058
+<video controls preload="none" src="https://github.com/user-attachments/assets/f217d263-a4a0-4fe8-a8d1-f9cc7eacd058" width="840"></video>
 
 第 4 / 8 段
 
-https://github.com/user-attachments/assets/55e39d4c-432e-4c9d-a960-b0bcbce04b26
+<video controls preload="none" src="https://github.com/user-attachments/assets/55e39d4c-432e-4c9d-a960-b0bcbce04b26" width="840"></video>
 
 第 5 / 8 段
 
-https://github.com/user-attachments/assets/776b33e4-ff03-4739-9462-4cc42f1b9fa6
+<video controls preload="none" src="https://github.com/user-attachments/assets/776b33e4-ff03-4739-9462-4cc42f1b9fa6" width="840"></video>
 
 第 6 / 8 段
 
-https://github.com/user-attachments/assets/27dd801d-92e4-4a4e-b66d-f1d00f1f8b98
+<video controls preload="none" src="https://github.com/user-attachments/assets/27dd801d-92e4-4a4e-b66d-f1d00f1f8b98" width="840"></video>
 
 第 7 / 8 段
 
-https://github.com/user-attachments/assets/cbd54f04-7b2b-4d6e-a5c8-b4d0719d1b5e
+<video controls preload="none" src="https://github.com/user-attachments/assets/cbd54f04-7b2b-4d6e-a5c8-b4d0719d1b5e" width="840"></video>
 
 第 8 / 8 段
 
-https://github.com/user-attachments/assets/f8d608e9-96f6-4bd1-86ce-6fe375dfa5e1
+<video controls preload="none" src="https://github.com/user-attachments/assets/f8d608e9-96f6-4bd1-86ce-6fe375dfa5e1" width="840"></video>
 
 </details>
 
@@ -1354,7 +1354,7 @@ https://github.com/user-attachments/assets/f8d608e9-96f6-4bd1-86ce-6fe375dfa5e1
 
 原帖未公开提示词。制作说明：作者让 Opus 5.5 一次性制作解释 Leidenfrost effect 的手绘白板动画，旁白和音乐也在同一轮加入。
 
-https://github.com/user-attachments/assets/6d8e602d-48d6-476f-877e-a045be253ede
+<video controls preload="none" src="https://github.com/user-attachments/assets/6d8e602d-48d6-476f-877e-a045be253ede" width="840"></video>
 
 </details>
 
@@ -1365,7 +1365,7 @@ https://github.com/user-attachments/assets/6d8e602d-48d6-476f-877e-a045be253ede
 
 原帖公开英文提示词，说明让 Claude Opus 5.5 用九种风格变化解释递归，并保持自指和快速节奏。
 
-https://github.com/user-attachments/assets/4e918b66-d854-4426-893b-b2eadc5397d1
+<video controls preload="none" src="https://github.com/user-attachments/assets/4e918b66-d854-4426-893b-b2eadc5397d1" width="840"></video>
 
 </details>
 
@@ -1376,7 +1376,7 @@ https://github.com/user-attachments/assets/4e918b66-d854-4426-893b-b2eadc5397d1
 
 原帖公开中文提示词，说明使用 Opus 5.5 和 Manim 制作导数教学视频，并使用 edge-tts 配音。
 
-https://github.com/user-attachments/assets/765c5f54-b8cb-4d30-93b9-890782d2f025
+<video controls preload="none" src="https://github.com/user-attachments/assets/765c5f54-b8cb-4d30-93b9-890782d2f025" width="840"></video>
 
 </details>
 
@@ -1392,7 +1392,7 @@ https://github.com/user-attachments/assets/765c5f54-b8cb-4d30-93b9-890782d2f025
 
 原帖展示 Opus 5.5 根据照片生成的高细节卡通渲染三维场景。
 
-https://github.com/user-attachments/assets/cb61786f-535b-4488-bd92-6b2f59f742b4
+<video controls preload="none" src="https://github.com/user-attachments/assets/cb61786f-535b-4488-bd92-6b2f59f742b4" width="840"></video>
 
 </details>
 
@@ -1405,19 +1405,19 @@ https://github.com/user-attachments/assets/cb61786f-535b-4488-bd92-6b2f59f742b4
 
 第 1 / 4 段
 
-https://github.com/user-attachments/assets/c645e411-5b04-49b4-8a91-3a826e40dd5c
+<video controls preload="none" src="https://github.com/user-attachments/assets/c645e411-5b04-49b4-8a91-3a826e40dd5c" width="840"></video>
 
 第 2 / 4 段
 
-https://github.com/user-attachments/assets/c64be208-0b55-47b1-9b4f-7098aa1822e6
+<video controls preload="none" src="https://github.com/user-attachments/assets/c64be208-0b55-47b1-9b4f-7098aa1822e6" width="840"></video>
 
 第 3 / 4 段
 
-https://github.com/user-attachments/assets/05f7a8bf-0389-4fb8-a785-99aa0ba8b693
+<video controls preload="none" src="https://github.com/user-attachments/assets/05f7a8bf-0389-4fb8-a785-99aa0ba8b693" width="840"></video>
 
 第 4 / 4 段
 
-https://github.com/user-attachments/assets/44151427-b73e-4d6f-b3d7-1b2833cc3c2a
+<video controls preload="none" src="https://github.com/user-attachments/assets/44151427-b73e-4d6f-b3d7-1b2833cc3c2a" width="840"></video>
 
 </details>
 
@@ -1428,7 +1428,7 @@ https://github.com/user-attachments/assets/44151427-b73e-4d6f-b3d7-1b2833cc3c2a
 
 原帖说明作者把图纸交给 Opus 5.5，再在 Blender 中转成视频，并提供了提示词外链。
 
-https://github.com/user-attachments/assets/6dc80167-2362-4933-b1a6-da57196866ac
+<video controls preload="none" src="https://github.com/user-attachments/assets/6dc80167-2362-4933-b1a6-da57196866ac" width="840"></video>
 
 </details>
 
@@ -1439,7 +1439,7 @@ https://github.com/user-attachments/assets/6dc80167-2362-4933-b1a6-da57196866ac
 
 原帖展示 Clawd 与 Grok Bot 的宇宙对比视频，并说明作品由 Opus 5.5 设计。
 
-https://github.com/user-attachments/assets/b39998d3-7f69-4185-b2b8-b3f92c8f668a
+<video controls preload="none" src="https://github.com/user-attachments/assets/b39998d3-7f69-4185-b2b8-b3f92c8f668a" width="840"></video>
 
 </details>
 
@@ -1450,7 +1450,7 @@ https://github.com/user-attachments/assets/b39998d3-7f69-4185-b2b8-b3f92c8f668a
 
 原帖未公开提示词。作者说明：用 Opus 5.5 制作 NVIDIA Blackwell GPU 三维动画，镜头从数据中心进入服务器、显卡、芯片、晶体管直到单个硅原子；作品在单一 HTML 浏览器中运行。
 
-https://github.com/user-attachments/assets/20a330a0-dc3c-442c-86e6-b4a7d3f1cb59
+<video controls preload="none" src="https://github.com/user-attachments/assets/20a330a0-dc3c-442c-86e6-b4a7d3f1cb59" width="840"></video>
 
 </details>
 
@@ -1461,7 +1461,7 @@ https://github.com/user-attachments/assets/20a330a0-dc3c-442c-86e6-b4a7d3f1cb59
 
 原帖未公开提示词。作者说明：使用 Blender 和 Opus 5.5，从一条提示生成1906年地震前旧金山 Market Street 的历史准确三维场景。
 
-https://github.com/user-attachments/assets/9979665b-ec46-4028-a68b-7f35a4d090d7
+<video controls preload="none" src="https://github.com/user-attachments/assets/9979665b-ec46-4028-a68b-7f35a4d090d7" width="840"></video>
 
 </details>
 
@@ -1474,11 +1474,11 @@ https://github.com/user-attachments/assets/9979665b-ec46-4028-a68b-7f35a4d090d7
 
 第 1 / 2 段
 
-https://github.com/user-attachments/assets/c7892e25-f297-4152-90c2-a186abefe17c
+<video controls preload="none" src="https://github.com/user-attachments/assets/c7892e25-f297-4152-90c2-a186abefe17c" width="840"></video>
 
 第 2 / 2 段
 
-https://github.com/user-attachments/assets/ec2a7f3e-2ed6-4e05-8872-0a007c427ef4
+<video controls preload="none" src="https://github.com/user-attachments/assets/ec2a7f3e-2ed6-4e05-8872-0a007c427ef4" width="840"></video>
 
 </details>
 
@@ -1489,7 +1489,7 @@ https://github.com/user-attachments/assets/ec2a7f3e-2ed6-4e05-8872-0a007c427ef4
 
 原帖未公开提示词。作者说明：作者让 Opus 5.5 在 Blender 中制作大型强子对撞机质子碰撞场景，从磁体隧道到探测器内部粒子爆发。
 
-https://github.com/user-attachments/assets/eea02605-307c-444a-b716-d7d5556aaa59
+<video controls preload="none" src="https://github.com/user-attachments/assets/eea02605-307c-444a-b716-d7d5556aaa59" width="840"></video>
 
 </details>
 
@@ -1500,7 +1500,7 @@ https://github.com/user-attachments/assets/eea02605-307c-444a-b716-d7d5556aaa59
 
 原帖未公开提示词。作者说明：作者用 Claude Opus 5.5、Three.js 和 TSL 从草图制作住宅三维体验，过程分为线稿、体块、细节和完成住宅四个阶段。
 
-https://github.com/user-attachments/assets/f49f9ef4-ebc3-4613-b616-db22501d444d
+<video controls preload="none" src="https://github.com/user-attachments/assets/f49f9ef4-ebc3-4613-b616-db22501d444d" width="840"></video>
 
 </details>
 
