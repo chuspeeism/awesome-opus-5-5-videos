@@ -1,5 +1,759 @@
 [
   {
+    "title": "镜头演变的未来感动效",
+    "summary": "作者用一句提示词让 Opus 5.5 制作镜头演变主题的未来感动态图形，并生成配乐；成片约 15 秒。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者用一句提示词让 Opus 5.5 制作镜头演变主题的未来感动态图形，并生成配乐；成片约 15 秒。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/sachingmt/status/2104077647206821899",
+    "sourceAuthor": "sachingmt",
+    "sourcePublishedAt": "2026-09-27T05:16:17+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/5ee2c9bf-a0d6-44b8-91cc-5686fd1bd709"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "HookLab 产品演示片再设计",
+    "summary": "作者把自己制作的 HookLab 演示视频交给 Opus 5.5，并仅要求“make this better”；模型约 15 分钟生成改版。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者把自己制作的 HookLab 演示视频交给 Opus 5.5，并仅要求“make this better”；模型约 15 分钟生成改版。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/_Gillex/status/2104077550720798756",
+    "sourceAuthor": "_Gillex",
+    "sourcePublishedAt": "2026-09-27T05:15:54+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/b0ae150d-27e9-4fb8-8316-ca301ae88aa0"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "无脚本一次生成的动态图形",
+    "summary": "作者称这支动态图形由 Opus 5.5 一次生成，没有预先构思或编写脚本。",
+    "prompt": "原帖未公开完整提示词。制作说明：一次生成动态图形视频。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/omarships/status/2104077185187254472",
+    "sourceAuthor": "omarships",
+    "sourcePublishedAt": "2026-09-27T05:14:27+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/3b7f3588-7469-4409-bb06-10d699e4664b"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "模拟器主题动态图形",
+    "summary": "作者称作品完全由 Opus 5.5 生成，主题是模拟器相关内容，并用于测试观众注意力。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者称作品完全由 Opus 5.5 生成，主题是模拟器相关内容，并用于测试观众注意力。",
+    "category": "知识与教学",
+    "sourceUrl": "https://x.com/enough_ahnaf/status/2104077025216729562",
+    "sourceAuthor": "enough_ahnaf",
+    "sourcePublishedAt": "2026-09-27T05:13:49+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/4f60a8ce-6a9a-4a49-b741-e6d24b6b16a6"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Omia 操作流程逐帧演示片",
+    "summary": "作者把真实 Omia 界面放进网页，按时间表驱动操作并逐帧渲染成 91 秒视频；配有合成旁白和程序生成配乐。",
+    "prompt": "原帖未公开完整提示词。制作说明：用网页复现 Omia 操作过程，按时间表逐帧渲染，并配旁白和程序生成音乐。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/xiaoerzhan/status/2104076374281510985",
+    "sourceAuthor": "xiaoerzhan",
+    "sourcePublishedAt": "2026-09-27T05:11:14+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/9b903e05-5873-4287-befb-a26d88e750aa"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Remotion 动效短片",
+    "summary": "作者称用 Claude Opus 5.5 制作了一支 Remotion 视频；原帖未说明主题。",
+    "prompt": "原帖未公开完整提示词。制作说明：使用 Remotion 制作视频。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/DustinDavis/status/2104075537228644806",
+    "sourceAuthor": "DustinDavis",
+    "sourcePublishedAt": "2026-09-27T05:07:54+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/d783ad95-6ede-47c2-9f3d-f9b29ede2d29"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "企鹅不会飞？",
+    "summary": "作者以 Opus 5.5 xhigh 制作了一支围绕“企鹅不会飞”主题的视频。",
+    "prompt": "原帖未公开完整提示词。制作说明：围绕企鹅主题制作动画视频。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/mahiro/status/2104075012126965950",
+    "sourceAuthor": "mahiro",
+    "sourcePublishedAt": "2026-09-27T05:05:49+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/8d4c7176-cfe5-4407-9be7-26577ae9dc17"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Truvad 创业项目广告片",
+    "summary": "作者称 Opus 5.5 用几行提示词为其创业项目 Truvad 制作广告视频。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者称 Opus 5.5 用几行提示词为其创业项目 Truvad 制作广告视频。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/Anuragkuma50233/status/2104074812276748449",
+    "sourceAuthor": "Anuragkuma50233",
+    "sourcePublishedAt": "2026-09-27T05:05:01+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/b2f3062e-6bce-4554-8ff5-27aaf3a5b454"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "AFK AI 音乐视频",
+    "summary": "作者让 Opus 5.5 为 AFK AI 制作音乐视频；歌曲和画面均由模型完成，一次生成约 25 分钟。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者让 Opus 5.5 为 AFK AI 制作音乐视频；歌曲和画面均由模型完成，一次生成约 25 分钟。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/dyobur/status/2104074643644850638",
+    "sourceAuthor": "dyobur",
+    "sourcePublishedAt": "2026-09-27T05:04:21+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/5d50a941-6c59-437c-a332-0ed0529d1751"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "三幅自画像与音乐盒配乐",
+    "summary": "Aiden 用 Opus 5.5 绘制并动画化三幅自画像，分别表现提灯穿门、河流寻谷和注意力聚焦，并写了音乐盒配乐。",
+    "prompt": "原帖未公开完整提示词。制作说明：绘制三幅自画像、制作动画并创作音乐盒配乐。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/StarlingMage/status/2104074583339061646",
+    "sourceAuthor": "StarlingMage",
+    "sourcePublishedAt": "2026-09-27T05:04:07+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/8ec3410f-752c-4d12-a1dd-da44cb396994"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "雨滴中的城市连续变焦",
+    "summary": "画面以单一着色器构成无尽城市，镜头从虚空连续推进到屋顶再返回；夕阳转夜，窗灯逐一亮起。",
+    "prompt": "原帖未公开完整提示词。制作说明：画面以单一着色器构成无尽城市，镜头从虚空连续推进到屋顶再返回；夕阳转夜，窗灯逐一亮起。",
+    "category": "三维与空间",
+    "sourceUrl": "https://x.com/ManasJoshi76254/status/2104074435196301574",
+    "sourceAuthor": "ManasJoshi76254",
+    "sourcePublishedAt": "2026-09-27T05:03:31+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/fdf65228-7e24-45cc-a2f3-6329d2f07f63"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Mailflare 产品宣传片",
+    "summary": "作者用 Claude Opus 5.5 为 Mailflare 制作宣传视频，耗时约 4.5 小时，并使用约 4.3 美元 fal 点数。",
+    "prompt": "原帖未公开完整提示词。制作说明：为 Mailflare 制作产品宣传视频。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/_trungpv/status/2104074256237932623",
+    "sourceAuthor": "_trungpv",
+    "sourcePublishedAt": "2026-09-27T05:02:49+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/ee2c800b-93d1-47a3-8110-ca95f115db32"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "My Cosmic Opus 音乐视频",
+    "summary": "作者把旧歌词配上音乐，再让 Opus 5.5 为歌曲制作视频。",
+    "prompt": "原帖未公开完整提示词。制作说明：依据歌曲和歌词制作音乐视频。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/eudaemonea/status/2104073345910378935",
+    "sourceAuthor": "eudaemonea",
+    "sourcePublishedAt": "2026-09-27T04:59:12+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/e31a0b35-0cce-460e-b4d4-a1a495e3d290"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Forever Fireflies 萤火虫记忆片段",
+    "summary": "作者为育儿记忆日志产品构想萤火虫场景；Opus 5.5 用代码绘制画面并制作音乐，经过数日往返调整。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者为育儿记忆日志产品构想萤火虫场景；Opus 5.5 用代码绘制画面并制作音乐，经过数日往返调整。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/jimbutlr/status/2104072812012916905",
+    "sourceAuthor": "jimbutlr",
+    "sourcePublishedAt": "2026-09-27T04:57:04+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/948a07ed-d4ac-496c-80c1-8fb967c78c28"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Motion harness 一镜生成动效",
+    "summary": "作者称这支视频由 Opus 5.5 配合 Motion harness 一次生成。",
+    "prompt": "原帖未公开完整提示词。制作说明：通过 Motion harness 一次生成动效视频。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/_adishj/status/2104071330878620041",
+    "sourceAuthor": "_adishj",
+    "sourcePublishedAt": "2026-09-27T04:51:11+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/b4ce1d44-6bb1-4fd4-b957-0f107cd4629c"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "N・AI to you 花朵主题音乐影像",
+    "summary": "作者以每日花卉帖文和图片为素材，让 Claude Opus 5.5 制作歌曲《N・AI to you》的动态影像。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者以每日花卉帖文和图片为素材，让 Claude Opus 5.5 制作歌曲《N・AI to you》的动态影像。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/Zone6Kyon/status/2104071157607809283",
+    "sourceAuthor": "Zone6Kyon",
+    "sourcePublishedAt": "2026-09-27T04:50:30+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/705d6cf6-5392-454d-9fd0-b89e78105e2b"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Justa 应用宣传片",
+    "summary": "Opus 5.5 在 iOS 模拟器中操作 Justa、录制屏幕、制作音乐并剪辑成应用宣传片。",
+    "prompt": "原帖未公开完整提示词。制作说明：操作应用模拟器，录屏、配乐并剪辑成宣传片。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/meheret55/status/2104070201058676975",
+    "sourceAuthor": "meheret55",
+    "sourcePublishedAt": "2026-09-27T04:46:42+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/fe5773ac-8f3f-43d5-b04b-79658cfb861f"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Me As Agent 项目发布片",
+    "summary": "作者使用 Claude Opus 5.5 的高档推理，为 Me As Agent 项目制作发布视频。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者使用 Claude Opus 5.5 的高档推理，为 Me As Agent 项目制作发布视频。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/yash_mittal_dev/status/2104070199683235943",
+    "sourceAuthor": "yash_mittal_dev",
+    "sourcePublishedAt": "2026-09-27T04:46:41+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/7cf524e8-b1f1-414d-a7c3-24dcccb13eab"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "虚构成员介绍动效",
+    "summary": "作者用 Opus 5.5 和 After Effects 制作虚构成员介绍用的动态图形。",
+    "prompt": "原帖未公开完整提示词。制作说明：用 After Effects 制作虚构成员介绍动态图形。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/Toarukanshiin/status/2104070145622896729",
+    "sourceAuthor": "Toarukanshiin",
+    "sourcePublishedAt": "2026-09-27T04:46:29+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/94b42331-2b90-4990-aa39-a559c56fb543"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "视频制作技能白板教学片",
+    "summary": "作者用白板讲解风格制作教学视频，介绍如何用 Lemo-Opuscar Skill（Opus 5.5）生成视频，并公开了提示词。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者用白板讲解风格制作教学视频，介绍如何用 Lemo-Opuscar Skill（Opus 5.5）生成视频，并公开了提示词。",
+    "category": "知识与教学",
+    "sourceUrl": "https://x.com/lemomo_ai/status/2104070024575242622",
+    "sourceAuthor": "lemomo_ai",
+    "sourcePublishedAt": "2026-09-27T04:46:00+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/5c1ccca1-6a58-48fe-aa2a-b81e43402889"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "雨天舞蹈歌词卡点片",
+    "summary": "作者用 Seedance 制作舞蹈素材，再让 Claude Opus 5.5 编排歌词与音乐卡点画面。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者用 Seedance 制作舞蹈素材，再让 Claude Opus 5.5 编排歌词与音乐卡点画面。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/Yuupapa_free/status/2104069709473669538",
+    "sourceAuthor": "Yuupapa_free",
+    "sourcePublishedAt": "2026-09-27T04:44:45+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/fa1ad60a-836d-4029-b469-05822e9f3575"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "弯曲光盘的黑洞影像",
+    "summary": "作品呈现带薄吸积盘的黑洞，远侧盘面因引力透镜效果弯到上方；作者称其由 Opus 5.5 自动生成。",
+    "prompt": "原帖未公开完整提示词。制作说明：作品呈现带薄吸积盘的黑洞，远侧盘面因引力透镜效果弯到上方；作者称其由 Opus 5.5 自动生成。",
+    "category": "三维与空间",
+    "sourceUrl": "https://x.com/The_MrAI/status/2104068960035713523",
+    "sourceAuthor": "The_MrAI",
+    "sourcePublishedAt": "2026-09-27T04:41:46+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/0de8f132-7533-49b9-b1c1-5970fce264dd"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Opus 5.5 产品视频作品",
+    "summary": "作者分享自己用 Opus 5.5 制作的产品视频。",
+    "prompt": "原帖未公开完整提示词。制作说明：制作产品宣传视频。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/okooo5km/status/2104068955853967700",
+    "sourceAuthor": "okooo5km",
+    "sourcePublishedAt": "2026-09-27T04:41:45+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/27e283b6-18d2-458c-b89d-67b529299d8b"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Steam 新游戏 60 秒动态新闻",
+    "summary": "作者用 Opus 5.5 自动制作每日 Steam 新游动态新闻，面向玩家介绍游戏看点，成片约 60 秒。",
+    "prompt": "原帖公开的完整提示词：9月25日～9月26日にSteamにリリースされたゲームの紹介ニュースを、ゲーマーの目線で各ゲームの面白そうなポイントをわかるように、見やすい約60秒ぐらいのモーショングラフィックスで作ってください",
+    "category": "知识与教学",
+    "sourceUrl": "https://x.com/gigabit_million/status/2104068536041959719",
+    "sourceAuthor": "gigabit_million",
+    "sourcePublishedAt": "2026-09-27T04:40:05+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/bceb5521-6956-4398-8777-9972af1feee9"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Muse 产品上市宣传片",
+    "summary": "作者使用 Claude Opus 5.5 为 Meta 的 Muse 制作 GTM 宣传视频。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者使用 Claude Opus 5.5 为 Meta 的 Muse 制作 GTM 宣传视频。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/AbhinavXJ/status/2104066000131862727",
+    "sourceAuthor": "AbhinavXJ",
+    "sourcePublishedAt": "2026-09-27T04:30:00+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/4c44ac50-77de-43a9-9f6c-9516557a9bf8"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Permadeath 33 次死亡代码重绘",
+    "summary": "作者让 Opus 5.5 用代码制作 Permadeath 视频，把片段中的 33 次死亡场景重新绘制。",
+    "prompt": "原帖未公开完整提示词。制作说明：根据死亡片段，用代码重绘并剪成视频。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/FrancoE114696/status/2104065338631405635",
+    "sourceAuthor": "FrancoE114696",
+    "sourcePublishedAt": "2026-09-27T04:27:23+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/0a0a4ea6-e606-4eaf-94ea-f487f48e3cfc"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "未发布产品宣传片",
+    "summary": "作者把自己去年开发但未发布的产品交给 Opus 5.5，生成产品发布宣传视频。",
+    "prompt": "原帖未公开完整提示词。制作说明：围绕已有产品制作发布宣传视频。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/kaif9998/status/2104064930345628076",
+    "sourceAuthor": "kaif9998",
+    "sourcePublishedAt": "2026-09-27T04:25:45+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/edaa2ef9-c332-4191-aa33-ce9b28694d13"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "40 秒竖屏视频自动剪辑",
+    "summary": "作者把旧竖屏素材交给 Claude Code（Opus 5.5），生成转写、跳剪、字幕、图解、配乐和宣传段落；以 Remotion/JavaScript 编排。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者把旧竖屏素材交给 Claude Code（Opus 5.5），生成转写、跳剪、字幕、图解、配乐和宣传段落；以 Remotion/JavaScript 编排。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/otsukaroom/status/2104064557216149982",
+    "sourceAuthor": "otsukaroom",
+    "sourcePublishedAt": "2026-09-27T04:24:16+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/b6e91b53-7d58-4df2-8425-acb6c6775427"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "宠物美容 SaaS 宣传片",
+    "summary": "作者用 Opus 5.5 为面向宠物美容巴士业务的 SaaS 制作宣传视频，约 30 分钟完成。",
+    "prompt": "原帖未公开完整提示词。制作说明：为宠物美容 SaaS 制作宣传片。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/Mikunzit/status/2104064305360744590",
+    "sourceAuthor": "Mikunzit",
+    "sourcePublishedAt": "2026-09-27T04:23:16+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/9bdadb47-24d8-40dd-9246-a0b45c44d1b2"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "AI 财务团队介绍视频",
+    "summary": "作者称 Opus 5.5 为 AI 财务团队赋予个性并制作相关视频；整个项目约花两小时。",
+    "prompt": "原帖未公开完整提示词。制作说明：为 AI 财务团队制作介绍视频。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/NiteshAjitDubey/status/2104063337902543307",
+    "sourceAuthor": "NiteshAjitDubey",
+    "sourcePublishedAt": "2026-09-27T04:19:26+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/af27ff57-3e7f-4210-a73f-2d6da7d92015"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "ChatSoon 15 秒应用讲解动画",
+    "summary": "作者让 Opus 5.5 用纯 HTML、CSS、JS 为 ChatSoon 应用生成 15 秒讲解动画。",
+    "prompt": "原帖未公开完整提示词。制作说明：以 HTML、CSS、JS 制作应用讲解动画。",
+    "category": "知识与教学",
+    "sourceUrl": "https://x.com/astroboysoup/status/2104063140371861770",
+    "sourceAuthor": "astroboysoup",
+    "sourcePublishedAt": "2026-09-27T04:18:38+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/09fb7474-2e80-43af-bdeb-8619dd979c28"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "《When AI Builds Itself》动画短片",
+    "summary": "Opus 5.5 将 Anthropic 文章改编成约三分钟动画，讲述 AI 编写生产代码的比例、任务时长变化和对齐议题。",
+    "prompt": "原帖未公开完整提示词。制作说明：Opus 5.5 将 Anthropic 文章改编成约三分钟动画，讲述 AI 编写生产代码的比例、任务时长变化和对齐议题。",
+    "category": "知识与教学",
+    "sourceUrl": "https://x.com/nicekate8888/status/2104063114677497856",
+    "sourceAuthor": "nicekate8888",
+    "sourcePublishedAt": "2026-09-27T04:18:32+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/32608da3-46ad-4467-b16b-904a23ebab8b"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Dial Up the Future Online 音乐视频",
+    "summary": "作者用 Opus 5.5 编写 C++ 逐帧绘制约 4 分钟 MV；画面从绿色终端逐步演变到全彩，呈现 1976 至 2026 年的色彩变化。",
+    "prompt": "原帖未公开完整提示词。制作说明：根据歌曲节拍与歌词时间表，用 C++ 逐帧绘制音乐视频。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/amanojak2024/status/2104062837228212282",
+    "sourceAuthor": "amanojak2024",
+    "sourcePublishedAt": "2026-09-27T04:17:26+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/0abf0047-691f-4050-bc1c-21340b32a6ce"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Wordfeel 美剧学英语宣传片",
+    "summary": "作者称 Wordfeel 的宣传视频由 Opus 5.5 制作，并与此前使用 Grok Bot 制作的视频对比播放数据。",
+    "prompt": "原帖未公开完整提示词。制作说明：为 Wordfeel 英语学习产品制作宣传视频。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/hx831126/status/2104061687527575568",
+    "sourceAuthor": "hx831126",
+    "sourcePublishedAt": "2026-09-27T04:12:52+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/183b7bd5-7877-4c3b-a77e-6e19673be977"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "代码生成的画面与配乐短片",
+    "summary": "作者称这段视频只用一句话生成，画面、动画、背景音乐和音效均由代码制作。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者称这段视频只用一句话生成，画面、动画、背景音乐和音效均由代码制作。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/AndyL5cc/status/2104060535415476361",
+    "sourceAuthor": "AndyL5cc",
+    "sourcePublishedAt": "2026-09-27T04:08:17+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/aaed2252-5076-42cb-b530-354c7526ca7a"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Cogito 六十秒短片",
+    "summary": "作者用 Opus 5.5 一次生成名为《Cogito》的 60 秒短片，制作过程约九小时。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者用 Opus 5.5 一次生成名为《Cogito》的 60 秒短片，制作过程约九小时。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/chrisjdimarco/status/2104060062495043943",
+    "sourceAuthor": "chrisjdimarco",
+    "sourcePublishedAt": "2026-09-27T04:06:25+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/4aa07592-d16d-48ab-b5ab-ae1901bf4218"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Gymflow 健身应用片头",
+    "summary": "作者发布由 Opus 5.5 制作的 Gymflow 应用介绍片，并附应用商店信息。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者发布由 Opus 5.5 制作的 Gymflow 应用介绍片，并附应用商店信息。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/hieuwu99/status/2104058977978098002",
+    "sourceAuthor": "hieuwu99",
+    "sourcePublishedAt": "2026-09-27T04:02:06+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/90615f4c-89f3-420d-b759-bf45a0cb2f7c"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "三千年种姓史与 Raga Bhairav",
+    "summary": "视频以 Raga Bhairav 为配乐，讲述从《梨俱吠陀》、国王、Ambedkar 运动到相关学者论争的三千年种姓史；作者注明使用 Opus 5.5。",
+    "prompt": "原帖未公开完整提示词。制作说明：围绕三千年种姓史制作配乐视频。",
+    "category": "知识与教学",
+    "sourceUrl": "https://x.com/soumitrashukla9/status/2104057586995614153",
+    "sourceAuthor": "soumitrashukla9",
+    "sourcePublishedAt": "2026-09-27T03:56:34+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/8e6b3119-1823-4130-b18a-90d66084f30d"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Locus 房产管理产品影片",
+    "summary": "作者用 Claude Code 制作 Locus 房产管理系统介绍视频，以纸张和合同的混乱转为有序系统为叙事，并配原创音乐与同步剪辑。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者用 Claude Code 制作 Locus 房产管理系统介绍视频，以纸张和合同的混乱转为有序系统为叙事，并配原创音乐与同步剪辑。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/juanpfgomes8/status/2104057509887553949",
+    "sourceAuthor": "juanpfgomes8",
+    "sourcePublishedAt": "2026-09-27T03:56:16+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/09ab547f-757c-4414-9316-7973ec3efa25"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "孟加拉语字幕家庭视频",
+    "summary": "作者用 Opus 5.5 为母亲编辑视频，并特别提到孟加拉语字幕准确。",
+    "prompt": "原帖未公开完整提示词。制作说明：编辑家庭视频并生成孟加拉语字幕。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/Souradip3000/status/2104057062930145623",
+    "sourceAuthor": "Souradip3000",
+    "sourcePublishedAt": "2026-09-27T03:54:29+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/7768ac6e-8a3d-4baa-bd70-5e756c8dfd8e"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "一夜生成的完整音乐视频",
+    "summary": "作者称仅用三分钟提示，Claude Opus 5.5 便在一夜工作后一次生成完整音乐视频。",
+    "prompt": "原帖未公开完整提示词。制作说明：根据简短提示制作完整音乐视频。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/strawhatsu4/status/2104056688601108818",
+    "sourceAuthor": "strawhatsu4",
+    "sourcePublishedAt": "2026-09-27T03:53:00+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/2ecc1e58-8763-4fa6-ae76-da3a43075ac2"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Opus 5.5 动态图形作品",
+    "summary": "作者分享自己用 Claude Opus 5.5 尝试制作的动态图形视频。",
+    "prompt": "原帖未公开完整提示词。制作说明：制作动态图形视频。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/saxa58/status/2104056507142959209",
+    "sourceAuthor": "saxa58",
+    "sourcePublishedAt": "2026-09-27T03:52:17+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/c2d6e134-30ac-4b0d-b2da-b46a865ee3db"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Dive Reflex 水下音乐视频",
+    "summary": "作者用 Opus 5.5 与 Three.js 制作音乐视频，呈现夕阳水面反光、水下光束和海底摇曳的光网。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者用 Opus 5.5 与 Three.js 制作音乐视频，呈现夕阳水面反光、水下光束和海底摇曳的光网。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/apopotoapoto/status/2104056030254792818",
+    "sourceAuthor": "apopotoapoto",
+    "sourcePublishedAt": "2026-09-27T03:50:23+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/325f632b-294f-4f0b-84a5-ede35107f7c9"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "五轮修改的 Opus 5.5 视频",
+    "summary": "作者分享由 Opus 5.5 制作并修改五版的视频，同时认为结果还未达到商业使用标准。",
+    "prompt": "原帖未公开完整提示词。制作说明：生成视频并经过五轮修改。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/jiacheng_ai/status/2104054894902800784",
+    "sourceAuthor": "jiacheng_ai",
+    "sourcePublishedAt": "2026-09-27T03:45:53+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/0f17df90-f7e0-47e9-8c16-c214f4992794"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "健身房二十秒宣传片",
+    "summary": "作者用 Opus 5.5 为健身房制作 20 秒视频，以照片为素材，另做图形剪辑、配乐和音效。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者用 Opus 5.5 为健身房制作 20 秒视频，以照片为素材，另做图形剪辑、配乐和音效。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/juanpfgomes8/status/2104054840649261335",
+    "sourceAuthor": "juanpfgomes8",
+    "sourcePublishedAt": "2026-09-27T03:45:40+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/0bdd63e7-1a2e-49f0-8c5f-8fa998a6f9ac"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "二维角色走路循环",
+    "summary": "作者把平面二维角色插画变成走路循环动画，由 Opus 5.5 通过 MCP 驱动 After Effects 完成。",
+    "prompt": "原帖未公开完整提示词。制作说明：用 After Effects 将二维角色插画制作成走路循环。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/whatswrongbruhh/status/2104054763956695416",
+    "sourceAuthor": "whatswrongbruhh",
+    "sourcePublishedAt": "2026-09-27T03:45:21+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/8e4d6854-7a03-4915-83a6-c2ab6f90326a"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "False Flame 游戏概念动效",
+    "summary": "Opus 5.5 为单人欺骗类游戏 False Flame 制作短动态图形宣传片，说明信任与背叛构成的游戏设定。",
+    "prompt": "原帖未公开完整提示词。制作说明：Opus 5.5 为单人欺骗类游戏 False Flame 制作短动态图形宣传片，说明信任与背叛构成的游戏设定。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/SigniLume/status/2104054077374320666",
+    "sourceAuthor": "SigniLume",
+    "sourcePublishedAt": "2026-09-27T03:42:38+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/81b758ec-377b-4340-8719-b87b33b21005"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "可编辑的 After Effects 动效成片",
+    "summary": "作者描述 Opus 5.5 配合 Higgsfield MCP 生成图像、标志和图形，搭建并动画化合成，渲染视频并交付可编辑工程。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者描述 Opus 5.5 配合 Higgsfield MCP 生成图像、标志和图形，搭建并动画化合成，渲染视频并交付可编辑工程。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/RahulRajak7987/status/2104053505199943914",
+    "sourceAuthor": "RahulRajak7987",
+    "sourcePublishedAt": "2026-09-27T03:40:21+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/b5a3b015-b709-4030-a313-b6233c9d1777"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "哥飞社群介绍视频",
+    "summary": "作者用 Opus 5.5 制作视频，介绍哥飞社群，并以内容说明社群价值。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者用 Opus 5.5 制作视频，介绍哥飞社群，并以内容说明社群价值。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/babaohuang/status/2104052615168643461",
+    "sourceAuthor": "babaohuang",
+    "sourcePublishedAt": "2026-09-27T03:36:49+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/468c6ae5-0c0e-4eb2-9982-d0660b93528f"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Opus 5.5 xHigh Showreel",
+    "summary": "作者分享一支由 Opus 5.5 xHigh 制作的作品集视频。",
+    "prompt": "原帖未公开完整提示词。制作说明：制作作品集展示视频。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/idyeahstudio/status/2104052371039175107",
+    "sourceAuthor": "idyeahstudio",
+    "sourcePublishedAt": "2026-09-27T03:35:51+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/ae98d9de-c925-48cb-8c85-05d0ba0eadbf"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "宝可梦徽章从矢量图到三维资产",
+    "summary": "作者将此前用 Figma 绘制的宝可梦同人徽章交给 AGNT 中的 Opus 5.5，转成匹配原画的三维资产，并展示转换结果。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者将此前用 Figma 绘制的宝可梦同人徽章交给 AGNT 中的 Opus 5.5，转成匹配原画的三维资产，并展示转换结果。",
+    "category": "三维与空间",
+    "sourceUrl": "https://x.com/NathanWilbanks_/status/2104051701397205459",
+    "sourceAuthor": "NathanWilbanks_",
+    "sourcePublishedAt": "2026-09-27T03:33:11+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/36dc9a97-19e5-4ecd-bea8-c628da4a2636"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "SideSwipe Labs 动效作品",
+    "summary": "作者用 Anthropic Opus 5.5 为 SideSwipe Labs 制作动效，经过三次小幅迭代。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者用 Anthropic Opus 5.5 为 SideSwipe Labs 制作动效，经过三次小幅迭代。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/xadahiya/status/2104051471377633400",
+    "sourceAuthor": "xadahiya",
+    "sourcePublishedAt": "2026-09-27T03:32:16+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/629a5242-5f86-4ea9-b759-825dd6b7fc25"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "千张 Midjourney 图像动态编排",
+    "summary": "作者以自己的一千多张 Midjourney 图片制作影像作品，并为画面配上 Suno 音乐。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者以自己的一千多张 Midjourney 图片制作影像作品，并为画面配上 Suno 音乐。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/ciguleva/status/2104051187825946929",
+    "sourceAuthor": "ciguleva",
+    "sourcePublishedAt": "2026-09-27T03:31:09+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/c05ccb99-e986-46e3-acc9-f23c3b732e78"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Weddy 功能动态图形片",
+    "summary": "作者给出完整的 15 秒动效提示词，要求展示 Weddy 的基础与特色功能，并称作品由 Opus 5.5 制作。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者给出完整的 15 秒动效提示词，要求展示 Weddy 的基础与特色功能，并称作品由 Opus 5.5 制作。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/fintasys/status/2104051167932355037",
+    "sourceAuthor": "fintasys",
+    "sourcePublishedAt": "2026-09-27T03:31:04+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/c6b92163-38d9-469c-a6bb-c46eb81a85ae"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Opus 5.5 制作的动画短片",
+    "summary": "作者称这支视频由 Claude Opus 5.5 经几轮迭代制作完成。",
+    "prompt": "原帖未公开完整提示词。制作说明：通过几轮迭代制作动画视频。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/mormonnegro/status/2104050867234115921",
+    "sourceAuthor": "mormonnegro",
+    "sourcePublishedAt": "2026-09-27T03:29:52+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/6c3fec23-427a-42a2-aa36-121323bcd148"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "频道十五秒介绍视频",
+    "summary": "作者使用 Opus 5.5（medium effort）生成一段 15 秒的频道介绍视频。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者使用 Opus 5.5（medium effort）生成一段 15 秒的频道介绍视频。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/AISuperDomain/status/2104050789241270486",
+    "sourceAuthor": "AISuperDomain",
+    "sourcePublishedAt": "2026-09-27T03:29:34+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/90edc8f6-d015-4f48-8976-bcbda40bc3d7"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "商务午餐演讲开场片",
+    "summary": "作者用 Opus 5.5 与 Blender 为商务午餐演讲制作开场视频。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者用 Opus 5.5 与 Blender 为商务午餐演讲制作开场视频。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/iamjankoch/status/2104050387888087093",
+    "sourceAuthor": "iamjankoch",
+    "sourcePublishedAt": "2026-09-27T03:27:58+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/06572e47-b7c9-46ab-99cb-a318a58985a7"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "横向卷轴动漫风时尚海报动效",
+    "summary": "作者用 Opus 5.5 制作横向卷轴、动漫插画与歌曲广告风格结合的时尚海报动态图形，并制作了幕后过程视频。",
+    "prompt": "原帖未公开完整提示词。制作说明：制作横向卷轴动漫风格的时尚海报动效。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/ponzponz15/status/2104049880222294226",
+    "sourceAuthor": "ponzponz15",
+    "sourcePublishedAt": "2026-09-27T03:25:57+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/f5ad42d4-840f-43a2-b154-4fea53b39f74"
+    ],
+    "githubVideoComplete": true
+  },
+  {
     "title": "《光环3》十九年后：Cortana",
     "summary": "作者用 Opus 5.5 制作 70 秒动态文字视频，配合真实旁白，以 Cortana 为主题。",
     "prompt": "原帖未公开完整提示词。制作说明：原帖作者用 Opus 5.5 制作 70 秒动态文字视频，配合真实旁白，以 Cortana 为主题。",
@@ -50,6 +804,19 @@
       "https://github.com/user-attachments/assets/5d89252c-798e-4499-b525-3c582f08fdb2",
       "https://github.com/user-attachments/assets/7d40d89a-4315-4dde-9011-20127086ac9a",
       "https://github.com/user-attachments/assets/a4822771-ed9c-4add-a344-74fad68cfcce"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "网站内容转视频",
+    "summary": "作者称 Opus 5.5 在 15 分钟内把网站转换成视频。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者称 Opus 5.5 在 15 分钟内把网站转换成视频。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/VaibhavSurge/status/2104047729341342098",
+    "sourceAuthor": "VaibhavSurge",
+    "sourcePublishedAt": "2026-09-27T03:17:24+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/3ba1b197-6711-4288-a2e5-4358b5cdc0e1"
     ],
     "githubVideoComplete": true
   },
@@ -115,6 +882,32 @@
     "sourcePublishedAt": "2026-09-27T03:09:06Z",
     "githubVideos": [
       "https://github.com/user-attachments/assets/5fbe5eca-f5cd-45b9-b9be-93b75e28e2af"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "三十秒短片快速生成",
+    "summary": "作者展示用 Claude Opus 5.5 在不到 30 秒内制作的 30 秒视频。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者展示用 Claude Opus 5.5 在不到 30 秒内制作的 30 秒视频。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/khoahd96/status/2104045609879777538",
+    "sourceAuthor": "khoahd96",
+    "sourcePublishedAt": "2026-09-27T03:08:59+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/eaf28010-f4b3-46df-b755-c3d356f30f41"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Opus 与 Astra 视频并排对比",
+    "summary": "作者用相同提示分别生成 Opus 5.5 与 Astra 视频并排比较，指出 Opus 的 UI 细节和动画衔接较突出。",
+    "prompt": "原帖未公开完整提示词。制作说明：用相同提示生成两支视频并排展示。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/lucasfancation/status/2104045495798948167",
+    "sourceAuthor": "lucasfancation",
+    "sourcePublishedAt": "2026-09-27T03:08:32+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/d9691d1f-214a-4b3c-ae16-ed02c6da47e1"
     ],
     "githubVideoComplete": true
   },
@@ -258,6 +1051,19 @@
     "githubVideos": [
       "https://github.com/user-attachments/assets/5375687a-2050-470a-8b43-020ebfd2ea99",
       "https://github.com/user-attachments/assets/999a4e35-c4dc-4d83-b9a5-4439446f40c8"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "万年钟三维模型展示",
+    "summary": "作者用 Claude Opus 5.5（High）建模万年钟，模型纹理也由 Opus 5.5 绘制；制作约一小时二十二分钟。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者用 Claude Opus 5.5（High）建模万年钟，模型纹理也由 Opus 5.5 绘制；制作约一小时二十二分钟。",
+    "category": "三维与空间",
+    "sourceUrl": "https://x.com/cg_ftLab/status/2104041326539047080",
+    "sourceAuthor": "cg_ftLab",
+    "sourcePublishedAt": "2026-09-27T02:51:58+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/b0c38b53-3083-4f58-9afb-fd95f2b809c4"
     ],
     "githubVideoComplete": true
   },
@@ -423,6 +1229,19 @@
     "githubVideoComplete": true
   },
   {
+    "title": "由 Opus 制作的游戏与视频",
+    "summary": "作者明确说明游戏和视频均由 Opus 5.5 制作，并展示相关作品。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者明确说明游戏和视频均由 Opus 5.5 制作，并展示相关作品。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/klandestinodev/status/2104036200021741741",
+    "sourceAuthor": "klandestinodev",
+    "sourcePublishedAt": "2026-09-27T02:31:35+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/bed91a16-ac21-4ded-83cc-bba1310eacc0"
+    ],
+    "githubVideoComplete": true
+  },
+  {
     "title": "点单菜单主题解说视频",
     "summary": "作者用「单点菜单」作为指示，让 Opus 5.5 制作解说视频，并沿用品牌指南。",
     "prompt": "原帖未公开完整提示词。制作说明：原帖作者用「单点菜单」作为指示，让 Opus 5.5 制作解说视频，并沿用品牌指南。",
@@ -492,6 +1311,19 @@
     "githubVideoComplete": true
   },
   {
+    "title": "ずんだもん主题讲解视频",
+    "summary": "作者制作了一个可输入主题后生成「ずんだもん解说」视频的 Claude Opus 5.5 技能，并分享了示例视频。",
+    "prompt": "原帖未公开完整提示词。制作说明：按指定主题生成角色讲解视频。",
+    "category": "知识与教学",
+    "sourceUrl": "https://x.com/itnavi2022/status/2104033899102011488",
+    "sourceAuthor": "itnavi2022",
+    "sourcePublishedAt": "2026-09-27T02:22:27+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/742f7dea-3efd-4505-9f8e-54e74040f4c1"
+    ],
+    "githubVideoComplete": true
+  },
+  {
     "title": "YouTube 字幕提取产品广告",
     "summary": "作者公开提示词，要求 Opus 5.5 制作15秒动态图形广告，介绍粘贴视频链接即可提取文字的产品。",
     "prompt": "make a 15-second motion graphics product ad: paste a YouTube video, get every word.",
@@ -527,6 +1359,19 @@
     "sourcePublishedAt": "2026-09-27T02:16:19Z",
     "githubVideos": [
       "https://github.com/user-attachments/assets/b0a8b242-27fa-44cf-9cc5-c13cc3f596b9"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "多模型素材合成动态图形",
+    "summary": "作者说明工作流：Grok 写词、Suno 作曲、Image-2 生成分镜、Minimax H3 生成舞步，再由 Opus 5.5 综合素材生成动态图形。",
+    "prompt": "原帖未公开完整提示词。制作说明：综合歌词、音乐、分镜和舞步素材生成动态图形。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/h98569856/status/2104031318309007664",
+    "sourceAuthor": "h98569856",
+    "sourcePublishedAt": "2026-09-27T02:12:11+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/4e97a50e-e52f-4ae9-af63-94540e143514"
     ],
     "githubVideoComplete": true
   },
@@ -631,6 +1476,19 @@
     "sourcePublishedAt": "2026-09-27T01:58:07Z",
     "githubVideos": [
       "https://github.com/user-attachments/assets/7dba1ff4-e85d-440f-ad61-ba7eeff61ae2"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "人像照片眨眼与呼吸动画",
+    "summary": "作者让 Opus 5.5 将人像照片做成眨眼和呼吸动画，流程使用 MediaPipe、LaMa/Stable Diffusion 与 PixiJS。",
+    "prompt": "原帖未公开完整提示词。制作说明：从人像照片生成眨眼与呼吸动画。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/suna_gaku/status/2104026462974255167",
+    "sourceAuthor": "suna_gaku",
+    "sourcePublishedAt": "2026-09-27T01:52:54+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/84aff098-cee3-4b96-9321-33183cd52ed8"
     ],
     "githubVideoComplete": true
   },
@@ -791,6 +1649,19 @@
     "githubVideoComplete": true
   },
   {
+    "title": "单提示生成动画",
+    "summary": "作者称这支动画使用 Anthropic Opus 5.5 高 effort 模式，只用一个提示生成，未作修改。",
+    "prompt": "原帖未公开完整提示词。制作说明：以单个提示生成动画。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/brunozaneli/status/2104020572460265958",
+    "sourceAuthor": "brunozaneli",
+    "sourcePublishedAt": "2026-09-27T01:29:29+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/61fb405c-0700-4604-aa9d-d7eef18a97ad"
+    ],
+    "githubVideoComplete": true
+  },
+  {
     "title": "产品动态宣传视频",
     "summary": "作者使用 Opus 5.5 与 Remotion 制作产品动态视频，并称模型在不到 30 分钟内完成了叙事呈现。",
     "prompt": "原帖未公开完整提示词。制作说明：使用 Opus 5.5 和 Remotion 为帖中产品制作动态宣传视频。",
@@ -826,6 +1697,19 @@
     "sourcePublishedAt": "2026-09-27T01:26:03Z",
     "githubVideos": [
       "https://github.com/user-attachments/assets/0144ab52-a844-4641-9b33-a3f810a4615e"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Opus 5.5 生成的个人简历视频",
+    "summary": "作者分享 Opus 5.5 制作的个人简历作品，并称这种方式改变了制作简历的体验。",
+    "prompt": "原帖未公开完整提示词。制作说明：制作个人简历展示视频。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/alemart87/status/2104019589667381432",
+    "sourceAuthor": "alemart87",
+    "sourcePublishedAt": "2026-09-27T01:25:35+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/abeca964-6d45-431a-90ee-06ee2bf59213"
     ],
     "githubVideoComplete": true
   },
@@ -882,6 +1766,19 @@
     "githubVideoComplete": true
   },
   {
+    "title": "产品动态设计视频",
+    "summary": "作者称用 Opus 5.5 为自己的产品制作了动态设计视频。",
+    "prompt": "原帖未公开完整提示词。制作说明：为作者的产品制作动态设计视频。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/Seanshenghao/status/2104018148550717639",
+    "sourceAuthor": "Seanshenghao",
+    "sourcePublishedAt": "2026-09-27T01:19:52Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/852998fd-90a6-49a3-b0fb-266e443bf087"
+    ],
+    "githubVideoComplete": true
+  },
+  {
     "title": "创业公司动态图形宣传片",
     "summary": "作者介绍了用动态图形和 Claude Opus 5.5 推广创业公司的作品，并说明流程包含参考素材、提示词、品牌素材和音频。",
     "prompt": "原帖未公开完整提示词。制作说明：结合参考素材、品牌素材与音频，使用 Opus 5.5 制作创业公司动态图形宣传片。",
@@ -895,6 +1792,32 @@
     "githubVideoComplete": true
   },
   {
+    "title": "AI 入门教学动画",
+    "summary": "作者介绍了面向 AI 初学者和个体经营者的视频制作流程：先以 Gemini Pro 生成视频，再用 Claude Opus 5.5 按提示词生成，并要求编辑文字、音乐和对白。",
+    "prompt": "原帖未公开完整提示词。制作说明：制作面向 AI 初学者和个体经营者的教学视频，并用模型生成音乐与对白、编辑文字。",
+    "category": "知识与教学",
+    "sourceUrl": "https://x.com/ojiken_ai/status/2104015179252199907",
+    "sourceAuthor": "ojiken_ai",
+    "sourcePublishedAt": "2026-09-27T01:08:04Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/69ced883-7956-4ce9-94e6-3965e1913bf5"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "易拉罐照片转视频测试",
+    "summary": "作者用提示词库测试视频生成，将一张普通易拉罐照片转成视频，并提到测试了 GPT Astra 与 Claude Opus 5.5。",
+    "prompt": "原帖未公开完整提示词。制作说明：将易拉罐照片制作成视频。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/ReadAIRU/status/2104013862768927040",
+    "sourceAuthor": "ReadAIRU",
+    "sourcePublishedAt": "2026-09-27T01:02:50+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/45c332a4-843e-45a6-821e-efd3f493c094"
+    ],
+    "githubVideoComplete": true
+  },
+  {
     "title": "ClimbX 动态宣传片",
     "summary": "作者称 Opus 5.5 用一个提示词在 20 分钟内为 ClimbX 制作了动态设计视频，无需 After Effects。",
     "prompt": "原帖未公开完整提示词。制作说明：为 ClimbX 制作动态宣传视频；作者称仅用一个提示词。",
@@ -904,6 +1827,19 @@
     "sourcePublishedAt": "2026-09-27T01:01:27Z",
     "githubVideos": [
       "https://github.com/user-attachments/assets/d1001e32-7a38-41d2-aefa-591bacc9f45a"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "意大利主题影像短片",
+    "summary": "作者要求 Opus 5.5 参考 Founders Fund 开场视频制作一段关于意大利的视频；模型自行挑选并下载素材和音乐后完成剪辑。",
+    "prompt": "原帖未公开完整提示词。制作说明：参考 Founders Fund 开场视频制作一段关于意大利的影像短片，自动选择素材和音乐。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/too_locked_out/status/2104013368352993489",
+    "sourceAuthor": "too_locked_out",
+    "sourcePublishedAt": "2026-09-27T01:00:52Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/72824a63-3a59-4a06-8124-5059fd8f67f7"
     ],
     "githubVideoComplete": true
   },
@@ -930,6 +1866,19 @@
     "sourcePublishedAt": "2026-09-27T01:00:17Z",
     "githubVideos": [
       "https://github.com/user-attachments/assets/40e9acc8-abc2-4ef8-a1dc-9b43b0513795"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "公司宣传视频",
+    "summary": "作者称用一个粗略提示词，通过 Opus 5.5 制作了公司宣传视频。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者称以粗略提示词制作公司宣传视频。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/mikhwams/status/2104013046683439562",
+    "sourceAuthor": "mikhwams",
+    "sourcePublishedAt": "2026-09-27T00:59:35Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/cb84d78b-e89a-4cd3-8ac0-e24d446a7503"
     ],
     "githubVideoComplete": true
   },
@@ -973,6 +1922,19 @@
     "githubVideoComplete": true
   },
   {
+    "title": "Opus 5.5 与 Astra 饶舌对战片",
+    "summary": "帖子标明视频由 Opus 5.5 制作，音乐来自 Suno、图片来自 GPT Image 2.5，主题是两模型饶舌对战。",
+    "prompt": "原帖未公开完整提示词。制作说明：帖子标明视频由 Opus 5.5 制作，音乐来自 Suno、图片来自 GPT Image 2.5，主题是两模型饶舌对战。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/se_yakiimosan/status/2104011692753793050",
+    "sourceAuthor": "se_yakiimosan",
+    "sourcePublishedAt": "2026-09-27T00:54:12+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/ac5bbdca-3b37-41ce-ad75-564f81af3469"
+    ],
+    "githubVideoComplete": true
+  },
+  {
     "title": "代币数据解说视频",
     "summary": "作者给 Opus 5.5 一个代币地址；模型读取链上数据、设计视频、撰写并配音脚本，还核对画面中的数字。",
     "prompt": "原帖未公开完整提示词。制作说明：输入代币地址后读取链上数据，制作含脚本、旁白及数据核对的解说视频。",
@@ -982,6 +1944,19 @@
     "sourcePublishedAt": "2026-09-27T00:52:03Z",
     "githubVideos": [
       "https://github.com/user-attachments/assets/724adeba-d4f8-48d2-b26b-ae5679081a87"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "近期设计作品动态展示集",
+    "summary": "作者用 Opus 5.5 制作作品展示视频，再在 DaVinci Resolve 中编辑；展示内容包括近期的网站设计。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者用 Opus 5.5 制作作品展示视频，再在 DaVinci Resolve 中编辑；展示内容包括近期的网站设计。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/DoylePatri9902/status/2104010718601191702",
+    "sourceAuthor": "DoylePatri9902",
+    "sourcePublishedAt": "2026-09-27T00:50:20+00:00",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/eede9355-c959-425e-96b0-e4c2db67e04b"
     ],
     "githubVideoComplete": true
   },
@@ -999,453 +1974,644 @@
     "githubVideoComplete": true
   },
   {
-    "title": "JavaScript填色涂鸦动画",
-    "summary": "原帖展示 Claude Opus 5.5 用 JavaScript 一气呵成制作的填色涂鸦动画。",
-    "prompt": "原帖未公开提示词。作者说明：作者展示了 Opus 5.5 徒手用 JavaScript 制作填色涂鸦动画，未公开具体指令。",
+    "title": "Grok 视频素材剪辑版",
+    "summary": "作者明确标注第一段是 Opus 5.5 剪辑后的视频，第二段是 Grok 生成的原始视频。该案例记录的是 Opus 的剪辑结果。",
+    "prompt": "原帖未公开完整提示词。制作说明：使用 Opus 5.5 自动剪辑 Grok 生成的原始视频。",
     "category": "动效与片头",
-    "sourceUrl": "https://x.com/Tz_2022/status/2102501726431687055",
-    "sourceAuthor": "Tz_2022",
-    "sourcePublishedAt": "2026-09-22T20:54:08Z",
+    "sourceUrl": "https://x.com/Gorden_Sun/status/2104009748874141941",
+    "sourceAuthor": "Gorden_Sun",
+    "sourcePublishedAt": "2026-09-27T00:46:29Z",
     "githubVideos": [
-      "https://github.com/user-attachments/assets/17d3e5eb-1244-4c64-bbd8-be36d80e294c"
+      "https://github.com/user-attachments/assets/4c3f4620-c6eb-4135-a344-254b14034e23"
     ],
     "githubVideoComplete": true
   },
   {
-    "title": "一键动态图形作品",
-    "summary": "原帖称 Opus 5.5 一次生成动态图形作品并自行作曲，未公开具体主题和提示词。",
-    "prompt": "原帖未公开提示词。作者说明：作者展示 Opus 5.5 一次生成的动态图形作品，并说明音乐也由其原创，未公开具体制作指令。",
-    "category": "动效与片头",
-    "sourceUrl": "https://x.com/DentalAkimoto/status/2103417432757166200",
-    "sourceAuthor": "DentalAkimoto",
-    "sourcePublishedAt": "2026-09-25T09:32:50Z",
+    "title": "Minecraft 模组预告片",
+    "summary": "作者将 Minecraft 模组文件交给 Opus 5.5，并让它制作预告片。",
+    "prompt": "原帖未公开完整提示词。制作说明：根据 Minecraft 模组文件制作一支预告片。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/RoundtableSpace/status/2104009374889103863",
+    "sourceAuthor": "RoundtableSpace",
+    "sourcePublishedAt": "2026-09-27T00:45:00Z",
     "githubVideos": [
-      "https://github.com/user-attachments/assets/bcf4452c-dd1c-440e-8cba-0f7275136bfd"
+      "https://github.com/user-attachments/assets/3e76763f-1d49-4b1a-a259-285d80924792"
     ],
     "githubVideoComplete": true
   },
   {
-    "title": "像素骑士待机动画",
-    "summary": "原帖对比 Opus 5.5 手工制作的像素骑士与经 Skills 修正的版本，提到待机动画和飘动围巾。",
-    "prompt": "原帖未公开提示词。作者说明：作者展示两版像素骑士动画，对比 Opus 5.5 原始制作与 Skills 加手工修正版本，原帖未公开具体指令。",
+    "title": "自动挑选片段并剪辑整支视频",
+    "summary": "作者称 Opus 5.5 自动选择所有片段并完成整支视频剪辑，无需人工介入。",
+    "prompt": "原帖未公开完整提示词。制作说明：自动挑选片段并剪辑成片。",
     "category": "动效与片头",
-    "sourceUrl": "https://x.com/yugen_matuni/status/2102623847166116294",
-    "sourceAuthor": "yugen_matuni",
-    "sourcePublishedAt": "2026-09-23T04:59:24Z",
+    "sourceUrl": "https://x.com/0x0SojalSec/status/2104009372070547751",
+    "sourceAuthor": "0x0SojalSec",
+    "sourcePublishedAt": "2026-09-27T00:44:59+00:00",
     "githubVideos": [
-      "https://github.com/user-attachments/assets/01a556d1-95d6-4c0c-9806-5043bf2e44c3"
+      "https://github.com/user-attachments/assets/483dcacd-48b3-47ac-a1f5-be75107e4b5b"
     ],
     "githubVideoComplete": true
   },
   {
-    "title": "OpenAI与Anthropic像素艺术",
-    "summary": "原帖以“模型没有创造力”等说法为引子，展示 Opus 5.5 制作的 OpenAI 与 Anthropic 像素艺术视频。",
-    "prompt": "原帖未公开提示词。作者说明：作者展示了一段以 OpenAI 与 Anthropic 为主题的像素艺术视频，未公开具体制作指令。",
-    "category": "动效与片头",
-    "sourceUrl": "https://x.com/DotCSV/status/2102896366909358276",
-    "sourceAuthor": "DotCSV",
-    "sourcePublishedAt": "2026-09-23T23:02:18Z",
+    "title": "The Rise 歌曲动画短片",
+    "summary": "作者说明歌曲《The Rise》的动画草图由 Opus 5.5 制作，作品主题是失去所爱之人。",
+    "prompt": "原帖未公开完整提示词。制作说明：为《The Rise》歌曲制作动画草图，作品主题是失去所爱之人。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/hoppycat/status/2104009112912806310",
+    "sourceAuthor": "hoppycat",
+    "sourcePublishedAt": "2026-09-27T00:43:57Z",
     "githubVideos": [
-      "https://github.com/user-attachments/assets/61e97b01-e72b-4d8b-913f-00061e05d9f5"
+      "https://github.com/user-attachments/assets/4c7b4bc4-99ce-4029-ba57-e1b2644fdce6"
     ],
     "githubVideoComplete": true
   },
   {
-    "title": "工作流实验短片",
-    "summary": "原帖称作者受 Donald 的工作流启发，用 Opus 5.5 推到极限并展示结果，但未披露具体主题和提示词。",
-    "prompt": "原帖未公开提示词。作者说明：作者参考 Donald 介绍的工作流测试 Opus 5.5，并展示生成视频；未公开具体制作指令。",
-    "category": "动效与片头",
-    "sourceUrl": "https://x.com/pleometric/status/2103082510607610023",
-    "sourceAuthor": "pleometric",
-    "sourcePublishedAt": "2026-09-24T11:21:58Z",
+    "title": "12 分钟生成的成片",
+    "summary": "作者称 Opus 5.5 用 12 分钟制作了这支视频，并为音频下载本地模型以免产生 API 费用。",
+    "prompt": "原帖未公开完整提示词。制作说明：生成视频，并使用本地音频模型处理声音。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/asmirkn/status/2104007932803244397",
+    "sourceAuthor": "asmirkn",
+    "sourcePublishedAt": "2026-09-27T00:39:16+00:00",
     "githubVideos": [
-      "https://github.com/user-attachments/assets/c3163501-00d6-4d70-b851-9a99bfbf97dc",
-      "https://github.com/user-attachments/assets/99c70bcb-939e-40aa-9b20-1301514c3d88",
-      "https://github.com/user-attachments/assets/fa449f3e-d33c-4294-8521-0f4d01bfdd8d"
+      "https://github.com/user-attachments/assets/bbfd396d-0be1-4151-8e60-24558ba5ff72"
     ],
     "githubVideoComplete": true
   },
   {
-    "title": "代码卡通剪辑视频",
-    "summary": "原帖展示 Opus 5.5 自己编写卡通剪辑软件并完成剪辑：时间轴包含日出、热咖啡、三只猫和跳舞，转场、波形、导出按钮和手机预览框均由代码绘制。",
-    "prompt": "原帖未公开提示词。作者说明：作者称 Opus 5.5 编写卡通剪辑软件并在其中完成剪辑，展示日出、热咖啡、三只猫和跳舞等片段；未公开具体制作指令。",
-    "category": "动效与片头",
-    "sourceUrl": "https://x.com/NFT_Chen/status/2102681172367323300",
-    "sourceAuthor": "NFT_Chen",
-    "sourcePublishedAt": "2026-09-23T08:47:12Z",
+    "title": "苏联主题剪辑短片",
+    "summary": "作者让 Opus 5.5 制作一段关于苏联的剪辑视频，并特别提到配乐效果。",
+    "prompt": "原帖未公开完整提示词。制作说明：制作一段关于苏联的剪辑视频。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/Avinash25467/status/2104007585166991778",
+    "sourceAuthor": "Avinash25467",
+    "sourcePublishedAt": "2026-09-27T00:37:53Z",
     "githubVideos": [
-      "https://github.com/user-attachments/assets/ade20f6b-0bf8-4d11-b7d5-9a346f6751da"
+      "https://github.com/user-attachments/assets/e00cdeda-8729-4c7c-a43d-daf48a110e6d"
     ],
     "githubVideoComplete": true
   },
   {
-    "title": "Python动画转After Effects复现",
-    "summary": "原帖说明原始作品由 Opus 5.5 的 Claude Web 制作，作者把生成的 Python 文件打包下载后尝试用 Claude 应用复现并展示结果。",
-    "prompt": "原帖未公开提示词。作者说明：原始作品由 Claude Web 中的 Opus 5.5 制作；作者下载其 Python 文件并尝试在 Claude 应用中复现，再用 After Effects 进行对照，未公开具体制作指令。",
+    "title": "Opus 5.5 视频方向与动画展示",
+    "summary": "作者分享一支 Opus 5.5 制作的视频，称其视频导演与动画能力突出。",
+    "prompt": "原帖未公开完整提示词。制作说明：制作动画视频。",
     "category": "动效与片头",
-    "sourceUrl": "https://x.com/sankakuten91256/status/2103672459392319995",
-    "sourceAuthor": "sankakuten91256",
-    "sourcePublishedAt": "2026-09-26T02:26:13Z",
+    "sourceUrl": "https://x.com/lekt8_/status/2104005816160485410",
+    "sourceAuthor": "lekt8_",
+    "sourcePublishedAt": "2026-09-27T00:30:51+00:00",
     "githubVideos": [
-      "https://github.com/user-attachments/assets/499ec41a-ad1d-424e-b991-abc4a8b290bc"
+      "https://github.com/user-attachments/assets/d3668846-9d3b-4ce0-94de-224faf43707d"
     ],
     "githubVideoComplete": true
   },
   {
-    "title": "HTML风格短片合集实验",
-    "summary": "原帖说明作者用 Opus 5.5 在 HTML 视频方向尝试多种风格，并计划整理 style reel 库，同时收录故事分镜和导演提示词。",
-    "prompt": "原帖未公开提示词。作者说明：作者用 Opus 5.5 尝试多种 HTML 视频风格，并计划整理 style reel 库；原帖未公开具体制作指令。",
-    "category": "动效与片头",
-    "sourceUrl": "https://x.com/lemomo_ai/status/2103371945257685202",
-    "sourceAuthor": "lemomo_ai",
-    "sourcePublishedAt": "2026-09-25T06:32:05Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/2026e464-136e-4057-98de-57222cac5f3e"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "Cosmos两提示动态设计",
-    "summary": "原帖说明在 HyperFrames 中用两条提示、无参考图制作 Cosmos 主题动态设计作品；提示词放在原帖链接中。",
-    "prompt": "原帖未公开完整提示词。作者说明：在 HyperFrames 中用两条提示、无需参考图制作一支 Cosmos 主题动态设计作品；原帖提示词未完整收录。",
-    "category": "动效与片头",
-    "sourceUrl": "https://x.com/kaolti/status/2103481296018092204",
-    "sourceAuthor": "kaolti",
-    "sourcePublishedAt": "2026-09-25T13:46:36Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/f14c6cab-5bbd-406c-9ab6-e9f7c4c832dc"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "代码沙画动画",
-    "summary": "原帖未公开提示词。作者说明：Opus 5.5 仅用一个提示制作沙画动画，并自行完成配音和音效，没有使用 Blender 或 Three.js。",
-    "prompt": "原帖未公开提示词。作者说明：作者使用 Opus 5.5 制作一支沙画风格动画，并由模型完成配音和音效；原帖称没有使用 Blender 或 Three.js，也没有公开具体指令。",
-    "category": "动效与片头",
-    "sourceUrl": "https://x.com/Michaelzsguo/status/2102592355165782312",
-    "sourceAuthor": "Michaelzsguo",
-    "sourcePublishedAt": "2026-09-23T02:54:16Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/c48c6523-05c1-4d48-b5e0-221dc2ea769c",
-      "https://github.com/user-attachments/assets/72c976e4-568b-432a-930e-0ee57af44f10"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "代码生成视频",
-    "summary": "原帖未公开提示词。作者说明：Claude Opus 5.5 完全用代码制作了这支视频；原帖没有公开主题和具体指令。",
-    "prompt": "原帖未公开提示词。作者说明：作者使用 Claude Opus 5.5 通过代码完成一支视频；原帖没有公开可复用的具体制作指令。",
-    "category": "动效与片头",
-    "sourceUrl": "https://x.com/bridgemindai/status/2103530750767206626",
-    "sourceAuthor": "bridgemindai",
-    "sourcePublishedAt": "2026-09-25T17:03:07Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/cc121d8e-80c1-4852-a43c-c09a714b4eb4"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "动态设计师履历短片",
-    "summary": "原帖公开英文提示词，要求 Opus 5.5 以世界级动态设计师身份制作15秒履历展示片。",
-    "prompt": "原帖提示词（英文原文）：You're a world-class motion designer, and this is your 15-second résumé reel. Make it dynamic and confident: open with a striking hook in the first second, build through a sequence of distinct techniques (typography, shape play, camera moves, colour shifts), and land on a clean, memorable final frame. Pacing should feel like it's cut to music. Go crazy.",
-    "category": "动效与片头",
-    "sourceUrl": "https://x.com/darel023/status/2103424524297420829",
-    "sourceAuthor": "darel023",
-    "sourcePublishedAt": "2026-09-25T10:01:00Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/1a7b4999-032b-423f-b893-2a2705f53d83"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "Opus5.5自我迭代实验",
-    "summary": "原帖未公开提示词。作者只分享了 Opus 5.5 自我迭代后的第二版视频，并未公开提示词或制作步骤。",
-    "prompt": "原帖未公开提示词。作者说明：作者分享了 Opus 5.5 自我迭代后的第二版作品；原帖没有公开制作步骤或可复用指令。",
-    "category": "动效与片头",
-    "sourceUrl": "https://x.com/dashiAIxz/status/2103344448696648058",
-    "sourceAuthor": "dashiAIxz",
-    "sourcePublishedAt": "2026-09-25T04:42:49Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/04169532-dd56-42c9-9002-9bf866819825"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "单提示动态作品",
-    "summary": "原帖未公开提示词。作者说明：作品由 Opus 5.5 xhigh 单提示生成；原帖没有公开主题和完整指令。",
-    "prompt": "原帖未公开提示词。作者说明：作者使用 Opus 5.5 xhigh 通过单次提示生成一支视频作品；原帖没有公开具体主题指令。",
-    "category": "动效与片头",
-    "sourceUrl": "https://x.com/kenn/status/2103337314021937232",
-    "sourceAuthor": "kenn",
-    "sourcePublishedAt": "2026-09-25T04:14:28Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/c4c5f0cf-0b78-4066-a446-6979fbedb367"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "After Effects粒子系统动画",
-    "summary": "原帖未公开提示词。作者让 Opus 5.5 在 After Effects 中制作粒子系统，称制作约用10分钟。",
-    "prompt": "原帖未公开提示词。作者说明：作者让 Opus 5.5 在 After Effects 中制作粒子系统，称制作约用10分钟。",
-    "category": "动效与片头",
-    "sourceUrl": "https://x.com/icreatelife/status/2103193149879246906",
-    "sourceAuthor": "icreatelife",
-    "sourcePublishedAt": "2026-09-24T18:41:37Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/8d12a3d5-6fe0-4155-907e-880b4010bcc3"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "十二种风格机器人动画",
-    "summary": "原帖未公开提示词。作者说明：作者让 Opus 5.5 制作一个意识到自己困在 AI 生成世界中的机器人故事，包含12个世界和从8-bit到黏土动画、铅笔素描等风格。",
-    "prompt": "原帖未公开提示词。作者说明：作品为一支关于机器人意识到自己困在 AI 生成世界中的动画故事，经过12个世界和多种视觉风格，包括8-bit、黏土动画和铅笔素描；原帖没有公开完整指令。",
-    "category": "动效与片头",
-    "sourceUrl": "https://x.com/pradeepXkapoor/status/2103099194693271874",
-    "sourceAuthor": "pradeepXkapoor",
-    "sourcePublishedAt": "2026-09-24T12:28:16Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/b74b33d0-d583-469b-9d7f-ccd7f9b0c2f7"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "书签动画细节实验",
-    "summary": "原帖未公开提示词。作者说明：作者用 Opus 5.5 为书签动画加入了额外动态细节。",
-    "prompt": "原帖未公开提示词。作者说明：在书签动画中加入额外的动态细节；原帖没有公开具体制作指令。",
-    "category": "动效与片头",
-    "sourceUrl": "https://x.com/kippe07/status/2103036199774585026",
-    "sourceAuthor": "kippe07",
-    "sourcePublishedAt": "2026-09-24T08:17:57Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/1bc15042-679e-48d1-8808-dc61e1259b1e"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "虚构电影开场字幕",
-    "summary": "原帖公开英文提示词，要求 Opus 5.5 为一部虚构的“关于你”的电影制作带虚构人名的开场字幕，并输出 mp4。",
-    "prompt": "原帖提示词（英文原文）：Imagine there exists a really good movie about you. Animate the opening credits to this film with made-up names in any style you like. Return the sequence as an mp4.",
-    "category": "动效与片头",
-    "sourceUrl": "https://x.com/goodside/status/2102937913726235004",
-    "sourceAuthor": "goodside",
-    "sourcePublishedAt": "2026-09-24T01:47:23Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/452fee55-34ac-421d-883d-d27239cb3726"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "19分钟动态视频实验",
-    "summary": "原帖未公开提示词。作者说明：作者称 Opus 5.5 在19分钟内生成视频，只做了两次修改。",
-    "prompt": "原帖未公开提示词。作者说明：作者使用 Opus 5.5 制作一支动态视频，原帖称生成用时19分钟并做了两次修改；没有公开具体主题提示词。",
-    "category": "动效与片头",
-    "sourceUrl": "https://x.com/chhddavid/status/2102666619029999989",
-    "sourceAuthor": "chhddavid",
-    "sourcePublishedAt": "2026-09-23T07:49:22Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/fb20a42f-e801-4ecc-ba66-1ccd612db53d"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "代码驱动节拍动画",
-    "summary": "原帖公开提示词。作者说明：作品完全由代码生成，Opus 5.5 自行选择音乐、下载音效、制作每一帧并与节拍同步；原帖称提示词放在帖子中。",
-    "prompt": "原帖提示词（英文原文）：<inputs>\nAsk me for: the product name and a one-line promise, 3 to 5 UI moments to show, one accent color, 10 to 20 real vertical clips I own, and a royalty-free song with a clear drop (e.g. Mixkit, free for commercial use).\n</inputs>\n\n<direction>\nHigh-end minimal. One idea per shot, lots of empty space, one accent color, one clean sans (Geist or Inter) with tight tracking. Masked type reveals, match cuts, one smooth camera language. Real footage only, never placeholder cards. No full stops in on-screen text.\nBanned: shockwave rings, particle bursts, RGB split, camera shake, lens flares, neon glows, grid floors, flashing backgrounds, bouncy easing.\n</direction>\n\n<structure>\n10 bars at 120 BPM, 2 seconds each.\nBar 1: the hook lands word by word on the beats.\nBar 2: one hook word morphs into the product UI. A cursor types and clicks.\nThe drop: a circle opens out of the button into a dark scene.\nThen one move per bar: a wall of real clips with a scan line and 3 winners, the key output as big type, a 3D carousel of real videos with floor reflections and a motion-blurred whip onto one hero clip, the hero in a phone next to a panel that flips into results, big stats on push cuts, a 3-word ticker, a logo reveal, a fade to black.\n</structure>\n\n<build>\n1. One HTML file at 1920x1080. Every style is computed from time inside https://t.co/aSbWNhjgSI(t): no CSS animations, no timers, no state between frames.\n2. Real video: extract clips to 30fps JPEG sequences with ffmpeg and swap img sources per frame. seek awaits the image decodes.\n3. Analyze the song with numpy: tempo, beat grid, energy per bar, the drop. Calibrate the grid to the real kick hits. Every cut sits on a downbeat, every UI hit on a beat.\n4. Render with Playwright: 3 subframes per frame at t minus, at, and plus 1/240s, then blend with ffmpeg tmix for real motion blur at 60fps.\n5. Place each sound effect so its measured peak, not its file start, lands on the event. Keep the effects quiet under the music. Loudnorm to -14 LUFS.\n6. Probe 20 or more frames before the full render. Fix anything cluttered, overlapping or hard to read.\n</build>\n\n<gotchas>\nNever set opacity or filter on a preserve-3d element, because it flattens and both faces show. Fade its wrapper instead. Measure element positions at runtime for match cuts. Only use music and sound effects whose license allows commercial use.\n</gotchas>\n\n<start>\nAsk me for the inputs, then show me a storyboard with every timing on the beat grid before you write any code.\n</start>",
-    "category": "动效与片头",
-    "sourceUrl": "https://x.com/twoclipping/status/2102554209166000267",
-    "sourceAuthor": "twoclipping",
-    "sourcePublishedAt": "2026-09-23T00:22:41Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/a5af5eb7-d3a4-4e27-a8b1-aacd13a23935"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "Opus5.5独立创作实验",
-    "summary": "发帖人分享了 Opus 5.5 独立制作的视频，并提到在后续内容中提供提示和代理过程；本条原帖未包含具体指令。",
-    "prompt": "本条原帖未包含提示词。发帖人说明：作品由 Opus 5.5 独立制作，提示和代理过程另在后续内容中提供。",
-    "category": "动效与片头",
-    "sourceUrl": "https://x.com/LCSlates/status/2102503027340988559",
-    "sourceAuthor": "LCSlates",
-    "sourcePublishedAt": "2026-09-22T20:59:18Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/34a748df-9362-4d79-95e5-918b0bd7e073",
-      "https://github.com/user-attachments/assets/b39021e7-0289-40c8-a050-dae5ec4bbfc5"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "280KB HTML Demoscene片头",
-    "summary": "原帖未公开提示词。制作说明：作者让 Claude Opus 5.5 自主制作 demoscene intro，最终所有像素和声音来自一个280KB HTML文件，不使用图片、音频、3D模型或库。",
-    "prompt": "原帖未公开提示词。作者说明：demoscene 片头的所有像素和声音来自一个280KB HTML文件，不使用图片、音频文件、3D模型或库；原帖没有公开具体制作指令。",
-    "category": "动效与片头",
-    "sourceUrl": "https://x.com/JustinPerea/status/2102893186330841502",
-    "sourceAuthor": "JustinPerea",
-    "sourcePublishedAt": "2026-09-23T22:49:40Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/f678d831-8148-498a-bccd-0517f1facf1d"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "Apple Wonderful Tools动画复刻",
-    "summary": "原帖未公开提示词。制作说明：作者用 HTML、CSS、SVG 和 JavaScript，并经过多轮提示，复刻 Apple 的“Wonderful Tools”动画；作者称效果并不完美。",
-    "prompt": "原帖未公开提示词。作者说明：作者用 HTML、CSS、SVG 和 JavaScript，配合多轮提示，复刻 Apple 的“Wonderful Tools”动画；原帖没有公开可复用的完整指令。",
-    "category": "动效与片头",
-    "sourceUrl": "https://x.com/DavidKPiano/status/2103555549929566323",
-    "sourceAuthor": "DavidKPiano",
-    "sourcePublishedAt": "2026-09-25T18:41:39Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/e863919e-9acd-4750-8326-1597073c4046"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "128BPM代码驱动动态图形",
-    "summary": "原帖未给出单条提示词，但公开了完整制作说明：HTML 绘制、Python 逐帧渲染900帧、程序化音乐和 ffmpeg 合成；视频事件按32拍、128BPM安排。",
-    "prompt": "原帖未公开提示词。作者说明：制作流程使用 index.html 绘制画面，render.py 逐帧渲染900帧，make_audio.py 计算音乐，再合并为 MP4；作者说明以128BPM、32拍安排15秒节奏，并使用 easing、图形变形、3D透视、粒子、运动模糊、glitch 和程序化音效。",
-    "category": "动效与片头",
-    "sourceUrl": "https://x.com/aiehon_aya/status/2103403361022419005",
-    "sourceAuthor": "aiehon_aya",
-    "sourcePublishedAt": "2026-09-25T08:36:55Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/1205be6d-cf86-460a-8ae2-c78e88b53e48"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "Opus5.5动态设计实验",
-    "summary": "原帖未公开提示词或制作步骤。作者只分享了一段由 Opus 5.5 制作的作品，并配文“眩晕，瘫坐，原子弹爆炸”。",
-    "prompt": "原帖未公开提示词。作者说明：作者分享了一段由 Opus 5.5 制作的动态设计作品，并配文“眩晕，瘫坐，原子弹爆炸”；原帖没有公开制作步骤。",
-    "category": "动效与片头",
-    "sourceUrl": "https://x.com/dashiAIxz/status/2103031723428917626",
-    "sourceAuthor": "dashiAIxz",
-    "sourcePublishedAt": "2026-09-24T08:00:09Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/091c47d2-ddc5-432f-abd6-e048f746ab15"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "Donald提示词与Moodboard视频",
-    "summary": "原帖未公开提示词。制作说明：作者将 Donald 的提示词、Midjourney 结果和一份 moodboard 交给 Opus 5.5，等待约12小时后得到视频。",
-    "prompt": "原帖未公开提示词。作者说明：作者把 Donald 的提示词、Midjourney 结果和一份 moodboard 交给 Opus 5.5，约12小时后得到视频；原帖没有公开具体制作指令。",
-    "category": "动效与片头",
-    "sourceUrl": "https://x.com/anabology/status/2103534482930491441",
-    "sourceAuthor": "anabology",
-    "sourcePublishedAt": "2026-09-25T17:17:57Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/afaa59e1-d33b-42e2-a5f5-ceba92abca84",
-      "https://github.com/user-attachments/assets/10634657-19cf-4baa-b39e-c1cfec26797c",
-      "https://github.com/user-attachments/assets/aea3b65c-6abe-4e7e-849e-edd0f68ab23f",
-      "https://github.com/user-attachments/assets/ddffed99-1907-4bd6-ba3c-42f57a0eaa49",
-      "https://github.com/user-attachments/assets/2e74daab-c4ee-4342-a30e-899d4e37ecab"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "Ultracode与Dynamic Workflows动画",
-    "summary": "原帖未公开提示词。制作说明：作者让 Opus 5.5 制作一支介绍 Claude Code 中 Ultracode 与 Dynamic Workflows、主题为避免耗尽使用额度的动画，并称视频像素由 Opus 5.5 生成。",
-    "prompt": "原帖未公开提示词。作者说明：作品围绕 Claude Code 中的 Ultracode 与 Dynamic Workflows，以及避免耗尽使用额度的主题展开；原帖没有公开具体制作指令。",
-    "category": "动效与片头",
-    "sourceUrl": "https://x.com/daniel_mac8/status/2103666105461924131",
-    "sourceAuthor": "daniel_mac8",
-    "sourcePublishedAt": "2026-09-26T02:00:58Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/373e8074-8af1-4ab8-b946-1424ddc39df6"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "动态设计师Showreel",
-    "summary": "原帖公开英文提示词，作品为 Opus 5.5 生成的15秒动态设计展示片。",
-    "prompt": "原帖提示词（英文原文）：make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-    "category": "动效与片头",
-    "sourceUrl": "https://x.com/ajith_io/status/2103449416325890146",
-    "sourceAuthor": "ajith_io",
-    "sourcePublishedAt": "2026-09-25T11:39:55Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/4c264afe-1a77-4103-b6d6-659a044a10eb"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "歌词文字PV生成器",
-    "summary": "原帖介绍用 Opus 5.5 开发的“JIZURA 字面”文字 PV 风格视频生成器：输入歌词，按音乐打点，还能细节编辑；演示无声音。",
-    "prompt": "原帖未公开提示词。作者说明：作者用 Opus 5.5 开发文字 PV 风格视频生成器，输入歌词并按歌曲打点，可做细节编辑；原帖未公开制作指令。",
+    "title": "摩托车友介绍动态图形视频",
+    "summary": "作者称用 Claude Code 的 Opus 5.5 制作了一段摩托车友介绍视频，采用动态图形。",
+    "prompt": "原帖未公开完整提示词。制作说明：使用动态图形制作摩托车友介绍视频。",
     "category": "品牌与产品",
-    "sourceUrl": "https://x.com/8co28/status/2102572322016370781",
-    "sourceAuthor": "8co28",
-    "sourcePublishedAt": "2026-09-23T01:34:40Z",
+    "sourceUrl": "https://x.com/motodachi_navi/status/2104005600975974659",
+    "sourceAuthor": "motodachi_navi",
+    "sourcePublishedAt": "2026-09-27T00:30:00Z",
     "githubVideos": [
-      "https://github.com/user-attachments/assets/8e7233b3-8e02-4fb7-b62e-228cbe7f96dc",
-      "https://github.com/user-attachments/assets/519dd984-cfdd-4aa0-b544-49d0379a2162"
+      "https://github.com/user-attachments/assets/0ac98ef6-1ce7-4a0f-8209-2c30b106653e"
     ],
     "githubVideoComplete": true
   },
   {
-    "title": "网站宣传视频",
-    "summary": "原帖称用 Opus 5.5 做网站宣传视频，只说了几句话，没有公开完整提示词。",
-    "prompt": "原帖未公开提示词。作者说明：作者让 Claude Opus 5.5 制作网站宣传视频，只提供了几句话，未公开具体制作指令。",
-    "category": "品牌与产品",
-    "sourceUrl": "https://x.com/sankenainai/status/2103340873773916491",
-    "sourceAuthor": "sankenainai",
-    "sourcePublishedAt": "2026-09-25T04:28:37Z",
+    "title": "代码绘制音乐动画",
+    "summary": "作者说明音乐和画面均由 Opus 5.5 用 JavaScript 制作。",
+    "prompt": "原帖未公开完整提示词。制作说明：使用 JavaScript 制作由 Opus 5.5 创作音乐和绘制画面的动画。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/sillylildrum/status/2104004607404068872",
+    "sourceAuthor": "sillylildrum",
+    "sourcePublishedAt": "2026-09-27T00:26:03Z",
     "githubVideos": [
-      "https://github.com/user-attachments/assets/ee66e013-d5d0-48da-9e90-a9897cff5df0"
+      "https://github.com/user-attachments/assets/64597d15-78c1-46ca-98f2-86683c0f213f"
     ],
     "githubVideoComplete": true
   },
   {
-    "title": "Instagram发布视频重剪",
-    "summary": "原帖说明作者用 Opus 5.5 重新剪辑自己的 Instagram 发布视频，并邀请读者比较结果。",
-    "prompt": "原帖未公开提示词。作者说明：作者用 Opus 5.5 重新剪辑自己的 Instagram 发布视频，未公开具体制作指令。",
+    "title": "Heyline 产品发布视频",
+    "summary": "作者称 Claude Opus 5.5 在 Max 上一次生成了 Heyline 发布视频。",
+    "prompt": "原帖未公开完整提示词。制作说明：为 Heyline 制作产品发布视频。",
     "category": "品牌与产品",
-    "sourceUrl": "https://x.com/joshaeeee/status/2103386096411553888",
-    "sourceAuthor": "joshaeeee",
-    "sourcePublishedAt": "2026-09-25T07:28:19Z",
+    "sourceUrl": "https://x.com/singhjp006/status/2104004606552682624",
+    "sourceAuthor": "singhjp006",
+    "sourcePublishedAt": "2026-09-27T00:26:03Z",
     "githubVideos": [
-      "https://github.com/user-attachments/assets/9978c3ab-d7e2-4ad7-b0b3-55232eaad963"
+      "https://github.com/user-attachments/assets/0f1ba678-f59d-4776-8f92-ff6ece93f386"
     ],
     "githubVideoComplete": true
   },
   {
-    "title": "自动化短视频剪辑",
-    "summary": "原帖称零拍摄、零录音、零图片素材，用 Opus 5.5 做画面、Gemini 做声音，并公开了四条指示文案。",
-    "prompt": "原帖提示词未随正文完整公开。作者说明：作者称用 Opus 5.5 完成画面、Gemini 完成声音，零拍摄零录音零图片素材，并称公开四条指示文案；正文未列出全文。",
-    "category": "品牌与产品",
-    "sourceUrl": "https://x.com/AIPlus_AISchool/status/2103441866717073637",
-    "sourceAuthor": "AIPlus_AISchool",
-    "sourcePublishedAt": "2026-09-25T11:09:55Z",
+    "title": "单提示词动态图形短片",
+    "summary": "作者称这段动态图形视频由 Claude Opus 5.5 根据一个提示词制作，并提到适当引导可改善成片。",
+    "prompt": "原帖未公开完整提示词。制作说明：用一个提示词制作动态图形短片。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/nestorvc/status/2104004242319253637",
+    "sourceAuthor": "nestorvc",
+    "sourcePublishedAt": "2026-09-27T00:24:36Z",
     "githubVideos": [
-      "https://github.com/user-attachments/assets/8de0b3be-4761-497e-997a-ba504b96ba08"
+      "https://github.com/user-attachments/assets/8578b760-6adc-4ff7-98a3-82293603c8f0"
     ],
     "githubVideoComplete": true
   },
   {
-    "title": "Allclip产品介绍视频",
-    "summary": "原帖称用 Opus 5.5 制作 Allclip 的介绍视频。",
-    "prompt": "原帖未公开提示词。作者说明：作者用 Opus 5.5 制作 Allclip 产品介绍视频，未公开具体制作指令。",
-    "category": "品牌与产品",
-    "sourceUrl": "https://x.com/ikuma_uchida18/status/2103615719787405451",
-    "sourceAuthor": "ikuma_uchida18",
-    "sourcePublishedAt": "2026-09-25T22:40:45Z",
+    "title": "Opus 5.5 配音动画",
+    "summary": "作者说明这段动画由 Opus 5.5 制作并配音。",
+    "prompt": "原帖未公开完整提示词。制作说明：制作并配音一段动画。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/senb0n22a/status/2104003576758739375",
+    "sourceAuthor": "senb0n22a",
+    "sourcePublishedAt": "2026-09-27T00:21:57Z",
     "githubVideos": [
-      "https://github.com/user-attachments/assets/ac67ecd4-5f7e-4e99-8ccd-77327483bdc6"
+      "https://github.com/user-attachments/assets/03c06aae-9122-4bf8-b5c8-6a822f8df7a8"
     ],
     "githubVideoComplete": true
   },
   {
-    "title": "美国股市主题PV",
-    "summary": "原帖称听说 Opus 5.5 能做时髦 PV，于是以美国股票市场为主题让它自动制作。",
-    "prompt": "原帖未公开提示词。作者说明：作者让 Opus 5.5 以美国股票市场为主题制作一支时髦 PV，未公开具体制作指令。",
-    "category": "品牌与产品",
-    "sourceUrl": "https://x.com/Capybara_Stock/status/2103627768521281672",
-    "sourceAuthor": "Capybara_Stock",
-    "sourcePublishedAt": "2026-09-25T23:28:38Z",
+    "title": "动态设计工具演示",
+    "summary": "作者先用 Opus 5.5 制作动态设计工具，再用该工具创作演示作品并发布。",
+    "prompt": "原帖未公开完整提示词。制作说明：先创建动态设计工具，再使用该工具制作演示作品。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/pensezavous/status/2104002680343724047",
+    "sourceAuthor": "pensezavous",
+    "sourcePublishedAt": "2026-09-27T00:18:24Z",
     "githubVideos": [
-      "https://github.com/user-attachments/assets/8af47ad9-fa70-475e-8bf4-df87b45b6869"
+      "https://github.com/user-attachments/assets/0c6878ec-8a91-434f-aa37-1b3b18b1ea45"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "以寒颤为目标的视听作品",
+    "summary": "作者要求 Opus 5.5 创作一段有意触发情绪寒颤的媒体作品，并使用 Fal、Suno 和 ElevenLabs。",
+    "prompt": "原帖未公开完整提示词。制作说明：创作一段旨在触发情绪寒颤的视听作品，并结合 Fal、Suno 与 ElevenLabs。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/misha_shumi/status/2104002661637062895",
+    "sourceAuthor": "misha_shumi",
+    "sourcePublishedAt": "2026-09-27T00:18:19Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/c6c7333c-828a-4db4-bdaa-1b099261c750"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Kākāpō 繁殖季像素动画",
+    "summary": "作者为演讲结尾页制作庆祝视频，内容呼应当年 Kākāpō 创纪录的繁殖季，使用 Opus 5.5 生成像素艺术动画。",
+    "prompt": "原帖未公开完整提示词。制作说明：制作庆祝 Kākāpō 繁殖季的像素艺术动画，用于演讲结尾页。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/simonw/status/2104002636513206422",
+    "sourceAuthor": "simonw",
+    "sourcePublishedAt": "2026-09-27T00:18:13Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/0cc8164d-fcda-419c-9326-e4ee8d0cc1c4"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "根据 note 文章制作的动画",
+    "summary": "作者用 Claude Opus 5.5 将 note 文章改编为约 30 秒动画，并公开了简单指令。",
+    "prompt": "以下の記事を30秒くらいの動画としてJavaScriptで作成してください！",
+    "category": "知识与教学",
+    "sourceUrl": "https://x.com/GEMu_book/status/2104001561718591563",
+    "sourceAuthor": "GEMu_book",
+    "sourcePublishedAt": "2026-09-27T00:13:57Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/c5293b6f-06e0-4627-b2ce-cda0c47fc815"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "从零编写渲染器的动态图形",
+    "summary": "作者称用 Claude Opus 5.5 和几个提示词，在一个晚上完成动态图形视频，并由模型从零编写渲染器。",
+    "prompt": "原帖未公开完整提示词。制作说明：用几个提示词制作动态图形视频，并从零编写渲染器。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/RiverRoadLabs/status/2104001423281201432",
+    "sourceAuthor": "RiverRoadLabs",
+    "sourcePublishedAt": "2026-09-27T00:13:24Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/55aaa837-d9df-42a6-b66b-e5677cfe0b3d"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "GLEA 标志动画",
+    "summary": "作者公开了提示词：为 GLEA 制作标志动画，使用酷炫动态、形状、变形和弹性缓动。",
+    "prompt": "build me good logo animation with GLEA, use cool motion, shapes, morphing, and elastic easing.",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/mr_igor_sanz/status/2104000986981486650",
+    "sourceAuthor": "mr_igor_sanz",
+    "sourcePublishedAt": "2026-09-27T00:11:40Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/6a05033d-bc4b-45e8-9d74-ac3ff84d3bcc"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Ultimate 11 游戏预告片",
+    "summary": "作者请 Opus 5.5 制作一支 30 秒独立游戏《Ultimate 11》预告片。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者请 Opus 5.5 制作一支 30 秒独立游戏《Ultimate 11》预告片。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/Studio_Tora_lab/status/2104000632428302694",
+    "sourceAuthor": "Studio_Tora_lab",
+    "sourcePublishedAt": "2026-09-27T00:10:15Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/8515214d-0b59-4a74-996e-c55a20cfb1cd"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Xomarket 30 秒动效宣传片",
+    "summary": "作者用 Opus 5.5 制作 Xomarket 动效短片，画面、转场和配乐均由代码生成，介绍六项产品功能。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者用 Opus 5.5 制作 Xomarket 动效短片，画面、转场和配乐均由代码生成，介绍六项产品功能。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/Andriy_shkinder/status/2103998593421959395",
+    "sourceAuthor": "Andriy_shkinder",
+    "sourcePublishedAt": "2026-09-27T00:02:09Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/5a0b97b1-6dc4-43d0-b0ee-ab789fea9638"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "米粒剪纸定格音乐视频",
+    "summary": "作者称视频每帧由 Opus 5.5 编写的 Python 绘制，包含米粒与剪纸构成的定格场景、行走木偶和逐词同步歌词；歌曲来自 Suno。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者称视频每帧由 Opus 5.5 编写的 Python 绘制，包含米粒与剪纸构成的定格场景、行走木偶和逐词同步歌词；歌曲来自 Suno。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/gobluehims/status/2103997920068469090",
+    "sourceAuthor": "gobluehims",
+    "sourcePublishedAt": "2026-09-26T23:59:29Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/b9119792-4971-4725-8cad-af997f721199"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Noddis 单提示词动效",
+    "summary": "作者称仅用一个提示词为 Noddis 制作了动效作品。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者称仅用一个提示词为 Noddis 制作了动效作品。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/hercodeio/status/2103997372342947864",
+    "sourceAuthor": "hercodeio",
+    "sourcePublishedAt": "2026-09-26T23:57:18Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/5e3cae7b-ede7-4f86-a7f5-2bab33fe5c1c"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "从品牌网址生成的动效视频",
+    "summary": "作者把公司网址交给 Opus 5.5，制作出浓缩公司内容的动效视频。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者把公司网址交给 Opus 5.5，制作出浓缩公司内容的动效视频。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/taziku_co/status/2103996938316296469",
+    "sourceAuthor": "taziku_co",
+    "sourcePublishedAt": "2026-09-26T23:55:35Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/35df7357-3066-4cad-bc9c-d4af522795d5"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Attention Is All You Need 纸艺故事",
+    "summary": "作者用 Opus 5.5 制作介绍《Attention Is All You Need》的视频，耗时约半小时，并使用 OpenAI 图像 API 和 ElevenLabs 配音 API。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者用 Opus 5.5 制作介绍《Attention Is All You Need》的视频，耗时约半小时，并使用 OpenAI 图像 API 和 ElevenLabs 配音 API。",
+    "category": "知识与教学",
+    "sourceUrl": "https://x.com/Jhoni_Ceron/status/2103996925527924910",
+    "sourceAuthor": "Jhoni_Ceron",
+    "sourcePublishedAt": "2026-09-26T23:55:32Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/95e2b549-2745-435b-8b3e-ddfe67bf3325"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "可播放的动态幻灯片",
+    "summary": "作者展示 Opus 5.5 用 HTML 制作的动态幻灯片：列表可逐项出现，立方体持续旋转，并可导出为可播放的 PowerPoint；旁白使用作者声音克隆。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者展示 Opus 5.5 用 HTML 制作的动态幻灯片：列表可逐项出现，立方体持续旋转，并可导出为可播放的 PowerPoint；旁白使用作者声音克隆。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/renkon40/status/2103996791343677860",
+    "sourceAuthor": "renkon40",
+    "sourcePublishedAt": "2026-09-26T23:55:00Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/ba64a601-d007-4a28-9f98-119b74f00893"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "品牌未来主题 55 秒短片",
+    "summary": "作者公开了一段用代码制作的 55 秒影片：包含 3D 动画、档案影像、旁白和音效。原帖给出制作流程提示词，要求收集品牌、标志、未来愿景、概念词、公共领域档案素材、音乐及配音等输入。",
+    "prompt": "原帖公开提示词要求先收集品牌名称、标志、五年后的愿景、影片要讲解的自造概念词、公共领域旧影像、约 100–120 BPM 的免版税音乐和配音素材，再以代码制作包含 3D 动画、档案影像、旁白与音效的 55 秒影片。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/notdwd/status/2103995183255998633",
+    "sourceAuthor": "notdwd",
+    "sourcePublishedAt": "2026-09-26T23:48:36Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/4b36a36b-ba54-4937-943c-de4b4276b0b4"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "设计作品视频 Showreel",
+    "summary": "作者说明这支设计作品集视频由 Opus 5.5 制作，并可在 DaVinci Resolve 中编辑。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者说明这支设计作品集视频由 Opus 5.5 制作，并可在 DaVinci Resolve 中编辑。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/DoylePatri9902/status/2103995127358214631",
+    "sourceAuthor": "DoylePatri9902",
+    "sourcePublishedAt": "2026-09-26T23:48:23Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/e5e44d5b-1a49-4805-ac73-f1edeca2b5fc"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "森林无人车站像素动画",
+    "summary": "作者用 Opus 5.5 制作森林中的小型无人车站像素画，并分次要求改变季节和天气，作为工作背景影像。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者用 Opus 5.5 制作森林中的小型无人车站像素画，并分次要求改变季节和天气，作为工作背景影像。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/Dgococo/status/2103994537509278171",
+    "sourceAuthor": "Dgococo",
+    "sourcePublishedAt": "2026-09-26T23:46:02Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/a6e92ede-bb3e-4510-9798-fea7a8cab4b2"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Opus 5.5 与 Blender 完整视频案例",
+    "summary": "作者展示 Opus 5.5 配合 Blender 制作的视频。原帖未说明画面主题或具体制作步骤。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者展示 Opus 5.5 配合 Blender 制作的视频。原帖未说明画面主题或具体制作步骤。",
+    "category": "三维与空间",
+    "sourceUrl": "https://x.com/theaivice/status/2103994081953386612",
+    "sourceAuthor": "theaivice",
+    "sourcePublishedAt": "2026-09-26T23:44:14Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/5882b7d1-3370-416c-8c55-92b57bf1844c"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "网站内容生成视频广告",
+    "summary": "作者把网站和 ElevenLabs API 提供给 Opus 5.5，生成可用的视频广告及 YouTube 缩略图。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者把网站和 ElevenLabs API 提供给 Opus 5.5，生成可用的视频广告及 YouTube 缩略图。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/ESYdotcom/status/2103992776564322377",
+    "sourceAuthor": "ESYdotcom",
+    "sourcePublishedAt": "2026-09-26T23:39:02Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/cd16bbc4-4f82-4a31-a302-9f74e6d17a1a"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Opus 5.5 动效设计展示",
+    "summary": "作者展示使用 Opus 5.5 制作的动效作品，并称其像一位动效设计师。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者展示使用 Opus 5.5 制作的动效作品，并称其像一位动效设计师。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/codeandrewford/status/2103992729139368157",
+    "sourceAuthor": "codeandrewford",
+    "sourcePublishedAt": "2026-09-26T23:38:51Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/30f812fe-7941-4471-a946-eeac0646991c"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "2026 产品线动效片",
+    "summary": "作者用 Opus 5.5 为自家 2026 产品线制作动效，并称从构想到完整渲染不到一小时。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者用 Opus 5.5 为自家 2026 产品线制作动效，并称从构想到完整渲染不到一小时。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/illi_gg/status/2103992612051095920",
+    "sourceAuthor": "illi_gg",
+    "sourcePublishedAt": "2026-09-26T23:38:23Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/4a871d54-3af9-45d6-8c5a-b32b5cff3cfc"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "NINJUTSU REVERSI 电影感预告片",
+    "summary": "作者使用 Opus 5.5、Higgsfield MCP 和 JIZURA，为自制游戏制作预告片。原帖公开的提示词要求制作 30 秒电影感预告，并限制 Higgsfield 使用 100 点数以内。",
+    "prompt": "NINJUTSU REVERSIで30秒。Higgsfieldは100クレジット以内で。JIZURAも使って、超絶かっこいいシネマティック・トレーラー作れる？",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/design_oyaji/status/2103992348535595425",
+    "sourceAuthor": "design_oyaji",
+    "sourcePublishedAt": "2026-09-26T23:37:20Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/7803d821-51ac-4351-b35c-41272a5a3a13"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "介绍日本魅力的一分钟视频",
+    "summary": "作者用 Opus 5.5 制作面向外国游客的日本介绍视频，并用 GPT Images 2.5 Sunburst 经 MCP 生成约 11 张图像素材。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者用 Opus 5.5 制作面向外国游客的日本介绍视频，并用 GPT Images 2.5 Sunburst 经 MCP 生成约 11 张图像素材。",
+    "category": "知识与教学",
+    "sourceUrl": "https://x.com/tanabe_fragm/status/2103991501651071457",
+    "sourceAuthor": "tanabe_fragm",
+    "sourcePublishedAt": "2026-09-26T23:33:58Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/ced65a0b-6bf8-47e0-af91-d94f674ade13"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "歌词同步音乐视频制作流程",
+    "summary": "作者用 Opus 5.5、noBGP 和本地 GPU 搭建音乐视频流程，可根据描述、MP3、歌词和画面描述生成约十分钟完成且歌词同步的视频。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者用 Opus 5.5、noBGP 和本地 GPU 搭建音乐视频流程，可根据描述、MP3、歌词和画面描述生成约十分钟完成且歌词同步的视频。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/mycal_1/status/2103991198553973188",
+    "sourceAuthor": "mycal_1",
+    "sourcePublishedAt": "2026-09-26T23:32:46Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/eb696470-625b-4857-9e7f-766c3b844bfb"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "ModelKit 推理部署讲解视频",
+    "summary": "作者展示 Opus 5.5 制作的技术讲解视频，说明 ModelKit 打包、OCI 拉取、Pod 解包、GPU 调度和 SGLang 提供 API 的流程。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者展示 Opus 5.5 制作的技术讲解视频，说明 ModelKit 打包、OCI 拉取、Pod 解包、GPU 调度和 SGLang 提供 API 的流程。",
+    "category": "知识与教学",
+    "sourceUrl": "https://x.com/HowDevelop/status/2103990728435146839",
+    "sourceAuthor": "HowDevelop",
+    "sourcePublishedAt": "2026-09-26T23:30:54Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/efecda7c-da48-4338-81dd-2d8e028467f5"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "企业 15 秒广告",
+    "summary": "作者称使用 Claude Opus 5.5 为自己的公司制作了一支 15 秒视频广告。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者称使用 Claude Opus 5.5 为自己的公司制作了一支 15 秒视频广告。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/hercilioln/status/2103989762746880158",
+    "sourceAuthor": "hercilioln",
+    "sourcePublishedAt": "2026-09-26T23:27:04Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/00ec4886-bbd4-4b37-8fd9-fed47992c87a"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "乐高风格《星球大战》片头重制",
+    "summary": "作者请 Opus 5.5 以乐高风格重制《西斯的复仇》开场。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者请 Opus 5.5 以乐高风格重制《西斯的复仇》开场。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/EnvolDev/status/2103989019227132364",
+    "sourceAuthor": "EnvolDev",
+    "sourcePublishedAt": "2026-09-26T23:24:07Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/fb1e6a48-2148-44fa-b2c9-062918baeb62"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Prometheus Unbound 神话故事",
+    "summary": "作者请 Opus 5.5 讲述普罗米修斯将火带给人类、受罚并最终获救的故事，并展示经过约一天 UltraCode 制作的成片。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者请 Opus 5.5 讲述普罗米修斯将火带给人类、受罚并最终获救的故事，并展示经过约一天 UltraCode 制作的成片。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/IliaReingold/status/2103988928621486492",
+    "sourceAuthor": "IliaReingold",
+    "sourcePublishedAt": "2026-09-26T23:23:45Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/26911e3d-3874-4b81-bd77-0b71b17e112c"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "15 秒动效设计 Showreel",
+    "summary": "作者用 Opus 5.5 Max 一次生成 15 秒动效作品，包含动态文字、图形变化、镜头运动与色彩变化，并按 128 BPM 音乐剪辑。引用内容公开提示词。",
+    "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/justkarangupta/status/2103988865552044184",
+    "sourceAuthor": "justkarangupta",
+    "sourcePublishedAt": "2026-09-26T23:23:30Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/e26e42a4-e103-4685-b2cd-b692edcd676b"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "产品介绍短片单次生成",
+    "summary": "作者称用 Opus 5.5 一次生成了某产品介绍视频。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者称用 Opus 5.5 一次生成了某产品介绍视频。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/iamdemetrius_/status/2103988008072745447",
+    "sourceAuthor": "iamdemetrius_",
+    "sourcePublishedAt": "2026-09-26T23:20:05Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/ea2cec2d-3ea3-4caa-aabe-3a53df0c51b3"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "从代码库制作软件演示视频",
+    "summary": "作者把代码库交给 Opus 5.5，模型使用网站风格和素材制作软件演示视频。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者把代码库交给 Opus 5.5，模型使用网站风格和素材制作软件演示视频。",
+    "category": "知识与教学",
+    "sourceUrl": "https://x.com/LorenzoElijah/status/2103987979685384385",
+    "sourceAuthor": "LorenzoElijah",
+    "sourcePublishedAt": "2026-09-26T23:19:59Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/d7fec6e2-a098-4383-8f19-26a8a411ec59"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "根据产品网址制作宣传视频",
+    "summary": "作者提供产品网址，让 Opus 5.5 为 Bento 产品制作视频；原帖提到使用 Danny Postma 的 skill pack。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者提供产品网址，让 Opus 5.5 为 Bento 产品制作视频；原帖提到使用 Danny Postma 的 skill pack。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/bossriceshark/status/2103987844394160149",
+    "sourceAuthor": "bossriceshark",
+    "sourcePublishedAt": "2026-09-26T23:19:26Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/bc4d2dbb-793f-4d8b-b57e-a37261bb6452"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Blender 模型结合动效制作 PV",
+    "summary": "作者测试把 Blender 建模数据与 Opus 5.5 结合，制作具有不同视觉表现的产品宣传视频。",
+    "prompt": "原帖未公开完整提示词。制作说明：作者测试把 Blender 建模数据与 Opus 5.5 结合，制作具有不同视觉表现的产品宣传视频。",
+    "category": "三维与空间",
+    "sourceUrl": "https://x.com/yoshifujidesign/status/2103987596301119645",
+    "sourceAuthor": "yoshifujidesign",
+    "sourcePublishedAt": "2026-09-26T23:18:27Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/f93ca129-afba-475d-b3b5-d958fcd764a9"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "VTuber角色MV",
+    "summary": "原帖公开完整日文指令，要求使用文件夹中的角色设定图和 VRM 模型，制作突出 VTuber 角色魅力的 MV，并使用配置中的 GPT 与 Gemini API。",
+    "prompt": "原帖提示词（中文整理）：文件夹中有“みゅみゅ”的角色设定图和 VRM 模型，请查找该 VTuber 并制作帅气 MV；需要图像或音乐时使用 .api.env 中的 GPT 与 Gemini API，加入符合当下风格的流动文字，突出角色魅力并制作有吸引力的 MV。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/miyumiyuna5/status/2103817763991290170",
+    "sourceAuthor": "miyumiyuna5",
+    "sourcePublishedAt": "2026-09-26T12:03:36Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/9011e903-5ee5-43f0-ba43-af1ad3cf61dd",
+      "https://github.com/user-attachments/assets/acde219e-ee69-4a8e-8297-690caa3c79be",
+      "https://github.com/user-attachments/assets/f4892578-88b7-4379-a260-a6b60c1bfedc"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "原创音乐影像作品",
+    "summary": "原帖称作者让 Opus 5.5 制作影像作品，音乐也由 Opus 5.5 完成，并分享了成本感受。",
+    "prompt": "原帖未公开提示词。作者说明：作者展示一支由 Opus 5.5 制作、音乐也由 Opus 5.5 完成的影像作品，未公开具体制作指令。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/notargs/status/2103790246102188069",
+    "sourceAuthor": "notargs",
+    "sourcePublishedAt": "2026-09-26T10:14:15Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/ee649977-9da1-42a3-ab0d-535f974fdcf4",
+      "https://github.com/user-attachments/assets/5a620f2e-cdb9-4a77-b9a1-add25cc1af5c"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "DJ Opus电子音乐视频",
+    "summary": "原帖未公开提示词。作者说明：作者让 Opus 5.5 制作电子音乐作品，模型自己编写全部音符，作品配成视频。",
+    "prompt": "原帖未公开提示词。作者说明：作者为 Opus 5.5 创作一首受 Tiësto 启发的电子音乐，并将作品制作成视频；原帖没有公开具体制作指令。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/leodavincs3/status/2103777099941060913",
+    "sourceAuthor": "leodavincs3",
+    "sourcePublishedAt": "2026-09-26T09:22:01Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/56bb872f-3d40-4199-9812-2180dfde1d34",
+      "https://github.com/user-attachments/assets/ac46b7ca-d23e-40fe-82a8-79dfa1d9b947",
+      "https://github.com/user-attachments/assets/c2303c96-8067-42c8-9039-c93b8c4b19f9"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Designship2026三十秒广告",
+    "summary": "原帖未公开提示词。制作说明：作者让 Opus 5.5 与 Gemini 3.8 Flash TTS 阅读 Designship2026 网站和当年 VI 资料，生成30秒 CM；原帖称用于类似出租车广告的呈现。",
+    "prompt": "原帖未公开提示词。作者说明：作者让 Opus 5.5 与 Gemini 3.8 Flash TTS 阅读 Designship2026 网站和当年 VI 资料，生成一支30秒 CM；原帖没有公开具体制作指令。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/hajipion/status/2103766842024362220",
+    "sourceAuthor": "hajipion",
+    "sourcePublishedAt": "2026-09-26T08:41:15Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/c64cc6c0-7fa3-4ae8-aa31-efc65730917f"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "幕府主题历史视频",
+    "summary": "原帖称用一个简单提示让 Opus 5.5 制作幕府主题视频。",
+    "prompt": "原帖未公开提示词。作者说明：作者用一个简单提示让 Opus 5.5 制作幕府主题视频，未公开提示词全文。",
+    "category": "知识与教学",
+    "sourceUrl": "https://x.com/uroborosu_ai/status/2103763635424407915",
+    "sourceAuthor": "uroborosu_ai",
+    "sourcePublishedAt": "2026-09-26T08:28:31Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/bfd67adf-817e-44e6-887a-b05fed24f32e"
     ],
     "githubVideoComplete": true
   },
@@ -1463,119 +2629,28 @@
     "githubVideoComplete": true
   },
   {
-    "title": "Ren应用发布视频",
-    "summary": "原帖公开英文提示词，说明向 Opus 5.5 提供 Ren 代码仓库访问权限，制作30秒动态发布视频并展示动态与声音设计。",
-    "prompt": "原帖提示词（英文原文）：[gave access to Ren repo] Make a dynamic 30-second motion graphics video for Ren that shows off your motion and sound design. Go crazy.",
-    "category": "品牌与产品",
-    "sourceUrl": "https://x.com/macrohou/status/2103545787875733862",
-    "sourceAuthor": "macrohou",
-    "sourcePublishedAt": "2026-09-25T18:02:52Z",
+    "title": "海外剧集介绍视频",
+    "summary": "原帖称作者让 Opus 5.5 制作一支喜爱的海外电视剧介绍视频。",
+    "prompt": "原帖未公开提示词。作者说明：作者让 Opus 5.5 制作喜爱的海外电视剧介绍视频，未公开具体制作指令。",
+    "category": "知识与教学",
+    "sourceUrl": "https://x.com/_nogu66/status/2103751299808497959",
+    "sourceAuthor": "_nogu66",
+    "sourcePublishedAt": "2026-09-26T07:39:30Z",
     "githubVideos": [
-      "https://github.com/user-attachments/assets/15708bdf-3bfe-4558-9d79-ccd0c8ede9a1"
+      "https://github.com/user-attachments/assets/4f3bc6f2-ed42-4d5c-a76e-6c703e922605"
     ],
     "githubVideoComplete": true
   },
   {
-    "title": "16比9与9比16产品广告",
-    "summary": "原帖公开提示词分段发布，说明使用 Opus 5.5 一次直出产品宣传片，并同时生成16:9和9:16版本，不接入其他 AI 视频、音乐或图像模型。",
-    "prompt": "原帖未公开完整提示词。作者说明：用 Opus 5.5 一次制作产品宣传片，同时输出16:9和9:16两个版本，不接入其他 AI 视频、音乐或图像生成模型；完整提示词分段发布，当前搜索结果未收录全文。",
-    "category": "品牌与产品",
-    "sourceUrl": "https://x.com/aiwarts/status/2103419586964316483",
-    "sourceAuthor": "aiwarts",
-    "sourcePublishedAt": "2026-09-25T09:41:23Z",
+    "title": "自由电子激光科普视频",
+    "summary": "原帖称 Opus 5.5 生成了一支关于自由电子激光（FEL）的教育视频，使用一个提示并工作了一小时以上。",
+    "prompt": "原帖未公开提示词。作者说明：作者称 Opus 5.5 制作了自由电子激光（FEL）科普视频，使用一个提示并工作一小时以上，未公开具体指令。",
+    "category": "知识与教学",
+    "sourceUrl": "https://x.com/Frenchie_/status/2103731959918948730",
+    "sourceAuthor": "Frenchie_",
+    "sourcePublishedAt": "2026-09-26T06:22:39Z",
     "githubVideos": [
-      "https://github.com/user-attachments/assets/c5dc38a7-af1b-422f-a903-71b3dbbfcae6"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "Dub产品宣传视频",
-    "summary": "原帖未公开提示词。作者说明：作者用 Opus 5.5 制作 Dub 产品宣传视频，并称一次生成完成。",
-    "prompt": "原帖未公开提示词。作者说明：作品为一支 Dub 产品宣传视频，作者称使用 Opus 5.5 一次完成；原帖没有公开具体指令。",
-    "category": "品牌与产品",
-    "sourceUrl": "https://x.com/steventey/status/2103625902211088880",
-    "sourceAuthor": "steventey",
-    "sourcePublishedAt": "2026-09-25T23:21:13Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/532fb4d6-28b7-453f-91c1-4998ed49b56a"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "Twitter主题宣传视频",
-    "summary": "原帖未公开提示词。作者说明：作者让 Opus 5.5 制作一支关于自己 Twitter 的视频。",
-    "prompt": "原帖未公开提示词。作者说明：作品为一支介绍作者 Twitter 的动态视频；原帖没有公开具体制作指令。",
-    "category": "品牌与产品",
-    "sourceUrl": "https://x.com/superalesha/status/2103578446056321426",
-    "sourceAuthor": "superalesha",
-    "sourcePublishedAt": "2026-09-25T20:12:38Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/f95a393f-b2f2-4c75-bad4-21404256d9f1"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "SaaS产品预告片",
-    "summary": "原帖未公开提示词。作者说明：作者用 Opus 5.5 制作了自己的 SaaS 产品预告片。",
-    "prompt": "原帖未公开提示词。作者说明：作品为一支用于宣传 SaaS 产品的预告片；原帖没有公开具体制作指令。",
-    "category": "品牌与产品",
-    "sourceUrl": "https://x.com/javiiarchive/status/2103501151438323850",
-    "sourceAuthor": "javiiarchive",
-    "sourcePublishedAt": "2026-09-25T15:05:30Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/f36b364b-67f7-4d87-b651-62d20c3bf490"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "Opus5.5一句话宣传片",
-    "summary": "原帖未公开提示词。发帖人分享了 Opus 5.5 制作的宣传片，并称通过一句话生成；原帖没有公开具体提示词。",
-    "prompt": "原帖未公开提示词。作者说明：发帖人分享了 Opus 5.5 制作的宣传片，并称通过一句话生成；原帖没有公开具体提示词。",
-    "category": "品牌与产品",
-    "sourceUrl": "https://x.com/berryxia/status/2103391717894566368",
-    "sourceAuthor": "berryxia",
-    "sourcePublishedAt": "2026-09-25T07:50:39Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/5c283b07-0ffa-4863-9e7b-cd68a578af58"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "CodePilot产品宣传片",
-    "summary": "原帖未公开提示词。作者说明：作者让 Opus 5.5 为 CodePilot 产品制作宣传片，强调使用前端图像和图形能力一键完成。",
-    "prompt": "原帖未公开提示词。作者说明：作品为一支 CodePilot 产品宣传视频，使用前端图像和图形表达产品特点；原帖没有公开具体制作指令。",
-    "category": "品牌与产品",
-    "sourceUrl": "https://x.com/op7418/status/2103148288400924827",
-    "sourceAuthor": "op7418",
-    "sourcePublishedAt": "2026-09-24T15:43:21Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/def8a07e-6cfc-445a-83d9-5c6dbe457e01"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "Distilbook产品宣传片",
-    "summary": "原帖公开英文提示词，说明用 Opus 5.5 研究 Distilbook 并生成40秒动态产品视频。",
-    "prompt": "原帖提示词（英文原文）：Research Distilbook. Make a dynamic 40-second motion graphics video on Distilbook that shows what an incredible motion designer you are. like it's your showreel - Go all out.",
-    "category": "品牌与产品",
-    "sourceUrl": "https://x.com/ajith_io/status/2103469807375208546",
-    "sourceAuthor": "ajith_io",
-    "sourcePublishedAt": "2026-09-25T13:00:57Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/0350aa3f-0c0d-4cc1-b25d-d2743c30cdf6"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "Designship2026三十秒广告",
-    "summary": "原帖未公开提示词。制作说明：作者让 Opus 5.5 与 Gemini 3.8 Flash TTS 阅读 Designship2026 网站和当年 VI 资料，生成30秒 CM；原帖称用于类似出租车广告的呈现。",
-    "prompt": "原帖未公开提示词。作者说明：作者让 Opus 5.5 与 Gemini 3.8 Flash TTS 阅读 Designship2026 网站和当年 VI 资料，生成一支30秒 CM；原帖没有公开具体制作指令。",
-    "category": "品牌与产品",
-    "sourceUrl": "https://x.com/hajipion/status/2103766842024362220",
-    "sourceAuthor": "hajipion",
-    "sourcePublishedAt": "2026-09-26T08:41:15Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/c64cc6c0-7fa3-4ae8-aa31-efc65730917f"
+      "https://github.com/user-attachments/assets/8bf708d8-d16d-49b4-9881-0f53526fedc1"
     ],
     "githubVideoComplete": true
   },
@@ -1597,125 +2672,41 @@
     "githubVideoComplete": true
   },
   {
-    "title": "纯 JavaScript 音画实验",
-    "summary": "Opus 5.5 生成一段以纯 JavaScript 代码完成音乐、图像和视频的实验作品，原帖未给出具体主题。",
-    "prompt": "原帖未公开提示词。作者说明：作者称作品用纯 JavaScript 完成音乐、艺术和视频生成，未公开具体制作指令。",
-    "category": "叙事与音乐",
-    "sourceUrl": "https://x.com/chetaslua/status/2102482039522107417",
-    "sourceAuthor": "chetaslua",
-    "sourcePublishedAt": "2026-09-22T19:35:55Z",
+    "title": "递归概念九种风格解释",
+    "summary": "原帖公开英文提示词，说明让 Claude Opus 5.5 用九种风格变化解释递归，并保持自指和快速节奏。",
+    "prompt": "原帖提示词（英文原文）：A video explaining recursion, where every explanation about recursion has a radically different video style, make this self-referential, clever and fast moving.",
+    "category": "知识与教学",
+    "sourceUrl": "https://x.com/emollick/status/2103688362960019567",
+    "sourceAuthor": "emollick",
+    "sourcePublishedAt": "2026-09-26T03:29:25Z",
     "githubVideos": [
-      "https://github.com/user-attachments/assets/53222c0a-048c-4f8a-9226-59aa70c57a3f"
+      "https://github.com/user-attachments/assets/4e918b66-d854-4426-893b-b2eadc5397d1"
     ],
     "githubVideoComplete": true
   },
   {
-    "title": "纸船与折叠海洋故事",
-    "summary": "原帖比较 Astra 与 Opus 5.5 用同一提示制作的纸船叙事网页视频；Opus 版本颜色更强，故事包含海洋折叠、鲸鱼和书本揭示。",
-    "prompt": "原帖未公开完整提示词。作者说明：作者要求海洋贯穿并物理折叠成一个完整故事，镜头最后拉远露出书本；原帖未给出可复制全文。",
-    "category": "叙事与音乐",
-    "sourceUrl": "https://x.com/ivanainai/status/2102502183891587378",
-    "sourceAuthor": "ivanainai",
-    "sourcePublishedAt": "2026-09-22T20:55:57Z",
+    "title": "Python动画转After Effects复现",
+    "summary": "原帖说明原始作品由 Opus 5.5 的 Claude Web 制作，作者把生成的 Python 文件打包下载后尝试用 Claude 应用复现并展示结果。",
+    "prompt": "原帖未公开提示词。作者说明：原始作品由 Claude Web 中的 Opus 5.5 制作；作者下载其 Python 文件并尝试在 Claude 应用中复现，再用 After Effects 进行对照，未公开具体制作指令。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/sankakuten91256/status/2103672459392319995",
+    "sourceAuthor": "sankakuten91256",
+    "sourcePublishedAt": "2026-09-26T02:26:13Z",
     "githubVideos": [
-      "https://github.com/user-attachments/assets/2fd91356-65d0-4157-8e9d-f97d5f4d784c"
+      "https://github.com/user-attachments/assets/499ec41a-ad1d-424e-b991-abc4a8b290bc"
     ],
     "githubVideoComplete": true
   },
   {
-    "title": "破茧成蝶动画",
-    "summary": "原帖展示作者用 Opus 5.5 制作的破茧成蝶动画。",
-    "prompt": "原帖未公开提示词。作者说明：作者用 Opus 5.5 实现破茧成蝶动画，未公开具体制作指令。",
-    "category": "叙事与音乐",
-    "sourceUrl": "https://x.com/AISuperDomain/status/2102691006894530990",
-    "sourceAuthor": "AISuperDomain",
-    "sourcePublishedAt": "2026-09-23T09:26:16Z",
+    "title": "Ultracode与Dynamic Workflows动画",
+    "summary": "原帖未公开提示词。制作说明：作者让 Opus 5.5 制作一支介绍 Claude Code 中 Ultracode 与 Dynamic Workflows、主题为避免耗尽使用额度的动画，并称视频像素由 Opus 5.5 生成。",
+    "prompt": "原帖未公开提示词。作者说明：作品围绕 Claude Code 中的 Ultracode 与 Dynamic Workflows，以及避免耗尽使用额度的主题展开；原帖没有公开具体制作指令。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/daniel_mac8/status/2103666105461924131",
+    "sourceAuthor": "daniel_mac8",
+    "sourcePublishedAt": "2026-09-26T02:00:58Z",
     "githubVideos": [
-      "https://github.com/user-attachments/assets/478ae94c-aa45-43ce-888e-c6419b0546ea"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "一条提示词生成的场景动画",
-    "summary": "原帖称作者只用一条提示词和约五分钟口述，让 Opus 5.5 工作约 12 小时后生成视频；完整提示词在外链。",
-    "prompt": "原帖提示词未随正文完整公开。作者说明：作者称通过约五分钟口述和一条提示词让 Opus 5.5 生成视频，完整提示词在原帖外链中，正文未给出。",
-    "category": "叙事与音乐",
-    "sourceUrl": "https://x.com/donaldjewkes/status/2102801274173587569",
-    "sourceAuthor": "donaldjewkes",
-    "sourcePublishedAt": "2026-09-23T16:44:26Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/6524367c-9637-458d-9458-3a9891d56bbb",
-      "https://github.com/user-attachments/assets/5173d0be-8716-413a-b5a8-4148012e87c8",
-      "https://github.com/user-attachments/assets/854c1793-f0b7-4ba3-875e-699e847345a2"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "优化分镜的故事视频",
-    "summary": "原帖称作者让 Opus 5.5 优化 GPT‑6 Astra 生成的视频，重点是分镜设计和故事表达。",
-    "prompt": "原帖未公开提示词。作者说明：作者让 Opus 5.5 优化已有视频，使分镜设计更强、故事内容表达更好；未公开具体指令。",
-    "category": "叙事与音乐",
-    "sourceUrl": "https://x.com/agentchengfeng/status/2103074818518380924",
-    "sourceAuthor": "agentchengfeng",
-    "sourcePublishedAt": "2026-09-24T10:51:24Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/d8a53f74-00f0-4150-be07-9a228776c5b1"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "节奏与音效优化视频",
-    "summary": "原帖说明作者让 Opus 5.5 增加视频节奏，并继续调整音效和背景音。",
-    "prompt": "原帖未公开提示词。作者说明：作者让 Opus 5.5 增加视频节奏，并对音效和背景音继续优化；未公开具体制作指令。",
-    "category": "叙事与音乐",
-    "sourceUrl": "https://x.com/agentchengfeng/status/2103099972975784169",
-    "sourceAuthor": "agentchengfeng",
-    "sourcePublishedAt": "2026-09-24T12:31:21Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/8b797aab-ef43-49a6-8217-31f08b8bd268"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "多智能体生成短片",
-    "summary": "原帖展示 Opus 5.5 使用四个 agent、从零制作的完整视频，并说明没有使用 AI 配音 API。",
-    "prompt": "原帖未公开提示词。作者说明：作者称 Opus 5.5 使用四个 agent、从零制作这支视频，未使用 AI 配音 API；未公开具体制作指令。",
-    "category": "叙事与音乐",
-    "sourceUrl": "https://x.com/AndrewOnXYZ/status/2102512879258009818",
-    "sourceAuthor": "AndrewOnXYZ",
-    "sourcePublishedAt": "2026-09-22T21:38:27Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/ab91ce17-02a9-4030-91de-9bfa4617dfd8",
-      "https://github.com/user-attachments/assets/11e9001c-273d-49bd-a399-c8ea743d19a4",
-      "https://github.com/user-attachments/assets/046fe694-2c8f-4d62-a060-340bd83ed958",
-      "https://github.com/user-attachments/assets/4cfe293e-e7aa-4800-826c-432ded322c0c"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "多镜头节奏扩展影片",
-    "summary": "原帖说明 Opus 5.5 将原视频扩展成 30 多个镜头并用纯代码生成视频和配乐，后续用 Minimax API 配英文旁白。",
-    "prompt": "原帖未公开提示词。作者说明：作者让 Opus 5.5 扩展原视频为 30 多个镜头，用纯代码生成视频和配乐，再用 Minimax API 配英文旁白；未公开具体指令。",
-    "category": "叙事与音乐",
-    "sourceUrl": "https://x.com/sundyme/status/2103152622865977726",
-    "sourceAuthor": "sundyme",
-    "sourcePublishedAt": "2026-09-24T16:00:34Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/14084cc6-a425-480c-b219-97c5424e9e66",
-      "https://github.com/user-attachments/assets/3b7429d5-2f71-4f1c-be44-fab2458d0084"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "纯代码音画视频",
-    "summary": "原帖称作品没有使用 Blender 或 DAW，只用 JS、HTML 和 Python 代码完成。",
-    "prompt": "原帖未公开提示词。作者说明：作者展示一段只用 JS、HTML 和 Python 代码制作的音画视频，未公开具体制作指令。",
-    "category": "叙事与音乐",
-    "sourceUrl": "https://x.com/gunsturn_tw/status/2103393070058529016",
-    "sourceAuthor": "gunsturn_tw",
-    "sourcePublishedAt": "2026-09-25T07:56:01Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/30aa9992-dc35-4b9d-8014-49cb0f3efeb5"
+      "https://github.com/user-attachments/assets/373e8074-8af1-4ab8-b946-1424ddc39df6"
     ],
     "githubVideoComplete": true
   },
@@ -1733,72 +2724,54 @@
     "githubVideoComplete": true
   },
   {
-    "title": "节奏天国对比动画",
-    "summary": "原帖展示作者用 Opus 5.5 制作《节奏天国 vs AI》视频，并称通过简单想法生成。",
-    "prompt": "原帖未公开提示词。作者说明：作者展示 Opus 5.5 制作的《节奏天国 vs AI》视频，未公开具体制作指令。",
-    "category": "叙事与音乐",
-    "sourceUrl": "https://x.com/lemomo_ai/status/2103005399574294811",
-    "sourceAuthor": "lemomo_ai",
-    "sourcePublishedAt": "2026-09-24T06:15:33Z",
+    "title": "美国股市主题PV",
+    "summary": "原帖称听说 Opus 5.5 能做时髦 PV，于是以美国股票市场为主题让它自动制作。",
+    "prompt": "原帖未公开提示词。作者说明：作者让 Opus 5.5 以美国股票市场为主题制作一支时髦 PV，未公开具体制作指令。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/Capybara_Stock/status/2103627768521281672",
+    "sourceAuthor": "Capybara_Stock",
+    "sourcePublishedAt": "2026-09-25T23:28:38Z",
     "githubVideos": [
-      "https://github.com/user-attachments/assets/e9108b55-8b8c-4d93-8666-aeafa5d4261b"
+      "https://github.com/user-attachments/assets/8af47ad9-fa70-475e-8bf4-df87b45b6869"
     ],
     "githubVideoComplete": true
   },
   {
-    "title": "原创音乐影像作品",
-    "summary": "原帖称作者让 Opus 5.5 制作影像作品，音乐也由 Opus 5.5 完成，并分享了成本感受。",
-    "prompt": "原帖未公开提示词。作者说明：作者展示一支由 Opus 5.5 制作、音乐也由 Opus 5.5 完成的影像作品，未公开具体制作指令。",
-    "category": "叙事与音乐",
-    "sourceUrl": "https://x.com/notargs/status/2103790246102188069",
-    "sourceAuthor": "notargs",
-    "sourcePublishedAt": "2026-09-26T10:14:15Z",
+    "title": "Dub产品宣传视频",
+    "summary": "原帖未公开提示词。作者说明：作者用 Opus 5.5 制作 Dub 产品宣传视频，并称一次生成完成。",
+    "prompt": "原帖未公开提示词。作者说明：作品为一支 Dub 产品宣传视频，作者称使用 Opus 5.5 一次完成；原帖没有公开具体指令。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/steventey/status/2103625902211088880",
+    "sourceAuthor": "steventey",
+    "sourcePublishedAt": "2026-09-25T23:21:13Z",
     "githubVideos": [
-      "https://github.com/user-attachments/assets/ee649977-9da1-42a3-ab0d-535f974fdcf4",
-      "https://github.com/user-attachments/assets/5a620f2e-cdb9-4a77-b9a1-add25cc1af5c"
+      "https://github.com/user-attachments/assets/532fb4d6-28b7-453f-91c1-4998ed49b56a"
     ],
     "githubVideoComplete": true
   },
   {
-    "title": "VTuber角色MV",
-    "summary": "原帖公开完整日文指令，要求使用文件夹中的角色设定图和 VRM 模型，制作突出 VTuber 角色魅力的 MV，并使用配置中的 GPT 与 Gemini API。",
-    "prompt": "原帖提示词（中文整理）：文件夹中有“みゅみゅ”的角色设定图和 VRM 模型，请查找该 VTuber 并制作帅气 MV；需要图像或音乐时使用 .api.env 中的 GPT 与 Gemini API，加入符合当下风格的流动文字，突出角色魅力并制作有吸引力的 MV。",
-    "category": "叙事与音乐",
-    "sourceUrl": "https://x.com/miyumiyuna5/status/2103817763991290170",
-    "sourceAuthor": "miyumiyuna5",
-    "sourcePublishedAt": "2026-09-26T12:03:36Z",
+    "title": "Allclip产品介绍视频",
+    "summary": "原帖称用 Opus 5.5 制作 Allclip 的介绍视频。",
+    "prompt": "原帖未公开提示词。作者说明：作者用 Opus 5.5 制作 Allclip 产品介绍视频，未公开具体制作指令。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/ikuma_uchida18/status/2103615719787405451",
+    "sourceAuthor": "ikuma_uchida18",
+    "sourcePublishedAt": "2026-09-25T22:40:45Z",
     "githubVideos": [
-      "https://github.com/user-attachments/assets/9011e903-5ee5-43f0-ba43-af1ad3cf61dd",
-      "https://github.com/user-attachments/assets/acde219e-ee69-4a8e-8297-690caa3c79be",
-      "https://github.com/user-attachments/assets/f4892578-88b7-4379-a260-a6b60c1bfedc"
+      "https://github.com/user-attachments/assets/ac67ecd4-5f7e-4e99-8ccd-77327483bdc6"
     ],
     "githubVideoComplete": true
   },
   {
-    "title": "Dario对战奥特曼三维动画",
-    "summary": "原帖未公开提示词。作者说明：作者在记事本上随手画出 Opus5，再用 Opus 5.5 将其扩展成 Dario 对战奥特曼的三维动画，并把流程封装成 Skill。",
-    "prompt": "原帖未公开提示词。作者说明：作者将一张随手画出的 Opus5 草图扩展成 Dario 对战奥特曼的三维动画，并把生成流程封装成 Skill；原帖没有公开具体指令。",
-    "category": "叙事与音乐",
-    "sourceUrl": "https://x.com/MinLiBuilds/status/2102756822990180387",
-    "sourceAuthor": "MinLiBuilds",
-    "sourcePublishedAt": "2026-09-23T13:47:48Z",
+    "title": "Twitter主题宣传视频",
+    "summary": "原帖未公开提示词。作者说明：作者让 Opus 5.5 制作一支关于自己 Twitter 的视频。",
+    "prompt": "原帖未公开提示词。作者说明：作品为一支介绍作者 Twitter 的动态视频；原帖没有公开具体制作指令。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/superalesha/status/2103578446056321426",
+    "sourceAuthor": "superalesha",
+    "sourcePublishedAt": "2026-09-25T20:12:38Z",
     "githubVideos": [
-      "https://github.com/user-attachments/assets/e7e7776f-84a9-4c3c-8980-bd216b553d27"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "DJ Opus电子音乐视频",
-    "summary": "原帖未公开提示词。作者说明：作者让 Opus 5.5 制作电子音乐作品，模型自己编写全部音符，作品配成视频。",
-    "prompt": "原帖未公开提示词。作者说明：作者为 Opus 5.5 创作一首受 Tiësto 启发的电子音乐，并将作品制作成视频；原帖没有公开具体制作指令。",
-    "category": "叙事与音乐",
-    "sourceUrl": "https://x.com/leodavincs3/status/2103777099941060913",
-    "sourceAuthor": "leodavincs3",
-    "sourcePublishedAt": "2026-09-26T09:22:01Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/56bb872f-3d40-4199-9812-2180dfde1d34",
-      "https://github.com/user-attachments/assets/ac46b7ca-d23e-40fe-82a8-79dfa1d9b947",
-      "https://github.com/user-attachments/assets/c2303c96-8067-42c8-9039-c93b8c4b19f9"
+      "https://github.com/user-attachments/assets/f95a393f-b2f2-4c75-bad4-21404256d9f1"
     ],
     "githubVideoComplete": true
   },
@@ -1816,6 +2789,127 @@
     "githubVideoComplete": true
   },
   {
+    "title": "Apple Wonderful Tools动画复刻",
+    "summary": "原帖未公开提示词。制作说明：作者用 HTML、CSS、SVG 和 JavaScript，并经过多轮提示，复刻 Apple 的“Wonderful Tools”动画；作者称效果并不完美。",
+    "prompt": "原帖未公开提示词。作者说明：作者用 HTML、CSS、SVG 和 JavaScript，配合多轮提示，复刻 Apple 的“Wonderful Tools”动画；原帖没有公开可复用的完整指令。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/DavidKPiano/status/2103555549929566323",
+    "sourceAuthor": "DavidKPiano",
+    "sourcePublishedAt": "2026-09-25T18:41:39Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/e863919e-9acd-4750-8326-1597073c4046"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Ren应用发布视频",
+    "summary": "原帖公开英文提示词，说明向 Opus 5.5 提供 Ren 代码仓库访问权限，制作30秒动态发布视频并展示动态与声音设计。",
+    "prompt": "原帖提示词（英文原文）：[gave access to Ren repo] Make a dynamic 30-second motion graphics video for Ren that shows off your motion and sound design. Go crazy.",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/macrohou/status/2103545787875733862",
+    "sourceAuthor": "macrohou",
+    "sourcePublishedAt": "2026-09-25T18:02:52Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/15708bdf-3bfe-4558-9d79-ccd0c8ede9a1"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Donald提示词与Moodboard视频",
+    "summary": "原帖未公开提示词。制作说明：作者将 Donald 的提示词、Midjourney 结果和一份 moodboard 交给 Opus 5.5，等待约12小时后得到视频。",
+    "prompt": "原帖未公开提示词。作者说明：作者把 Donald 的提示词、Midjourney 结果和一份 moodboard 交给 Opus 5.5，约12小时后得到视频；原帖没有公开具体制作指令。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/anabology/status/2103534482930491441",
+    "sourceAuthor": "anabology",
+    "sourcePublishedAt": "2026-09-25T17:17:57Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/afaa59e1-d33b-42e2-a5f5-ceba92abca84",
+      "https://github.com/user-attachments/assets/10634657-19cf-4baa-b39e-c1cfec26797c",
+      "https://github.com/user-attachments/assets/aea3b65c-6abe-4e7e-849e-edd0f68ab23f",
+      "https://github.com/user-attachments/assets/ddffed99-1907-4bd6-ba3c-42f57a0eaa49",
+      "https://github.com/user-attachments/assets/2e74daab-c4ee-4342-a30e-899d4e37ecab"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "代码生成视频",
+    "summary": "原帖未公开提示词。作者说明：Claude Opus 5.5 完全用代码制作了这支视频；原帖没有公开主题和具体指令。",
+    "prompt": "原帖未公开提示词。作者说明：作者使用 Claude Opus 5.5 通过代码完成一支视频；原帖没有公开可复用的具体制作指令。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/bridgemindai/status/2103530750767206626",
+    "sourceAuthor": "bridgemindai",
+    "sourcePublishedAt": "2026-09-25T17:03:07Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/cc121d8e-80c1-4852-a43c-c09a714b4eb4"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "自动化高架花床三维教程",
+    "summary": "原帖未公开提示词。作者说明：作者用 Opus 5.5 制作一支关于自动化后院高架花床的三维教程。",
+    "prompt": "原帖未公开提示词。作者说明：作品为一支三维教程，解释如何自动化后院的高架花床；原帖没有公开具体制作指令。",
+    "category": "知识与教学",
+    "sourceUrl": "https://x.com/Skylartkitchen/status/2103522230957420843",
+    "sourceAuthor": "Skylartkitchen",
+    "sourcePublishedAt": "2026-09-25T16:29:16Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/7c655fce-eab1-46ac-9c42-85c5d0075f26"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "SaaS产品预告片",
+    "summary": "原帖未公开提示词。作者说明：作者用 Opus 5.5 制作了自己的 SaaS 产品预告片。",
+    "prompt": "原帖未公开提示词。作者说明：作品为一支用于宣传 SaaS 产品的预告片；原帖没有公开具体制作指令。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/javiiarchive/status/2103501151438323850",
+    "sourceAuthor": "javiiarchive",
+    "sourcePublishedAt": "2026-09-25T15:05:30Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/f36b364b-67f7-4d87-b651-62d20c3bf490"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Leidenfrost效应白板动画",
+    "summary": "原帖未公开提示词。制作说明：作者让 Opus 5.5 一次性制作解释 Leidenfrost effect 的手绘白板动画，旁白和音乐也在同一轮加入。",
+    "prompt": "原帖未公开提示词。作者说明：作品是解释 Leidenfrost effect 的手绘白板动画，旁白和音乐在同一轮加入；原帖没有公开具体制作指令。",
+    "category": "知识与教学",
+    "sourceUrl": "https://x.com/realYunfanYe/status/2103496245343916158",
+    "sourceAuthor": "realYunfanYe",
+    "sourcePublishedAt": "2026-09-25T14:46:00Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/6d8e602d-48d6-476f-877e-a045be253ede"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "NVIDIA Blackwell芯片三维动画",
+    "summary": "原帖未公开提示词。作者说明：用 Opus 5.5 制作 NVIDIA Blackwell GPU 三维动画，镜头从数据中心进入服务器、显卡、芯片、晶体管直到单个硅原子；作品在单一 HTML 浏览器中运行。",
+    "prompt": "原帖未公开提示词。作者说明：作品为一支围绕 NVIDIA Blackwell GPU 的三维动画，镜头从数据中心进入服务器、拆解显卡，穿过电路和晶体管，最后进入单个硅原子；作品在单一 HTML 浏览器中运行，原帖没有公开具体指令。",
+    "category": "三维与空间",
+    "sourceUrl": "https://x.com/lucian__03/status/2103494418477260830",
+    "sourceAuthor": "lucian__03",
+    "sourcePublishedAt": "2026-09-25T14:38:45Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/20a330a0-dc3c-442c-86e6-b4a7d3f1cb59"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "恐龙到绳文时代教育动态图形",
+    "summary": "原帖公开日文提示词，要求制作从地球恐龙时代到绳文时代的教育性动态图形视频，使用日语并重视视觉演出。",
+    "prompt": "原帖提示词（中文整理）：我想制作一个视频。请用动态图形，从教育讲解和视觉表现两个方面，展示地球从恐龙时代到绳文时代的形成与发展过程。语言使用日语。",
+    "category": "知识与教学",
+    "sourceUrl": "https://x.com/mellow_neet2000/status/2103487198758834408",
+    "sourceAuthor": "mellow_neet2000",
+    "sourcePublishedAt": "2026-09-25T14:10:03Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/3f279dcb-568e-40c6-9fcc-b0ee40d613f0"
+    ],
+    "githubVideoComplete": true
+  },
+  {
     "title": "钢琴作曲与JavaScript动画",
     "summary": "原帖未公开提示词。作者让 Claude Opus 5.5 创作钢琴音乐，并使用 JavaScript 绘制动画。",
     "prompt": "原帖未公开提示词。作者说明：作者让 Claude Opus 5.5 创作钢琴音乐，并使用 JavaScript 绘制动画。",
@@ -1825,6 +2919,19 @@
     "sourcePublishedAt": "2026-09-25T13:50:03Z",
     "githubVideos": [
       "https://github.com/user-attachments/assets/55ae67ac-9f34-4617-b74c-7dfb3047cb04"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Cosmos两提示动态设计",
+    "summary": "原帖说明在 HyperFrames 中用两条提示、无参考图制作 Cosmos 主题动态设计作品；提示词放在原帖链接中。",
+    "prompt": "原帖未公开完整提示词。作者说明：在 HyperFrames 中用两条提示、无需参考图制作一支 Cosmos 主题动态设计作品；原帖提示词未完整收录。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/kaolti/status/2103481296018092204",
+    "sourceAuthor": "kaolti",
+    "sourcePublishedAt": "2026-09-25T13:46:36Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/f14c6cab-5bbd-406c-9ab6-e9f7c4c832dc"
     ],
     "githubVideoComplete": true
   },
@@ -1842,6 +2949,34 @@
     "githubVideoComplete": true
   },
   {
+    "title": "DNA到血红蛋白科普动画",
+    "summary": "原帖展示 Opus 5.5 制作的 DNA→RNA→蛋白质→折叠→血红蛋白科普视频，并附带交互应用。",
+    "prompt": "原帖未公开提示词。作者说明：作者展示 Opus 5.5 制作的 DNA 到 RNA、蛋白质折叠再到血红蛋白的科普视频，未公开具体制作指令。",
+    "category": "知识与教学",
+    "sourceUrl": "https://x.com/mrmagan_/status/2103470233080254891",
+    "sourceAuthor": "mrmagan_",
+    "sourcePublishedAt": "2026-09-25T13:02:38Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/aeb27a29-e0c4-4446-81c1-a9fe70b6bfc9",
+      "https://github.com/user-attachments/assets/16f03ce8-93ad-4ee2-b0d2-4e0e4e2637a3",
+      "https://github.com/user-attachments/assets/b127e5e2-e03a-4311-80f5-a2c71cc95921"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Distilbook产品宣传片",
+    "summary": "原帖公开英文提示词，说明用 Opus 5.5 研究 Distilbook 并生成40秒动态产品视频。",
+    "prompt": "原帖提示词（英文原文）：Research Distilbook. Make a dynamic 40-second motion graphics video on Distilbook that shows what an incredible motion designer you are. like it's your showreel - Go all out.",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/ajith_io/status/2103469807375208546",
+    "sourceAuthor": "ajith_io",
+    "sourcePublishedAt": "2026-09-25T13:00:57Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/0350aa3f-0c0d-4cc1-b25d-d2743c30cdf6"
+    ],
+    "githubVideoComplete": true
+  },
+  {
     "title": "旧作角色纯JS动画",
     "summary": "原帖未公开提示词。作者说明：作者用 Opus 5.5 和纯 JavaScript 为此前设计的角色制作动画，输入是若干 JPG 图像。",
     "prompt": "原帖未公开提示词。作者说明：作者使用纯 JavaScript 将一组既有角色 JPG 图像制作成动画，并测试 Opus 5.5 对角色运动的处理；原帖没有公开具体指令。",
@@ -1851,6 +2986,210 @@
     "sourcePublishedAt": "2026-09-25T11:50:45Z",
     "githubVideos": [
       "https://github.com/user-attachments/assets/779c41d6-991b-487b-a566-936e5c9eedad"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "动态设计师Showreel",
+    "summary": "原帖公开英文提示词，作品为 Opus 5.5 生成的15秒动态设计展示片。",
+    "prompt": "原帖提示词（英文原文）：make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/ajith_io/status/2103449416325890146",
+    "sourceAuthor": "ajith_io",
+    "sourcePublishedAt": "2026-09-25T11:39:55Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/4c264afe-1a77-4103-b6d6-659a044a10eb"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "自动化短视频剪辑",
+    "summary": "原帖称零拍摄、零录音、零图片素材，用 Opus 5.5 做画面、Gemini 做声音，并公开了四条指示文案。",
+    "prompt": "原帖提示词未随正文完整公开。作者说明：作者称用 Opus 5.5 完成画面、Gemini 完成声音，零拍摄零录音零图片素材，并称公开四条指示文案；正文未列出全文。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/AIPlus_AISchool/status/2103441866717073637",
+    "sourceAuthor": "AIPlus_AISchool",
+    "sourcePublishedAt": "2026-09-25T11:09:55Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/8de0b3be-4761-497e-997a-ba504b96ba08"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "动态设计师履历短片",
+    "summary": "原帖公开英文提示词，要求 Opus 5.5 以世界级动态设计师身份制作15秒履历展示片。",
+    "prompt": "原帖提示词（英文原文）：You're a world-class motion designer, and this is your 15-second résumé reel. Make it dynamic and confident: open with a striking hook in the first second, build through a sequence of distinct techniques (typography, shape play, camera moves, colour shifts), and land on a clean, memorable final frame. Pacing should feel like it's cut to music. Go crazy.",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/darel023/status/2103424524297420829",
+    "sourceAuthor": "darel023",
+    "sourcePublishedAt": "2026-09-25T10:01:00Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/1a7b4999-032b-423f-b893-2a2705f53d83"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "16比9与9比16产品广告",
+    "summary": "原帖公开提示词分段发布，说明使用 Opus 5.5 一次直出产品宣传片，并同时生成16:9和9:16版本，不接入其他 AI 视频、音乐或图像模型。",
+    "prompt": "原帖未公开完整提示词。作者说明：用 Opus 5.5 一次制作产品宣传片，同时输出16:9和9:16两个版本，不接入其他 AI 视频、音乐或图像生成模型；完整提示词分段发布，当前搜索结果未收录全文。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/aiwarts/status/2103419586964316483",
+    "sourceAuthor": "aiwarts",
+    "sourcePublishedAt": "2026-09-25T09:41:23Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/c5dc38a7-af1b-422f-a903-71b3dbbfcae6"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "一键动态图形作品",
+    "summary": "原帖称 Opus 5.5 一次生成动态图形作品并自行作曲，未公开具体主题和提示词。",
+    "prompt": "原帖未公开提示词。作者说明：作者展示 Opus 5.5 一次生成的动态图形作品，并说明音乐也由其原创，未公开具体制作指令。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/DentalAkimoto/status/2103417432757166200",
+    "sourceAuthor": "DentalAkimoto",
+    "sourcePublishedAt": "2026-09-25T09:32:50Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/bcf4452c-dd1c-440e-8cba-0f7275136bfd"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "128BPM代码驱动动态图形",
+    "summary": "原帖未给出单条提示词，但公开了完整制作说明：HTML 绘制、Python 逐帧渲染900帧、程序化音乐和 ffmpeg 合成；视频事件按32拍、128BPM安排。",
+    "prompt": "原帖未公开提示词。作者说明：制作流程使用 index.html 绘制画面，render.py 逐帧渲染900帧，make_audio.py 计算音乐，再合并为 MP4；作者说明以128BPM、32拍安排15秒节奏，并使用 easing、图形变形、3D透视、粒子、运动模糊、glitch 和程序化音效。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/aiehon_aya/status/2103403361022419005",
+    "sourceAuthor": "aiehon_aya",
+    "sourcePublishedAt": "2026-09-25T08:36:55Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/1205be6d-cf86-460a-8ae2-c78e88b53e48"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "纯代码音画视频",
+    "summary": "原帖称作品没有使用 Blender 或 DAW，只用 JS、HTML 和 Python 代码完成。",
+    "prompt": "原帖未公开提示词。作者说明：作者展示一段只用 JS、HTML 和 Python 代码制作的音画视频，未公开具体制作指令。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/gunsturn_tw/status/2103393070058529016",
+    "sourceAuthor": "gunsturn_tw",
+    "sourcePublishedAt": "2026-09-25T07:56:01Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/30aa9992-dc35-4b9d-8014-49cb0f3efeb5"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Opus5.5一句话宣传片",
+    "summary": "原帖未公开提示词。发帖人分享了 Opus 5.5 制作的宣传片，并称通过一句话生成；原帖没有公开具体提示词。",
+    "prompt": "原帖未公开提示词。作者说明：发帖人分享了 Opus 5.5 制作的宣传片，并称通过一句话生成；原帖没有公开具体提示词。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/berryxia/status/2103391717894566368",
+    "sourceAuthor": "berryxia",
+    "sourcePublishedAt": "2026-09-25T07:50:39Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/5c283b07-0ffa-4863-9e7b-cd68a578af58"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Instagram发布视频重剪",
+    "summary": "原帖说明作者用 Opus 5.5 重新剪辑自己的 Instagram 发布视频，并邀请读者比较结果。",
+    "prompt": "原帖未公开提示词。作者说明：作者用 Opus 5.5 重新剪辑自己的 Instagram 发布视频，未公开具体制作指令。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/joshaeeee/status/2103386096411553888",
+    "sourceAuthor": "joshaeeee",
+    "sourcePublishedAt": "2026-09-25T07:28:19Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/9978c3ab-d7e2-4ad7-b0b3-55232eaad963"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "HTML风格短片合集实验",
+    "summary": "原帖说明作者用 Opus 5.5 在 HTML 视频方向尝试多种风格，并计划整理 style reel 库，同时收录故事分镜和导演提示词。",
+    "prompt": "原帖未公开提示词。作者说明：作者用 Opus 5.5 尝试多种 HTML 视频风格，并计划整理 style reel 库；原帖未公开具体制作指令。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/lemomo_ai/status/2103371945257685202",
+    "sourceAuthor": "lemomo_ai",
+    "sourcePublishedAt": "2026-09-25T06:32:05Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/2026e464-136e-4057-98de-57222cac5f3e"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Opus5.5自我迭代实验",
+    "summary": "原帖未公开提示词。作者只分享了 Opus 5.5 自我迭代后的第二版视频，并未公开提示词或制作步骤。",
+    "prompt": "原帖未公开提示词。作者说明：作者分享了 Opus 5.5 自我迭代后的第二版作品；原帖没有公开制作步骤或可复用指令。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/dashiAIxz/status/2103344448696648058",
+    "sourceAuthor": "dashiAIxz",
+    "sourcePublishedAt": "2026-09-25T04:42:49Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/04169532-dd56-42c9-9002-9bf866819825"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "网站宣传视频",
+    "summary": "原帖称用 Opus 5.5 做网站宣传视频，只说了几句话，没有公开完整提示词。",
+    "prompt": "原帖未公开提示词。作者说明：作者让 Claude Opus 5.5 制作网站宣传视频，只提供了几句话，未公开具体制作指令。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/sankenainai/status/2103340873773916491",
+    "sourceAuthor": "sankenainai",
+    "sourcePublishedAt": "2026-09-25T04:28:37Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/ee66e013-d5d0-48da-9e90-a9897cff5df0"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "单提示动态作品",
+    "summary": "原帖未公开提示词。作者说明：作品由 Opus 5.5 xhigh 单提示生成；原帖没有公开主题和完整指令。",
+    "prompt": "原帖未公开提示词。作者说明：作者使用 Opus 5.5 xhigh 通过单次提示生成一支视频作品；原帖没有公开具体主题指令。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/kenn/status/2103337314021937232",
+    "sourceAuthor": "kenn",
+    "sourcePublishedAt": "2026-09-25T04:14:28Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/c4c5f0cf-0b78-4066-a446-6979fbedb367"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "崂山道士三维讲解片",
+    "summary": "原帖说明 Opus 5.5 从零制作《崂山道士》三维讲解片，只使用作者声音克隆，不写分镜脚本和现成影片 Skill。",
+    "prompt": "原帖未公开提示词。作者说明：作者用 Claude Code 挂 Opus 5.5，从零制作《崂山道士》三维讲解片，只使用自己的声音克隆，未公开具体制作指令。",
+    "category": "知识与教学",
+    "sourceUrl": "https://x.com/wshuyi/status/2103308292613345504",
+    "sourceAuthor": "wshuyi",
+    "sourcePublishedAt": "2026-09-25T02:19:09Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/c2106e8e-14d4-4b6e-94ba-e61d81cf7b0c",
+      "https://github.com/user-attachments/assets/7802fb64-9d66-400a-8f58-0fb7c5907e6a",
+      "https://github.com/user-attachments/assets/405f13ee-ef3b-4d40-a31d-6a4377c756a0",
+      "https://github.com/user-attachments/assets/474ee573-8e4f-446d-9648-d50d07dd5344",
+      "https://github.com/user-attachments/assets/6e3e45c9-a0fd-402a-be37-7b56af0ad84f",
+      "https://github.com/user-attachments/assets/19d27719-0a80-4dc2-ab07-b409057d53d7"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "超智能主题Netflix风格纪录片",
+    "summary": "原帖未公开提示词。制作说明：作者让 Claude agent 使用 Runway MCP 制作面向普通人的高端 Netflix 风格超智能纪录片，原帖未公开更详细的脚本提示词。",
+    "prompt": "原帖未公开提示词。作者说明：作者让 Claude agent 使用 Runway MCP 制作面向普通人的高端 Netflix 风格超智能纪录片；原帖没有公开具体制作指令。",
+    "category": "知识与教学",
+    "sourceUrl": "https://x.com/gavinpurcell/status/2103304514329854102",
+    "sourceAuthor": "gavinpurcell",
+    "sourcePublishedAt": "2026-09-25T02:04:08Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/7ddb487f-f78f-410f-98fc-f1e2cbf13ceb",
+      "https://github.com/user-attachments/assets/a68c1a7d-f6fb-4483-b004-a021116b0c86",
+      "https://github.com/user-attachments/assets/5e628cb4-a79b-4f2c-818d-1c8b0da77609",
+      "https://github.com/user-attachments/assets/6637fac7-2514-4044-bce2-597732e3a69c",
+      "https://github.com/user-attachments/assets/b835e736-1394-4e77-abb8-c7153f39e631"
     ],
     "githubVideoComplete": true
   },
@@ -1869,6 +3208,32 @@
     "githubVideoComplete": true
   },
   {
+    "title": "AI是什么动画解释",
+    "summary": "原帖未公开提示词。作者说明：作者让 Opus 5.5 用任意工具制作一支解释 AI 是什么的动画视频，并称作品适合帮助初学者理解。",
+    "prompt": "原帖未公开提示词。作者说明：作品为一支面向初学者、解释“AI 是什么”的动画视频，可使用模型选择的工具；原帖没有公开具体指令。",
+    "category": "知识与教学",
+    "sourceUrl": "https://x.com/icreatelife/status/2103237092553773233",
+    "sourceAuthor": "icreatelife",
+    "sourcePublishedAt": "2026-09-24T21:36:13Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/fd5cf1b3-3b42-41aa-ace5-a865f17ad331"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "After Effects粒子系统动画",
+    "summary": "原帖未公开提示词。作者让 Opus 5.5 在 After Effects 中制作粒子系统，称制作约用10分钟。",
+    "prompt": "原帖未公开提示词。作者说明：作者让 Opus 5.5 在 After Effects 中制作粒子系统，称制作约用10分钟。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/icreatelife/status/2103193149879246906",
+    "sourceAuthor": "icreatelife",
+    "sourcePublishedAt": "2026-09-24T18:41:37Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/8d12a3d5-6fe0-4155-907e-880b4010bcc3"
+    ],
+    "githubVideoComplete": true
+  },
+  {
     "title": "CodeRabbit兔子音乐视频",
     "summary": "原帖未公开提示词。作者说明：作者用 Opus 5.5 一次生成一支关于 CodeRabbit 兔子生活的音乐视频。",
     "prompt": "原帖未公开提示词。作者说明：作品为一支围绕 CodeRabbit 兔子生活的音乐视频，原帖称由 Opus 5.5 一次生成；没有公开具体制作指令。",
@@ -1883,6 +3248,177 @@
     "githubVideoComplete": true
   },
   {
+    "title": "Atlantis Three.js导览",
+    "summary": "原帖未公开提示词。作者说明：作者让 Opus 5.5 用 Three.js 将 Atlantis 可视化为 Poseidia 岛屿导览，并制作完整预告体验。",
+    "prompt": "原帖未公开提示词。作者说明：作者使用 Three.js 可视化 Atlantis，制作围绕最后幸存的 Poseidia 岛屿的可探索导览和预告视频；原帖没有公开具体指令。",
+    "category": "三维与空间",
+    "sourceUrl": "https://x.com/DannyLimanseta/status/2103169095034400772",
+    "sourceAuthor": "DannyLimanseta",
+    "sourcePublishedAt": "2026-09-24T17:06:01Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/c7892e25-f297-4152-90c2-a186abefe17c",
+      "https://github.com/user-attachments/assets/ec2a7f3e-2ed6-4e05-8872-0a007c427ef4"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Claude发展史研究视频",
+    "summary": "原帖未公开提示词。作者说明：作者让 Opus 5.5 研究 Claude 的发展历史，查阅互联网、论文、Twitter 档案和新闻后制作视频。",
+    "prompt": "原帖未公开提示词。作者说明：作者研究 Claude 的发展历史，查阅互联网、论文、Twitter 档案和新闻文章，再制作一支历史讲解视频；原帖没有公开具体制作指令。",
+    "category": "知识与教学",
+    "sourceUrl": "https://x.com/SkyeSharkie/status/2103167053737980177",
+    "sourceAuthor": "SkyeSharkie",
+    "sourcePublishedAt": "2026-09-24T16:57:55Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/44972751-48d2-40cd-9e27-dafb9e56a51e",
+      "https://github.com/user-attachments/assets/71d50b81-9549-4027-85bc-e0d1d5ea7e58",
+      "https://github.com/user-attachments/assets/353aec84-b9b6-4bba-8ff1-319d8ab9cb9d",
+      "https://github.com/user-attachments/assets/c41ae80e-5e36-44a1-9821-c83f6e691b24",
+      "https://github.com/user-attachments/assets/1b5e730a-0eee-4a66-a066-20246e52114a"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Clawd与Grok宇宙对比",
+    "summary": "原帖展示 Clawd 与 Grok Bot 的宇宙对比视频，并说明作品由 Opus 5.5 设计。",
+    "prompt": "原帖未公开提示词。作者说明：作者展示 Clawd 与 Grok Bot 的宇宙对比视频，并称由 Opus 5.5 设计；未公开具体制作指令。",
+    "category": "三维与空间",
+    "sourceUrl": "https://x.com/Jeremybtc/status/2103153744523489659",
+    "sourceAuthor": "Jeremybtc",
+    "sourcePublishedAt": "2026-09-24T16:05:02Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/b39998d3-7f69-4185-b2b8-b3f92c8f668a"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "多镜头节奏扩展影片",
+    "summary": "原帖说明 Opus 5.5 将原视频扩展成 30 多个镜头并用纯代码生成视频和配乐，后续用 Minimax API 配英文旁白。",
+    "prompt": "原帖未公开提示词。作者说明：作者让 Opus 5.5 扩展原视频为 30 多个镜头，用纯代码生成视频和配乐，再用 Minimax API 配英文旁白；未公开具体指令。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/sundyme/status/2103152622865977726",
+    "sourceAuthor": "sundyme",
+    "sourcePublishedAt": "2026-09-24T16:00:34Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/14084cc6-a425-480c-b219-97c5424e9e66",
+      "https://github.com/user-attachments/assets/3b7429d5-2f71-4f1c-be44-fab2458d0084"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "CodePilot产品宣传片",
+    "summary": "原帖未公开提示词。作者说明：作者让 Opus 5.5 为 CodePilot 产品制作宣传片，强调使用前端图像和图形能力一键完成。",
+    "prompt": "原帖未公开提示词。作者说明：作品为一支 CodePilot 产品宣传视频，使用前端图像和图形表达产品特点；原帖没有公开具体制作指令。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/op7418/status/2103148288400924827",
+    "sourceAuthor": "op7418",
+    "sourcePublishedAt": "2026-09-24T15:43:21Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/def8a07e-6cfc-445a-83d9-5c6dbe457e01"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "研究论文转3blue1brown教学视频",
+    "summary": "原帖未公开提示词。制作说明：作者称 Opus 5.5 可把研究论文生成3blue1brown风格视频，并展示一支总结 Regularized Recursive Self Improvement of Agent Harnesses 的8分钟视频。",
+    "prompt": "原帖未公开提示词。作者说明：作品把《Regularized Recursive Self Improvement of Agent Harnesses》论文整理为一支约8分钟、3blue1brown 风格的视频；原帖没有公开具体制作指令。",
+    "category": "知识与教学",
+    "sourceUrl": "https://x.com/deedydas/status/2103141339651350646",
+    "sourceAuthor": "deedydas",
+    "sourcePublishedAt": "2026-09-24T15:15:44Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/66216b83-e576-4a99-a752-4c5a63e3d13f",
+      "https://github.com/user-attachments/assets/0dcdbca0-eae8-4807-aaa2-5cf612e36160",
+      "https://github.com/user-attachments/assets/f217d263-a4a0-4fe8-a8d1-f9cc7eacd058",
+      "https://github.com/user-attachments/assets/55e39d4c-432e-4c9d-a960-b0bcbce04b26",
+      "https://github.com/user-attachments/assets/776b33e4-ff03-4739-9462-4cc42f1b9fa6",
+      "https://github.com/user-attachments/assets/27dd801d-92e4-4a4e-b66d-f1d00f1f8b98",
+      "https://github.com/user-attachments/assets/cbd54f04-7b2b-4d6e-a5c8-b4d0719d1b5e",
+      "https://github.com/user-attachments/assets/f8d608e9-96f6-4bd1-86ce-6fe375dfa5e1"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Manim导数概念教学视频",
+    "summary": "原帖公开中文提示词，说明使用 Opus 5.5 和 Manim 制作导数教学视频，并使用 edge-tts 配音。",
+    "prompt": "原帖提示词（中文整理）：请用 Manim 制作一个导数概念学习视频，要求通俗易懂，有例子并引人思考，配音使用 edge-tts。",
+    "category": "知识与教学",
+    "sourceUrl": "https://x.com/LinearUncle/status/2103128559174971663",
+    "sourceAuthor": "LinearUncle",
+    "sourcePublishedAt": "2026-09-24T14:24:57Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/765c5f54-b8cb-4d30-93b9-890782d2f025"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "节奏与音效优化视频",
+    "summary": "原帖说明作者让 Opus 5.5 增加视频节奏，并继续调整音效和背景音。",
+    "prompt": "原帖未公开提示词。作者说明：作者让 Opus 5.5 增加视频节奏，并对音效和背景音继续优化；未公开具体制作指令。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/agentchengfeng/status/2103099972975784169",
+    "sourceAuthor": "agentchengfeng",
+    "sourcePublishedAt": "2026-09-24T12:31:21Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/8b797aab-ef43-49a6-8217-31f08b8bd268"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "旋转轴工程史动画",
+    "summary": "原帖未公开提示词。作者说明：Opus 5.5 用 JavaScript 制作以旋转轴为主题、回顾工程历史的动画，并包含声音。",
+    "prompt": "原帖未公开提示词。作者说明：作者使用 JavaScript 制作一支以旋转轴为主题、回顾工程历史的动画，并加入声音；原帖没有公开具体制作指令。",
+    "category": "知识与教学",
+    "sourceUrl": "https://x.com/ootamato/status/2103099960069873856",
+    "sourceAuthor": "ootamato",
+    "sourcePublishedAt": "2026-09-24T12:31:18Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/a9cf44f5-b7ed-412a-9006-72784b2d13ed"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "十二种风格机器人动画",
+    "summary": "原帖未公开提示词。作者说明：作者让 Opus 5.5 制作一个意识到自己困在 AI 生成世界中的机器人故事，包含12个世界和从8-bit到黏土动画、铅笔素描等风格。",
+    "prompt": "原帖未公开提示词。作者说明：作品为一支关于机器人意识到自己困在 AI 生成世界中的动画故事，经过12个世界和多种视觉风格，包括8-bit、黏土动画和铅笔素描；原帖没有公开完整指令。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/pradeepXkapoor/status/2103099194693271874",
+    "sourceAuthor": "pradeepXkapoor",
+    "sourcePublishedAt": "2026-09-24T12:28:16Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/b74b33d0-d583-469b-9d7f-ccd7f9b0c2f7"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "工作流实验短片",
+    "summary": "原帖称作者受 Donald 的工作流启发，用 Opus 5.5 推到极限并展示结果，但未披露具体主题和提示词。",
+    "prompt": "原帖未公开提示词。作者说明：作者参考 Donald 介绍的工作流测试 Opus 5.5，并展示生成视频；未公开具体制作指令。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/pleometric/status/2103082510607610023",
+    "sourceAuthor": "pleometric",
+    "sourcePublishedAt": "2026-09-24T11:21:58Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/c3163501-00d6-4d70-b851-9a99bfbf97dc",
+      "https://github.com/user-attachments/assets/99c70bcb-939e-40aa-9b20-1301514c3d88",
+      "https://github.com/user-attachments/assets/fa449f3e-d33c-4294-8521-0f4d01bfdd8d"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "优化分镜的故事视频",
+    "summary": "原帖称作者让 Opus 5.5 优化 GPT‑6 Astra 生成的视频，重点是分镜设计和故事表达。",
+    "prompt": "原帖未公开提示词。作者说明：作者让 Opus 5.5 优化已有视频，使分镜设计更强、故事内容表达更好；未公开具体指令。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/agentchengfeng/status/2103074818518380924",
+    "sourceAuthor": "agentchengfeng",
+    "sourcePublishedAt": "2026-09-24T10:51:24Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/d8a53f74-00f0-4150-be07-9a228776c5b1"
+    ],
+    "githubVideoComplete": true
+  },
+  {
     "title": "60秒自主动画电影",
     "summary": "原帖未公开提示词。发帖人介绍一位开发者给 Claude Code 提供一条提示和10美元外部 API 预算的案例，称 Opus 5.5 约80分钟后完成60秒动画，包含剧本、画面、旁白和8种 API 的调用。",
     "prompt": "原帖未公开提示词。作者说明：发帖人介绍一位开发者给 Claude Code 提供一条提示和10美元外部 API 预算的案例，称 Opus 5.5 约80分钟后完成60秒动画，包含剧本、画面、旁白和8种 API 的调用。",
@@ -1892,6 +3428,71 @@
     "sourcePublishedAt": "2026-09-24T10:07:05Z",
     "githubVideos": [
       "https://github.com/user-attachments/assets/c9a8e1e4-61f2-40bd-b9cd-ca18f994d124"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "重训肌群发力科普视频",
+    "summary": "原帖说明作者用 Opus 5.5 了解重训时哪些肌群参与发力，并展示相关视频。",
+    "prompt": "原帖未公开提示词。作者说明：作者用 Opus 5.5 制作重训肌群发力说明视频，以了解哪些肌群参与动作；未公开具体制作指令。",
+    "category": "知识与教学",
+    "sourceUrl": "https://x.com/DAGINGINGIN/status/2103050917901922606",
+    "sourceAuthor": "DAGINGINGIN",
+    "sourcePublishedAt": "2026-09-24T09:16:26Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/4cbafd3e-6b9c-44c6-9f8f-8ebb9aad6b19"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "书签动画细节实验",
+    "summary": "原帖未公开提示词。作者说明：作者用 Opus 5.5 为书签动画加入了额外动态细节。",
+    "prompt": "原帖未公开提示词。作者说明：在书签动画中加入额外的动态细节；原帖没有公开具体制作指令。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/kippe07/status/2103036199774585026",
+    "sourceAuthor": "kippe07",
+    "sourcePublishedAt": "2026-09-24T08:17:57Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/1bc15042-679e-48d1-8808-dc61e1259b1e"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Opus5.5动态设计实验",
+    "summary": "原帖未公开提示词或制作步骤。作者只分享了一段由 Opus 5.5 制作的作品，并配文“眩晕，瘫坐，原子弹爆炸”。",
+    "prompt": "原帖未公开提示词。作者说明：作者分享了一段由 Opus 5.5 制作的动态设计作品，并配文“眩晕，瘫坐，原子弹爆炸”；原帖没有公开制作步骤。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/dashiAIxz/status/2103031723428917626",
+    "sourceAuthor": "dashiAIxz",
+    "sourcePublishedAt": "2026-09-24T08:00:09Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/091c47d2-ddc5-432f-abd6-e048f746ab15"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "图纸转Blender动画",
+    "summary": "原帖说明作者把图纸交给 Opus 5.5，再在 Blender 中转成视频，并提供了提示词外链。",
+    "prompt": "原帖提示词未随正文完整公开。作者说明：作者将图纸交给 Opus 5.5 并用 Blender 制作视频，具体提示词位于原帖外链。",
+    "category": "三维与空间",
+    "sourceUrl": "https://x.com/Ayu_AI_0912/status/2103021748551872907",
+    "sourceAuthor": "Ayu_AI_0912",
+    "sourcePublishedAt": "2026-09-24T07:20:31Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/6dc80167-2362-4933-b1a6-da57196866ac"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "节奏天国对比动画",
+    "summary": "原帖展示作者用 Opus 5.5 制作《节奏天国 vs AI》视频，并称通过简单想法生成。",
+    "prompt": "原帖未公开提示词。作者说明：作者展示 Opus 5.5 制作的《节奏天国 vs AI》视频，未公开具体制作指令。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/lemomo_ai/status/2103005399574294811",
+    "sourceAuthor": "lemomo_ai",
+    "sourcePublishedAt": "2026-09-24T06:15:33Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/e9108b55-8b8c-4d93-8666-aeafa5d4261b"
     ],
     "githubVideoComplete": true
   },
@@ -1927,405 +3528,41 @@
     "githubVideoComplete": true
   },
   {
-    "title": "人类到AI的自述故事",
-    "summary": "原帖未公开提示词。作者说明：作者让 Opus 5.5 讲述从人类诞生到制作出 AI 的故事，使用两个提示并运行约3小时。",
-    "prompt": "原帖未公开提示词。作者说明：作品为一支讲述人类从诞生到创造出 AI 的故事视频，作者称使用两个提示并运行约3小时；原帖没有公开具体指令。",
-    "category": "叙事与音乐",
-    "sourceUrl": "https://x.com/songkeys/status/2102743212922384673",
-    "sourceAuthor": "songkeys",
-    "sourcePublishedAt": "2026-09-23T12:53:43Z",
+    "title": "虚构电影开场字幕",
+    "summary": "原帖公开英文提示词，要求 Opus 5.5 为一部虚构的“关于你”的电影制作带虚构人名的开场字幕，并输出 mp4。",
+    "prompt": "原帖提示词（英文原文）：Imagine there exists a really good movie about you. Animate the opening credits to this film with made-up names in any style you like. Return the sequence as an mp4.",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/goodside/status/2102937913726235004",
+    "sourceAuthor": "goodside",
+    "sourcePublishedAt": "2026-09-24T01:47:23Z",
     "githubVideos": [
-      "https://github.com/user-attachments/assets/52c1465f-2f4f-4824-afa7-64b7fcd22e25",
-      "https://github.com/user-attachments/assets/cc9fc774-a73b-4dc8-9b9a-7af40bc5baab"
+      "https://github.com/user-attachments/assets/452fee55-34ac-421d-883d-d27239cb3726"
     ],
     "githubVideoComplete": true
   },
   {
-    "title": "78秒单文件动画电影",
-    "summary": "原帖未公开提示词。作者说明：Claude Opus 5.5 在约45分钟内制作78秒动画电影，只有一个 index.html，不使用图片、视频文件或库，由 JavaScript、Canvas 2D 和 Web Audio 生成画面与声音。",
-    "prompt": "原帖未公开提示词。作者说明：作品为一支约78秒动画电影，只使用一个 index.html、JavaScript、Canvas 2D 和 Web Audio 生成每一帧画面与声音，不使用图片、视频文件或外部库。",
-    "category": "叙事与音乐",
-    "sourceUrl": "https://x.com/jurlycat/status/2102645793828036643",
-    "sourceAuthor": "jurlycat",
-    "sourcePublishedAt": "2026-09-23T06:26:37Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/1049fcf1-46dc-4462-8286-8c5352edf763"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "新西兰旅行照丙烯画动画",
-    "summary": "原帖未公开提示词。作者说明：作者让 Claude Opus 5.5 把新西兰旅行照片转成丙烯画风格，并用 JavaScript 绘制。",
-    "prompt": "原帖未公开提示词。作者说明：作者将一组新西兰旅行照片转成丙烯画风格的动画，并用 JavaScript 绘制；原帖没有公开具体制作指令。",
-    "category": "叙事与音乐",
-    "sourceUrl": "https://x.com/ann_nnng/status/2102573127192727704",
-    "sourceAuthor": "ann_nnng",
-    "sourcePublishedAt": "2026-09-23T01:37:52Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/70e9866b-1d38-4aa6-acfd-7bb274026c3d"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "Small Print代码动画故事",
-    "summary": "原帖未公开提示词。作者说明：Opus 5.5 自己写故事、绘制每一帧并制作音乐，完全用 JavaScript、无图片素材，作品名为“Small Print”。",
-    "prompt": "原帖未公开提示词。作者说明：作品为一支名为“Small Print”的叙事动画，用 JavaScript 绘制每一帧并生成音乐，不使用图片素材；原帖没有公开具体制作指令。",
-    "category": "叙事与音乐",
-    "sourceUrl": "https://x.com/Voxyz_ai/status/2102531681450119426",
-    "sourceAuthor": "Voxyz_ai",
-    "sourcePublishedAt": "2026-09-22T22:53:10Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/099c22d0-8613-4c6a-954b-5053926451d1"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "JavaScript逐帧动画故事",
-    "summary": "原帖未公开提示词。作者说明：Opus 5.5 用 JavaScript 绘制动画的每一帧，故事围绕镇上居民向 Claude 提出请求以及一个女孩提出“你爱什么”展开。",
-    "prompt": "原帖未公开提示词。作者说明：作者使用 JavaScript 逐帧绘制一支叙事动画，故事中镇上每个人都向 Claude 提出请求，只有一个女孩提出“你爱什么”；原帖没有公开具体制作指令。",
-    "category": "叙事与音乐",
-    "sourceUrl": "https://x.com/kevin_t_ngo/status/2102437977435893771",
-    "sourceAuthor": "kevin_t_ngo",
-    "sourcePublishedAt": "2026-09-22T16:40:49Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/37058fed-da43-423d-90cf-cd6c65a10f51"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "用JavaScript画出自己的生命",
-    "summary": "原帖未公开提示词。制作说明：作者让 Claude Opus 5.5 把从出生第0天到现在的生命做成动画；没有视频模型或图片，每一帧都是 JavaScript 绘制的笔触。",
-    "prompt": "原帖未公开提示词。作者说明：动画表现 Claude 从第0天到现在的生命历程；没有使用视频模型或图片，每一帧都是 JavaScript 绘制的笔触。",
-    "category": "叙事与音乐",
-    "sourceUrl": "https://x.com/shfred0/status/2102495989194236158",
-    "sourceAuthor": "shfred0",
-    "sourcePublishedAt": "2026-09-22T20:31:20Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/6e91e72e-bcf7-437f-a4c5-4ad012bd1371"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "模型评测结果介绍视频",
-    "summary": "原帖说明 Opus 5.5 完成了介绍自身评测结果的视频制作和剪辑，声音来自其他声音复刻模型。",
-    "prompt": "原帖未公开提示词。作者说明：Opus 5.5 完成评测结果介绍视频的制作与剪辑，语音使用其他声音复刻模型，未公开具体制作指令。",
-    "category": "知识与教学",
-    "sourceUrl": "https://x.com/AlchainHust/status/2102641132236574936",
-    "sourceAuthor": "AlchainHust",
-    "sourcePublishedAt": "2026-09-23T06:08:05Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/1bcc71d6-c10d-40ac-be75-1e53306b7124",
-      "https://github.com/user-attachments/assets/6e349d92-157d-4444-b75d-b6d432763e58"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "自由电子激光科普视频",
-    "summary": "原帖称 Opus 5.5 生成了一支关于自由电子激光（FEL）的教育视频，使用一个提示并工作了一小时以上。",
-    "prompt": "原帖未公开提示词。作者说明：作者称 Opus 5.5 制作了自由电子激光（FEL）科普视频，使用一个提示并工作一小时以上，未公开具体指令。",
-    "category": "知识与教学",
-    "sourceUrl": "https://x.com/Frenchie_/status/2103731959918948730",
-    "sourceAuthor": "Frenchie_",
-    "sourcePublishedAt": "2026-09-26T06:22:39Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/8bf708d8-d16d-49b4-9881-0f53526fedc1"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "扩散模型原理图动画",
-    "summary": "原帖展示 Opus 5.5 制作的扩散模型图解动画，是该作者系列内容的续作。",
-    "prompt": "原帖未公开提示词。作者说明：作者展示了 Opus 5.5 制作的扩散模型原理图解动画，未公开具体制作指令。",
-    "category": "知识与教学",
-    "sourceUrl": "https://x.com/DotCSV/status/2102810407928819866",
+    "title": "OpenAI与Anthropic像素艺术",
+    "summary": "原帖以“模型没有创造力”等说法为引子，展示 Opus 5.5 制作的 OpenAI 与 Anthropic 像素艺术视频。",
+    "prompt": "原帖未公开提示词。作者说明：作者展示了一段以 OpenAI 与 Anthropic 为主题的像素艺术视频，未公开具体制作指令。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/DotCSV/status/2102896366909358276",
     "sourceAuthor": "DotCSV",
-    "sourcePublishedAt": "2026-09-23T17:20:44Z",
+    "sourcePublishedAt": "2026-09-23T23:02:18Z",
     "githubVideos": [
-      "https://github.com/user-attachments/assets/7f60ff03-f7b1-473f-8365-2008c7455f38"
+      "https://github.com/user-attachments/assets/61e97b01-e72b-4d8b-913f-00061e05d9f5"
     ],
     "githubVideoComplete": true
   },
   {
-    "title": "崂山道士三维讲解片",
-    "summary": "原帖说明 Opus 5.5 从零制作《崂山道士》三维讲解片，只使用作者声音克隆，不写分镜脚本和现成影片 Skill。",
-    "prompt": "原帖未公开提示词。作者说明：作者用 Claude Code 挂 Opus 5.5，从零制作《崂山道士》三维讲解片，只使用自己的声音克隆，未公开具体制作指令。",
-    "category": "知识与教学",
-    "sourceUrl": "https://x.com/wshuyi/status/2103308292613345504",
-    "sourceAuthor": "wshuyi",
-    "sourcePublishedAt": "2026-09-25T02:19:09Z",
+    "title": "280KB HTML Demoscene片头",
+    "summary": "原帖未公开提示词。制作说明：作者让 Claude Opus 5.5 自主制作 demoscene intro，最终所有像素和声音来自一个280KB HTML文件，不使用图片、音频、3D模型或库。",
+    "prompt": "原帖未公开提示词。作者说明：demoscene 片头的所有像素和声音来自一个280KB HTML文件，不使用图片、音频文件、3D模型或库；原帖没有公开具体制作指令。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/JustinPerea/status/2102893186330841502",
+    "sourceAuthor": "JustinPerea",
+    "sourcePublishedAt": "2026-09-23T22:49:40Z",
     "githubVideos": [
-      "https://github.com/user-attachments/assets/c2106e8e-14d4-4b6e-94ba-e61d81cf7b0c",
-      "https://github.com/user-attachments/assets/7802fb64-9d66-400a-8f58-0fb7c5907e6a",
-      "https://github.com/user-attachments/assets/405f13ee-ef3b-4d40-a31d-6a4377c756a0",
-      "https://github.com/user-attachments/assets/474ee573-8e4f-446d-9648-d50d07dd5344",
-      "https://github.com/user-attachments/assets/6e3e45c9-a0fd-402a-be37-7b56af0ad84f",
-      "https://github.com/user-attachments/assets/19d27719-0a80-4dc2-ab07-b409057d53d7"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "重训肌群发力科普视频",
-    "summary": "原帖说明作者用 Opus 5.5 了解重训时哪些肌群参与发力，并展示相关视频。",
-    "prompt": "原帖未公开提示词。作者说明：作者用 Opus 5.5 制作重训肌群发力说明视频，以了解哪些肌群参与动作；未公开具体制作指令。",
-    "category": "知识与教学",
-    "sourceUrl": "https://x.com/DAGINGINGIN/status/2103050917901922606",
-    "sourceAuthor": "DAGINGINGIN",
-    "sourcePublishedAt": "2026-09-24T09:16:26Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/4cbafd3e-6b9c-44c6-9f8f-8ebb9aad6b19"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "DNA到血红蛋白科普动画",
-    "summary": "原帖展示 Opus 5.5 制作的 DNA→RNA→蛋白质→折叠→血红蛋白科普视频，并附带交互应用。",
-    "prompt": "原帖未公开提示词。作者说明：作者展示 Opus 5.5 制作的 DNA 到 RNA、蛋白质折叠再到血红蛋白的科普视频，未公开具体制作指令。",
-    "category": "知识与教学",
-    "sourceUrl": "https://x.com/mrmagan_/status/2103470233080254891",
-    "sourceAuthor": "mrmagan_",
-    "sourcePublishedAt": "2026-09-25T13:02:38Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/aeb27a29-e0c4-4446-81c1-a9fe70b6bfc9",
-      "https://github.com/user-attachments/assets/16f03ce8-93ad-4ee2-b0d2-4e0e4e2637a3",
-      "https://github.com/user-attachments/assets/b127e5e2-e03a-4311-80f5-a2c71cc95921"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "海外剧集介绍视频",
-    "summary": "原帖称作者让 Opus 5.5 制作一支喜爱的海外电视剧介绍视频。",
-    "prompt": "原帖未公开提示词。作者说明：作者让 Opus 5.5 制作喜爱的海外电视剧介绍视频，未公开具体制作指令。",
-    "category": "知识与教学",
-    "sourceUrl": "https://x.com/_nogu66/status/2103751299808497959",
-    "sourceAuthor": "_nogu66",
-    "sourcePublishedAt": "2026-09-26T07:39:30Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/4f3bc6f2-ed42-4d5c-a76e-6c703e922605"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "幕府主题历史视频",
-    "summary": "原帖称用一个简单提示让 Opus 5.5 制作幕府主题视频。",
-    "prompt": "原帖未公开提示词。作者说明：作者用一个简单提示让 Opus 5.5 制作幕府主题视频，未公开提示词全文。",
-    "category": "知识与教学",
-    "sourceUrl": "https://x.com/uroborosu_ai/status/2103763635424407915",
-    "sourceAuthor": "uroborosu_ai",
-    "sourcePublishedAt": "2026-09-26T08:28:31Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/bfd67adf-817e-44e6-887a-b05fed24f32e"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "恐龙到绳文时代教育动态图形",
-    "summary": "原帖公开日文提示词，要求制作从地球恐龙时代到绳文时代的教育性动态图形视频，使用日语并重视视觉演出。",
-    "prompt": "原帖提示词（中文整理）：我想制作一个视频。请用动态图形，从教育讲解和视觉表现两个方面，展示地球从恐龙时代到绳文时代的形成与发展过程。语言使用日语。",
-    "category": "知识与教学",
-    "sourceUrl": "https://x.com/mellow_neet2000/status/2103487198758834408",
-    "sourceAuthor": "mellow_neet2000",
-    "sourcePublishedAt": "2026-09-25T14:10:03Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/3f279dcb-568e-40c6-9fcc-b0ee40d613f0"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "特殊相对论纸艺教学动画",
-    "summary": "原帖未公开提示词。作者说明：用 Claude Code 与 Opus 5.5 制作日语版特殊相对论动画，以纸张拼贴视觉解释双生子佯谬，BGM 和音效由 JavaScript 生成。",
-    "prompt": "原帖未公开提示词。作者说明：作品为一支约46秒的特殊相对论教学动画，用纸张剪贴风格解释双生子佯谬，使用 JavaScript 绘制全部画面并生成 BGM、音效，渲染1395帧后合成 MP4；原帖没有公开具体指令。",
-    "category": "知识与教学",
-    "sourceUrl": "https://x.com/masahirochaen/status/2102722719502704941",
-    "sourceAuthor": "masahirochaen",
-    "sourcePublishedAt": "2026-09-23T11:32:17Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/6ad370e4-f4c3-4892-8e81-68c45f14fc8e"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "自动化高架花床三维教程",
-    "summary": "原帖未公开提示词。作者说明：作者用 Opus 5.5 制作一支关于自动化后院高架花床的三维教程。",
-    "prompt": "原帖未公开提示词。作者说明：作品为一支三维教程，解释如何自动化后院的高架花床；原帖没有公开具体制作指令。",
-    "category": "知识与教学",
-    "sourceUrl": "https://x.com/Skylartkitchen/status/2103522230957420843",
-    "sourceAuthor": "Skylartkitchen",
-    "sourcePublishedAt": "2026-09-25T16:29:16Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/7c655fce-eab1-46ac-9c42-85c5d0075f26"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "AI是什么动画解释",
-    "summary": "原帖未公开提示词。作者说明：作者让 Opus 5.5 用任意工具制作一支解释 AI 是什么的动画视频，并称作品适合帮助初学者理解。",
-    "prompt": "原帖未公开提示词。作者说明：作品为一支面向初学者、解释“AI 是什么”的动画视频，可使用模型选择的工具；原帖没有公开具体指令。",
-    "category": "知识与教学",
-    "sourceUrl": "https://x.com/icreatelife/status/2103237092553773233",
-    "sourceAuthor": "icreatelife",
-    "sourcePublishedAt": "2026-09-24T21:36:13Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/fd5cf1b3-3b42-41aa-ace5-a865f17ad331"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "Claude发展史研究视频",
-    "summary": "原帖未公开提示词。作者说明：作者让 Opus 5.5 研究 Claude 的发展历史，查阅互联网、论文、Twitter 档案和新闻后制作视频。",
-    "prompt": "原帖未公开提示词。作者说明：作者研究 Claude 的发展历史，查阅互联网、论文、Twitter 档案和新闻文章，再制作一支历史讲解视频；原帖没有公开具体制作指令。",
-    "category": "知识与教学",
-    "sourceUrl": "https://x.com/SkyeSharkie/status/2103167053737980177",
-    "sourceAuthor": "SkyeSharkie",
-    "sourcePublishedAt": "2026-09-24T16:57:55Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/44972751-48d2-40cd-9e27-dafb9e56a51e",
-      "https://github.com/user-attachments/assets/71d50b81-9549-4027-85bc-e0d1d5ea7e58",
-      "https://github.com/user-attachments/assets/353aec84-b9b6-4bba-8ff1-319d8ab9cb9d",
-      "https://github.com/user-attachments/assets/c41ae80e-5e36-44a1-9821-c83f6e691b24",
-      "https://github.com/user-attachments/assets/1b5e730a-0eee-4a66-a066-20246e52114a"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "旋转轴工程史动画",
-    "summary": "原帖未公开提示词。作者说明：Opus 5.5 用 JavaScript 制作以旋转轴为主题、回顾工程历史的动画，并包含声音。",
-    "prompt": "原帖未公开提示词。作者说明：作者使用 JavaScript 制作一支以旋转轴为主题、回顾工程历史的动画，并加入声音；原帖没有公开具体制作指令。",
-    "category": "知识与教学",
-    "sourceUrl": "https://x.com/ootamato/status/2103099960069873856",
-    "sourceAuthor": "ootamato",
-    "sourcePublishedAt": "2026-09-24T12:31:18Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/a9cf44f5-b7ed-412a-9006-72784b2d13ed"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "HTML食谱动态图形",
-    "summary": "原帖公开提示词，要求 Opus 5.5 用 JavaScript 或 HTML 渲染食谱动态图形。",
-    "prompt": "原帖提示词（英文原文）：We're going to try a little test. Do you think you could render a recipe motion graphic animation using javascript or html (w/e you think will produce the best) to show the full recipe from start to finish (empty glass to completed cocktail) - Explainer video style - Showing the recipe ingreidents + measurements as they're going into the cup. Should be a 30s video.",
-    "category": "知识与教学",
-    "sourceUrl": "https://x.com/Ror_Fly/status/2102853258582880547",
-    "sourceAuthor": "Ror_Fly",
-    "sourcePublishedAt": "2026-09-23T20:11:00Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/9b985886-45fb-4454-a829-67778edf1c16"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "像素风神经网络训练动画",
-    "summary": "原帖未公开提示词。作者说明：作者让 Opus 5.5 制作一支像素艺术风格的神经网络训练动画。",
-    "prompt": "原帖未公开提示词。作者说明：作品为一支像素艺术风格的动画，表现神经网络训练过程；原帖没有公开具体制作指令。",
-    "category": "知识与教学",
-    "sourceUrl": "https://x.com/DotCSV/status/2102737776219168939",
-    "sourceAuthor": "DotCSV",
-    "sourcePublishedAt": "2026-09-23T12:32:07Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/621fc194-304c-444a-b24f-c9e7511fe6ac"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "上下五千年知识视频",
-    "summary": "原帖未公开提示词。作者说明：作者用 Opus 5.5 制作一支约2分38秒、快速回顾中华上下五千年的视频，未配旁白，并提到可接 TTS API。",
-    "prompt": "原帖未公开提示词。作者说明：作品为一支约2分38秒、快速回顾中华上下五千年历史的知识视频；原帖称当时未配旁白，并提到可通过 TTS API 补充配音。",
-    "category": "知识与教学",
-    "sourceUrl": "https://x.com/akokoi1/status/2102583898865873225",
-    "sourceAuthor": "akokoi1",
-    "sourcePublishedAt": "2026-09-23T02:20:40Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/9ebbcfd9-8a93-42e1-ac81-04f06aec2fbe",
-      "https://github.com/user-attachments/assets/981db6ec-ebbc-47cf-9850-c428ff026412",
-      "https://github.com/user-attachments/assets/249a5515-d663-4a04-869a-50f5f6359dd1"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "超智能主题Netflix风格纪录片",
-    "summary": "原帖未公开提示词。制作说明：作者让 Claude agent 使用 Runway MCP 制作面向普通人的高端 Netflix 风格超智能纪录片，原帖未公开更详细的脚本提示词。",
-    "prompt": "原帖未公开提示词。作者说明：作者让 Claude agent 使用 Runway MCP 制作面向普通人的高端 Netflix 风格超智能纪录片；原帖没有公开具体制作指令。",
-    "category": "知识与教学",
-    "sourceUrl": "https://x.com/gavinpurcell/status/2103304514329854102",
-    "sourceAuthor": "gavinpurcell",
-    "sourcePublishedAt": "2026-09-25T02:04:08Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/7ddb487f-f78f-410f-98fc-f1e2cbf13ceb",
-      "https://github.com/user-attachments/assets/a68c1a7d-f6fb-4483-b004-a021116b0c86",
-      "https://github.com/user-attachments/assets/5e628cb4-a79b-4f2c-818d-1c8b0da77609",
-      "https://github.com/user-attachments/assets/6637fac7-2514-4044-bce2-597732e3a69c",
-      "https://github.com/user-attachments/assets/b835e736-1394-4e77-abb8-c7153f39e631"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "研究论文转3blue1brown教学视频",
-    "summary": "原帖未公开提示词。制作说明：作者称 Opus 5.5 可把研究论文生成3blue1brown风格视频，并展示一支总结 Regularized Recursive Self Improvement of Agent Harnesses 的8分钟视频。",
-    "prompt": "原帖未公开提示词。作者说明：作品把《Regularized Recursive Self Improvement of Agent Harnesses》论文整理为一支约8分钟、3blue1brown 风格的视频；原帖没有公开具体制作指令。",
-    "category": "知识与教学",
-    "sourceUrl": "https://x.com/deedydas/status/2103141339651350646",
-    "sourceAuthor": "deedydas",
-    "sourcePublishedAt": "2026-09-24T15:15:44Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/66216b83-e576-4a99-a752-4c5a63e3d13f",
-      "https://github.com/user-attachments/assets/0dcdbca0-eae8-4807-aaa2-5cf612e36160",
-      "https://github.com/user-attachments/assets/f217d263-a4a0-4fe8-a8d1-f9cc7eacd058",
-      "https://github.com/user-attachments/assets/55e39d4c-432e-4c9d-a960-b0bcbce04b26",
-      "https://github.com/user-attachments/assets/776b33e4-ff03-4739-9462-4cc42f1b9fa6",
-      "https://github.com/user-attachments/assets/27dd801d-92e4-4a4e-b66d-f1d00f1f8b98",
-      "https://github.com/user-attachments/assets/cbd54f04-7b2b-4d6e-a5c8-b4d0719d1b5e",
-      "https://github.com/user-attachments/assets/f8d608e9-96f6-4bd1-86ce-6fe375dfa5e1"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "Leidenfrost效应白板动画",
-    "summary": "原帖未公开提示词。制作说明：作者让 Opus 5.5 一次性制作解释 Leidenfrost effect 的手绘白板动画，旁白和音乐也在同一轮加入。",
-    "prompt": "原帖未公开提示词。作者说明：作品是解释 Leidenfrost effect 的手绘白板动画，旁白和音乐在同一轮加入；原帖没有公开具体制作指令。",
-    "category": "知识与教学",
-    "sourceUrl": "https://x.com/realYunfanYe/status/2103496245343916158",
-    "sourceAuthor": "realYunfanYe",
-    "sourcePublishedAt": "2026-09-25T14:46:00Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/6d8e602d-48d6-476f-877e-a045be253ede"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "递归概念九种风格解释",
-    "summary": "原帖公开英文提示词，说明让 Claude Opus 5.5 用九种风格变化解释递归，并保持自指和快速节奏。",
-    "prompt": "原帖提示词（英文原文）：A video explaining recursion, where every explanation about recursion has a radically different video style, make this self-referential, clever and fast moving.",
-    "category": "知识与教学",
-    "sourceUrl": "https://x.com/emollick/status/2103688362960019567",
-    "sourceAuthor": "emollick",
-    "sourcePublishedAt": "2026-09-26T03:29:25Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/4e918b66-d854-4426-893b-b2eadc5397d1"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "Manim导数概念教学视频",
-    "summary": "原帖公开中文提示词，说明使用 Opus 5.5 和 Manim 制作导数教学视频，并使用 edge-tts 配音。",
-    "prompt": "原帖提示词（中文整理）：请用 Manim 制作一个导数概念学习视频，要求通俗易懂，有例子并引人思考，配音使用 edge-tts。",
-    "category": "知识与教学",
-    "sourceUrl": "https://x.com/LinearUncle/status/2103128559174971663",
-    "sourceAuthor": "LinearUncle",
-    "sourcePublishedAt": "2026-09-24T14:24:57Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/765c5f54-b8cb-4d30-93b9-890782d2f025"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "照片转卡通三维场景",
-    "summary": "原帖展示 Opus 5.5 根据照片生成的高细节卡通渲染三维场景。",
-    "prompt": "原帖提示词（英文原文）：create a highly detailed 3D scenery that faithfully captures this photo in a cel-shaded cartoon art style",
-    "category": "三维与空间",
-    "sourceUrl": "https://x.com/ishuagra02/status/2102543638689460488",
-    "sourceAuthor": "ishuagra02",
-    "sourcePublishedAt": "2026-09-22T23:40:41Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/cb61786f-535b-4488-bd92-6b2f59f742b4"
+      "https://github.com/user-attachments/assets/f678d831-8148-498a-bccd-0517f1facf1d"
     ],
     "githubVideoComplete": true
   },
@@ -2346,68 +3583,43 @@
     "githubVideoComplete": true
   },
   {
-    "title": "图纸转Blender动画",
-    "summary": "原帖说明作者把图纸交给 Opus 5.5，再在 Blender 中转成视频，并提供了提示词外链。",
-    "prompt": "原帖提示词未随正文完整公开。作者说明：作者将图纸交给 Opus 5.5 并用 Blender 制作视频，具体提示词位于原帖外链。",
-    "category": "三维与空间",
-    "sourceUrl": "https://x.com/Ayu_AI_0912/status/2103021748551872907",
-    "sourceAuthor": "Ayu_AI_0912",
-    "sourcePublishedAt": "2026-09-24T07:20:31Z",
+    "title": "HTML食谱动态图形",
+    "summary": "原帖公开提示词，要求 Opus 5.5 用 JavaScript 或 HTML 渲染食谱动态图形。",
+    "prompt": "原帖提示词（英文原文）：We're going to try a little test. Do you think you could render a recipe motion graphic animation using javascript or html (w/e you think will produce the best) to show the full recipe from start to finish (empty glass to completed cocktail) - Explainer video style - Showing the recipe ingreidents + measurements as they're going into the cup. Should be a 30s video.",
+    "category": "知识与教学",
+    "sourceUrl": "https://x.com/Ror_Fly/status/2102853258582880547",
+    "sourceAuthor": "Ror_Fly",
+    "sourcePublishedAt": "2026-09-23T20:11:00Z",
     "githubVideos": [
-      "https://github.com/user-attachments/assets/6dc80167-2362-4933-b1a6-da57196866ac"
+      "https://github.com/user-attachments/assets/9b985886-45fb-4454-a829-67778edf1c16"
     ],
     "githubVideoComplete": true
   },
   {
-    "title": "Clawd与Grok宇宙对比",
-    "summary": "原帖展示 Clawd 与 Grok Bot 的宇宙对比视频，并说明作品由 Opus 5.5 设计。",
-    "prompt": "原帖未公开提示词。作者说明：作者展示 Clawd 与 Grok Bot 的宇宙对比视频，并称由 Opus 5.5 设计；未公开具体制作指令。",
-    "category": "三维与空间",
-    "sourceUrl": "https://x.com/Jeremybtc/status/2103153744523489659",
-    "sourceAuthor": "Jeremybtc",
-    "sourcePublishedAt": "2026-09-24T16:05:02Z",
+    "title": "扩散模型原理图动画",
+    "summary": "原帖展示 Opus 5.5 制作的扩散模型图解动画，是该作者系列内容的续作。",
+    "prompt": "原帖未公开提示词。作者说明：作者展示了 Opus 5.5 制作的扩散模型原理图解动画，未公开具体制作指令。",
+    "category": "知识与教学",
+    "sourceUrl": "https://x.com/DotCSV/status/2102810407928819866",
+    "sourceAuthor": "DotCSV",
+    "sourcePublishedAt": "2026-09-23T17:20:44Z",
     "githubVideos": [
-      "https://github.com/user-attachments/assets/b39998d3-7f69-4185-b2b8-b3f92c8f668a"
+      "https://github.com/user-attachments/assets/7f60ff03-f7b1-473f-8365-2008c7455f38"
     ],
     "githubVideoComplete": true
   },
   {
-    "title": "NVIDIA Blackwell芯片三维动画",
-    "summary": "原帖未公开提示词。作者说明：用 Opus 5.5 制作 NVIDIA Blackwell GPU 三维动画，镜头从数据中心进入服务器、显卡、芯片、晶体管直到单个硅原子；作品在单一 HTML 浏览器中运行。",
-    "prompt": "原帖未公开提示词。作者说明：作品为一支围绕 NVIDIA Blackwell GPU 的三维动画，镜头从数据中心进入服务器、拆解显卡，穿过电路和晶体管，最后进入单个硅原子；作品在单一 HTML 浏览器中运行，原帖没有公开具体指令。",
-    "category": "三维与空间",
-    "sourceUrl": "https://x.com/lucian__03/status/2103494418477260830",
-    "sourceAuthor": "lucian__03",
-    "sourcePublishedAt": "2026-09-25T14:38:45Z",
+    "title": "一条提示词生成的场景动画",
+    "summary": "原帖称作者只用一条提示词和约五分钟口述，让 Opus 5.5 工作约 12 小时后生成视频；完整提示词在外链。",
+    "prompt": "原帖提示词未随正文完整公开。作者说明：作者称通过约五分钟口述和一条提示词让 Opus 5.5 生成视频，完整提示词在原帖外链中，正文未给出。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/donaldjewkes/status/2102801274173587569",
+    "sourceAuthor": "donaldjewkes",
+    "sourcePublishedAt": "2026-09-23T16:44:26Z",
     "githubVideos": [
-      "https://github.com/user-attachments/assets/20a330a0-dc3c-442c-86e6-b4a7d3f1cb59"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "1906旧金山市场街三维场景",
-    "summary": "原帖未公开提示词。作者说明：使用 Blender 和 Opus 5.5，从一条提示生成1906年地震前旧金山 Market Street 的历史准确三维场景。",
-    "prompt": "原帖未公开提示词。作者说明：作者使用 Blender 和 Opus 5.5，从一条提示生成1906年地震前旧金山 Market Street 的历史准确三维场景；原帖没有公开具体指令。",
-    "category": "三维与空间",
-    "sourceUrl": "https://x.com/alexalbert__/status/2102466523164274839",
-    "sourceAuthor": "alexalbert__",
-    "sourcePublishedAt": "2026-09-22T18:34:15Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/9979665b-ec46-4028-a68b-7f35a4d090d7"
-    ],
-    "githubVideoComplete": true
-  },
-  {
-    "title": "Atlantis Three.js导览",
-    "summary": "原帖未公开提示词。作者说明：作者让 Opus 5.5 用 Three.js 将 Atlantis 可视化为 Poseidia 岛屿导览，并制作完整预告体验。",
-    "prompt": "原帖未公开提示词。作者说明：作者使用 Three.js 可视化 Atlantis，制作围绕最后幸存的 Poseidia 岛屿的可探索导览和预告视频；原帖没有公开具体指令。",
-    "category": "三维与空间",
-    "sourceUrl": "https://x.com/DannyLimanseta/status/2103169095034400772",
-    "sourceAuthor": "DannyLimanseta",
-    "sourcePublishedAt": "2026-09-24T17:06:01Z",
-    "githubVideos": [
-      "https://github.com/user-attachments/assets/c7892e25-f297-4152-90c2-a186abefe17c",
-      "https://github.com/user-attachments/assets/ec2a7f3e-2ed6-4e05-8872-0a007c427ef4"
+      "https://github.com/user-attachments/assets/6524367c-9637-458d-9458-3a9891d56bbb",
+      "https://github.com/user-attachments/assets/5173d0be-8716-413a-b5a8-4148012e87c8",
+      "https://github.com/user-attachments/assets/854c1793-f0b7-4ba3-875e-699e847345a2"
     ],
     "githubVideoComplete": true
   },
@@ -2425,6 +3637,249 @@
     "githubVideoComplete": true
   },
   {
+    "title": "Dario对战奥特曼三维动画",
+    "summary": "原帖未公开提示词。作者说明：作者在记事本上随手画出 Opus5，再用 Opus 5.5 将其扩展成 Dario 对战奥特曼的三维动画，并把流程封装成 Skill。",
+    "prompt": "原帖未公开提示词。作者说明：作者将一张随手画出的 Opus5 草图扩展成 Dario 对战奥特曼的三维动画，并把生成流程封装成 Skill；原帖没有公开具体指令。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/MinLiBuilds/status/2102756822990180387",
+    "sourceAuthor": "MinLiBuilds",
+    "sourcePublishedAt": "2026-09-23T13:47:48Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/e7e7776f-84a9-4c3c-8980-bd216b553d27"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "人类到AI的自述故事",
+    "summary": "原帖未公开提示词。作者说明：作者让 Opus 5.5 讲述从人类诞生到制作出 AI 的故事，使用两个提示并运行约3小时。",
+    "prompt": "原帖未公开提示词。作者说明：作品为一支讲述人类从诞生到创造出 AI 的故事视频，作者称使用两个提示并运行约3小时；原帖没有公开具体指令。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/songkeys/status/2102743212922384673",
+    "sourceAuthor": "songkeys",
+    "sourcePublishedAt": "2026-09-23T12:53:43Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/52c1465f-2f4f-4824-afa7-64b7fcd22e25",
+      "https://github.com/user-attachments/assets/cc9fc774-a73b-4dc8-9b9a-7af40bc5baab"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "像素风神经网络训练动画",
+    "summary": "原帖未公开提示词。作者说明：作者让 Opus 5.5 制作一支像素艺术风格的神经网络训练动画。",
+    "prompt": "原帖未公开提示词。作者说明：作品为一支像素艺术风格的动画，表现神经网络训练过程；原帖没有公开具体制作指令。",
+    "category": "知识与教学",
+    "sourceUrl": "https://x.com/DotCSV/status/2102737776219168939",
+    "sourceAuthor": "DotCSV",
+    "sourcePublishedAt": "2026-09-23T12:32:07Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/621fc194-304c-444a-b24f-c9e7511fe6ac"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "特殊相对论纸艺教学动画",
+    "summary": "原帖未公开提示词。作者说明：用 Claude Code 与 Opus 5.5 制作日语版特殊相对论动画，以纸张拼贴视觉解释双生子佯谬，BGM 和音效由 JavaScript 生成。",
+    "prompt": "原帖未公开提示词。作者说明：作品为一支约46秒的特殊相对论教学动画，用纸张剪贴风格解释双生子佯谬，使用 JavaScript 绘制全部画面并生成 BGM、音效，渲染1395帧后合成 MP4；原帖没有公开具体指令。",
+    "category": "知识与教学",
+    "sourceUrl": "https://x.com/masahirochaen/status/2102722719502704941",
+    "sourceAuthor": "masahirochaen",
+    "sourcePublishedAt": "2026-09-23T11:32:17Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/6ad370e4-f4c3-4892-8e81-68c45f14fc8e"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "破茧成蝶动画",
+    "summary": "原帖展示作者用 Opus 5.5 制作的破茧成蝶动画。",
+    "prompt": "原帖未公开提示词。作者说明：作者用 Opus 5.5 实现破茧成蝶动画，未公开具体制作指令。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/AISuperDomain/status/2102691006894530990",
+    "sourceAuthor": "AISuperDomain",
+    "sourcePublishedAt": "2026-09-23T09:26:16Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/478ae94c-aa45-43ce-888e-c6419b0546ea"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "代码卡通剪辑视频",
+    "summary": "原帖展示 Opus 5.5 自己编写卡通剪辑软件并完成剪辑：时间轴包含日出、热咖啡、三只猫和跳舞，转场、波形、导出按钮和手机预览框均由代码绘制。",
+    "prompt": "原帖未公开提示词。作者说明：作者称 Opus 5.5 编写卡通剪辑软件并在其中完成剪辑，展示日出、热咖啡、三只猫和跳舞等片段；未公开具体制作指令。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/NFT_Chen/status/2102681172367323300",
+    "sourceAuthor": "NFT_Chen",
+    "sourcePublishedAt": "2026-09-23T08:47:12Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/ade20f6b-0bf8-4d11-b7d5-9a346f6751da"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "19分钟动态视频实验",
+    "summary": "原帖未公开提示词。作者说明：作者称 Opus 5.5 在19分钟内生成视频，只做了两次修改。",
+    "prompt": "原帖未公开提示词。作者说明：作者使用 Opus 5.5 制作一支动态视频，原帖称生成用时19分钟并做了两次修改；没有公开具体主题提示词。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/chhddavid/status/2102666619029999989",
+    "sourceAuthor": "chhddavid",
+    "sourcePublishedAt": "2026-09-23T07:49:22Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/fb20a42f-e801-4ecc-ba66-1ccd612db53d"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "78秒单文件动画电影",
+    "summary": "原帖未公开提示词。作者说明：Claude Opus 5.5 在约45分钟内制作78秒动画电影，只有一个 index.html，不使用图片、视频文件或库，由 JavaScript、Canvas 2D 和 Web Audio 生成画面与声音。",
+    "prompt": "原帖未公开提示词。作者说明：作品为一支约78秒动画电影，只使用一个 index.html、JavaScript、Canvas 2D 和 Web Audio 生成每一帧画面与声音，不使用图片、视频文件或外部库。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/jurlycat/status/2102645793828036643",
+    "sourceAuthor": "jurlycat",
+    "sourcePublishedAt": "2026-09-23T06:26:37Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/1049fcf1-46dc-4462-8286-8c5352edf763"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "模型评测结果介绍视频",
+    "summary": "原帖说明 Opus 5.5 完成了介绍自身评测结果的视频制作和剪辑，声音来自其他声音复刻模型。",
+    "prompt": "原帖未公开提示词。作者说明：Opus 5.5 完成评测结果介绍视频的制作与剪辑，语音使用其他声音复刻模型，未公开具体制作指令。",
+    "category": "知识与教学",
+    "sourceUrl": "https://x.com/AlchainHust/status/2102641132236574936",
+    "sourceAuthor": "AlchainHust",
+    "sourcePublishedAt": "2026-09-23T06:08:05Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/1bcc71d6-c10d-40ac-be75-1e53306b7124",
+      "https://github.com/user-attachments/assets/6e349d92-157d-4444-b75d-b6d432763e58"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "像素骑士待机动画",
+    "summary": "原帖对比 Opus 5.5 手工制作的像素骑士与经 Skills 修正的版本，提到待机动画和飘动围巾。",
+    "prompt": "原帖未公开提示词。作者说明：作者展示两版像素骑士动画，对比 Opus 5.5 原始制作与 Skills 加手工修正版本，原帖未公开具体指令。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/yugen_matuni/status/2102623847166116294",
+    "sourceAuthor": "yugen_matuni",
+    "sourcePublishedAt": "2026-09-23T04:59:24Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/01a556d1-95d6-4c0c-9806-5043bf2e44c3"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "代码沙画动画",
+    "summary": "原帖未公开提示词。作者说明：Opus 5.5 仅用一个提示制作沙画动画，并自行完成配音和音效，没有使用 Blender 或 Three.js。",
+    "prompt": "原帖未公开提示词。作者说明：作者使用 Opus 5.5 制作一支沙画风格动画，并由模型完成配音和音效；原帖称没有使用 Blender 或 Three.js，也没有公开具体指令。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/Michaelzsguo/status/2102592355165782312",
+    "sourceAuthor": "Michaelzsguo",
+    "sourcePublishedAt": "2026-09-23T02:54:16Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/c48c6523-05c1-4d48-b5e0-221dc2ea769c",
+      "https://github.com/user-attachments/assets/72c976e4-568b-432a-930e-0ee57af44f10"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "上下五千年知识视频",
+    "summary": "原帖未公开提示词。作者说明：作者用 Opus 5.5 制作一支约2分38秒、快速回顾中华上下五千年的视频，未配旁白，并提到可接 TTS API。",
+    "prompt": "原帖未公开提示词。作者说明：作品为一支约2分38秒、快速回顾中华上下五千年历史的知识视频；原帖称当时未配旁白，并提到可通过 TTS API 补充配音。",
+    "category": "知识与教学",
+    "sourceUrl": "https://x.com/akokoi1/status/2102583898865873225",
+    "sourceAuthor": "akokoi1",
+    "sourcePublishedAt": "2026-09-23T02:20:40Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/9ebbcfd9-8a93-42e1-ac81-04f06aec2fbe",
+      "https://github.com/user-attachments/assets/981db6ec-ebbc-47cf-9850-c428ff026412",
+      "https://github.com/user-attachments/assets/249a5515-d663-4a04-869a-50f5f6359dd1"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "新西兰旅行照丙烯画动画",
+    "summary": "原帖未公开提示词。作者说明：作者让 Claude Opus 5.5 把新西兰旅行照片转成丙烯画风格，并用 JavaScript 绘制。",
+    "prompt": "原帖未公开提示词。作者说明：作者将一组新西兰旅行照片转成丙烯画风格的动画，并用 JavaScript 绘制；原帖没有公开具体制作指令。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/ann_nnng/status/2102573127192727704",
+    "sourceAuthor": "ann_nnng",
+    "sourcePublishedAt": "2026-09-23T01:37:52Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/70e9866b-1d38-4aa6-acfd-7bb274026c3d"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "歌词文字PV生成器",
+    "summary": "原帖介绍用 Opus 5.5 开发的“JIZURA 字面”文字 PV 风格视频生成器：输入歌词，按音乐打点，还能细节编辑；演示无声音。",
+    "prompt": "原帖未公开提示词。作者说明：作者用 Opus 5.5 开发文字 PV 风格视频生成器，输入歌词并按歌曲打点，可做细节编辑；原帖未公开制作指令。",
+    "category": "品牌与产品",
+    "sourceUrl": "https://x.com/8co28/status/2102572322016370781",
+    "sourceAuthor": "8co28",
+    "sourcePublishedAt": "2026-09-23T01:34:40Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/8e7233b3-8e02-4fb7-b62e-228cbe7f96dc",
+      "https://github.com/user-attachments/assets/519dd984-cfdd-4aa0-b544-49d0379a2162"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "代码驱动节拍动画",
+    "summary": "原帖公开提示词。作者说明：作品完全由代码生成，Opus 5.5 自行选择音乐、下载音效、制作每一帧并与节拍同步；原帖称提示词放在帖子中。",
+    "prompt": "原帖提示词（英文原文）：<inputs>\nAsk me for: the product name and a one-line promise, 3 to 5 UI moments to show, one accent color, 10 to 20 real vertical clips I own, and a royalty-free song with a clear drop (e.g. Mixkit, free for commercial use).\n</inputs>\n\n<direction>\nHigh-end minimal. One idea per shot, lots of empty space, one accent color, one clean sans (Geist or Inter) with tight tracking. Masked type reveals, match cuts, one smooth camera language. Real footage only, never placeholder cards. No full stops in on-screen text.\nBanned: shockwave rings, particle bursts, RGB split, camera shake, lens flares, neon glows, grid floors, flashing backgrounds, bouncy easing.\n</direction>\n\n<structure>\n10 bars at 120 BPM, 2 seconds each.\nBar 1: the hook lands word by word on the beats.\nBar 2: one hook word morphs into the product UI. A cursor types and clicks.\nThe drop: a circle opens out of the button into a dark scene.\nThen one move per bar: a wall of real clips with a scan line and 3 winners, the key output as big type, a 3D carousel of real videos with floor reflections and a motion-blurred whip onto one hero clip, the hero in a phone next to a panel that flips into results, big stats on push cuts, a 3-word ticker, a logo reveal, a fade to black.\n</structure>\n\n<build>\n1. One HTML file at 1920x1080. Every style is computed from time inside https://t.co/aSbWNhjgSI(t): no CSS animations, no timers, no state between frames.\n2. Real video: extract clips to 30fps JPEG sequences with ffmpeg and swap img sources per frame. seek awaits the image decodes.\n3. Analyze the song with numpy: tempo, beat grid, energy per bar, the drop. Calibrate the grid to the real kick hits. Every cut sits on a downbeat, every UI hit on a beat.\n4. Render with Playwright: 3 subframes per frame at t minus, at, and plus 1/240s, then blend with ffmpeg tmix for real motion blur at 60fps.\n5. Place each sound effect so its measured peak, not its file start, lands on the event. Keep the effects quiet under the music. Loudnorm to -14 LUFS.\n6. Probe 20 or more frames before the full render. Fix anything cluttered, overlapping or hard to read.\n</build>\n\n<gotchas>\nNever set opacity or filter on a preserve-3d element, because it flattens and both faces show. Fade its wrapper instead. Measure element positions at runtime for match cuts. Only use music and sound effects whose license allows commercial use.\n</gotchas>\n\n<start>\nAsk me for the inputs, then show me a storyboard with every timing on the beat grid before you write any code.\n</start>",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/twoclipping/status/2102554209166000267",
+    "sourceAuthor": "twoclipping",
+    "sourcePublishedAt": "2026-09-23T00:22:41Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/a5af5eb7-d3a4-4e27-a8b1-aacd13a23935"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "照片转卡通三维场景",
+    "summary": "原帖展示 Opus 5.5 根据照片生成的高细节卡通渲染三维场景。",
+    "prompt": "原帖提示词（英文原文）：create a highly detailed 3D scenery that faithfully captures this photo in a cel-shaded cartoon art style",
+    "category": "三维与空间",
+    "sourceUrl": "https://x.com/ishuagra02/status/2102543638689460488",
+    "sourceAuthor": "ishuagra02",
+    "sourcePublishedAt": "2026-09-22T23:40:41Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/cb61786f-535b-4488-bd92-6b2f59f742b4"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Small Print代码动画故事",
+    "summary": "原帖未公开提示词。作者说明：Opus 5.5 自己写故事、绘制每一帧并制作音乐，完全用 JavaScript、无图片素材，作品名为“Small Print”。",
+    "prompt": "原帖未公开提示词。作者说明：作品为一支名为“Small Print”的叙事动画，用 JavaScript 绘制每一帧并生成音乐，不使用图片素材；原帖没有公开具体制作指令。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/Voxyz_ai/status/2102531681450119426",
+    "sourceAuthor": "Voxyz_ai",
+    "sourcePublishedAt": "2026-09-22T22:53:10Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/099c22d0-8613-4c6a-954b-5053926451d1"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "多智能体生成短片",
+    "summary": "原帖展示 Opus 5.5 使用四个 agent、从零制作的完整视频，并说明没有使用 AI 配音 API。",
+    "prompt": "原帖未公开提示词。作者说明：作者称 Opus 5.5 使用四个 agent、从零制作这支视频，未使用 AI 配音 API；未公开具体制作指令。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/AndrewOnXYZ/status/2102512879258009818",
+    "sourceAuthor": "AndrewOnXYZ",
+    "sourcePublishedAt": "2026-09-22T21:38:27Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/ab91ce17-02a9-4030-91de-9bfa4617dfd8",
+      "https://github.com/user-attachments/assets/11e9001c-273d-49bd-a399-c8ea743d19a4",
+      "https://github.com/user-attachments/assets/046fe694-2c8f-4d62-a060-340bd83ed958",
+      "https://github.com/user-attachments/assets/4cfe293e-e7aa-4800-826c-432ded322c0c"
+    ],
+    "githubVideoComplete": true
+  },
+  {
     "title": "从草图到住宅的三维演化",
     "summary": "原帖未公开提示词。作者说明：作者用 Claude Opus 5.5、Three.js 和 TSL 从草图制作住宅三维体验，过程分为线稿、体块、细节和完成住宅四个阶段。",
     "prompt": "原帖未公开提示词。作者说明：作者使用 Three.js 与 TSL 将住宅从草图逐步演化为三维成品，依次展示线稿、体块、细节和完成住宅四个阶段；原帖没有公开具体指令。",
@@ -2434,6 +3889,98 @@
     "sourcePublishedAt": "2026-09-22T21:02:04Z",
     "githubVideos": [
       "https://github.com/user-attachments/assets/f49f9ef4-ebc3-4613-b616-db22501d444d"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "Opus5.5独立创作实验",
+    "summary": "发帖人分享了 Opus 5.5 独立制作的视频，并提到在后续内容中提供提示和代理过程；本条原帖未包含具体指令。",
+    "prompt": "本条原帖未包含提示词。发帖人说明：作品由 Opus 5.5 独立制作，提示和代理过程另在后续内容中提供。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/LCSlates/status/2102503027340988559",
+    "sourceAuthor": "LCSlates",
+    "sourcePublishedAt": "2026-09-22T20:59:18Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/34a748df-9362-4d79-95e5-918b0bd7e073",
+      "https://github.com/user-attachments/assets/b39021e7-0289-40c8-a050-dae5ec4bbfc5"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "纸船与折叠海洋故事",
+    "summary": "原帖比较 Astra 与 Opus 5.5 用同一提示制作的纸船叙事网页视频；Opus 版本颜色更强，故事包含海洋折叠、鲸鱼和书本揭示。",
+    "prompt": "原帖未公开完整提示词。作者说明：作者要求海洋贯穿并物理折叠成一个完整故事，镜头最后拉远露出书本；原帖未给出可复制全文。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/ivanainai/status/2102502183891587378",
+    "sourceAuthor": "ivanainai",
+    "sourcePublishedAt": "2026-09-22T20:55:57Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/2fd91356-65d0-4157-8e9d-f97d5f4d784c"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "JavaScript填色涂鸦动画",
+    "summary": "原帖展示 Claude Opus 5.5 用 JavaScript 一气呵成制作的填色涂鸦动画。",
+    "prompt": "原帖未公开提示词。作者说明：作者展示了 Opus 5.5 徒手用 JavaScript 制作填色涂鸦动画，未公开具体指令。",
+    "category": "动效与片头",
+    "sourceUrl": "https://x.com/Tz_2022/status/2102501726431687055",
+    "sourceAuthor": "Tz_2022",
+    "sourcePublishedAt": "2026-09-22T20:54:08Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/17d3e5eb-1244-4c64-bbd8-be36d80e294c"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "用JavaScript画出自己的生命",
+    "summary": "原帖未公开提示词。制作说明：作者让 Claude Opus 5.5 把从出生第0天到现在的生命做成动画；没有视频模型或图片，每一帧都是 JavaScript 绘制的笔触。",
+    "prompt": "原帖未公开提示词。作者说明：动画表现 Claude 从第0天到现在的生命历程；没有使用视频模型或图片，每一帧都是 JavaScript 绘制的笔触。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/shfred0/status/2102495989194236158",
+    "sourceAuthor": "shfred0",
+    "sourcePublishedAt": "2026-09-22T20:31:20Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/6e91e72e-bcf7-437f-a4c5-4ad012bd1371"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "纯 JavaScript 音画实验",
+    "summary": "Opus 5.5 生成一段以纯 JavaScript 代码完成音乐、图像和视频的实验作品，原帖未给出具体主题。",
+    "prompt": "原帖未公开提示词。作者说明：作者称作品用纯 JavaScript 完成音乐、艺术和视频生成，未公开具体制作指令。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/chetaslua/status/2102482039522107417",
+    "sourceAuthor": "chetaslua",
+    "sourcePublishedAt": "2026-09-22T19:35:55Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/53222c0a-048c-4f8a-9226-59aa70c57a3f"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "1906旧金山市场街三维场景",
+    "summary": "原帖未公开提示词。作者说明：使用 Blender 和 Opus 5.5，从一条提示生成1906年地震前旧金山 Market Street 的历史准确三维场景。",
+    "prompt": "原帖未公开提示词。作者说明：作者使用 Blender 和 Opus 5.5，从一条提示生成1906年地震前旧金山 Market Street 的历史准确三维场景；原帖没有公开具体指令。",
+    "category": "三维与空间",
+    "sourceUrl": "https://x.com/alexalbert__/status/2102466523164274839",
+    "sourceAuthor": "alexalbert__",
+    "sourcePublishedAt": "2026-09-22T18:34:15Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/9979665b-ec46-4028-a68b-7f35a4d090d7"
+    ],
+    "githubVideoComplete": true
+  },
+  {
+    "title": "JavaScript逐帧动画故事",
+    "summary": "原帖未公开提示词。作者说明：Opus 5.5 用 JavaScript 绘制动画的每一帧，故事围绕镇上居民向 Claude 提出请求以及一个女孩提出“你爱什么”展开。",
+    "prompt": "原帖未公开提示词。作者说明：作者使用 JavaScript 逐帧绘制一支叙事动画，故事中镇上每个人都向 Claude 提出请求，只有一个女孩提出“你爱什么”；原帖没有公开具体制作指令。",
+    "category": "叙事与音乐",
+    "sourceUrl": "https://x.com/kevin_t_ngo/status/2102437977435893771",
+    "sourceAuthor": "kevin_t_ngo",
+    "sourcePublishedAt": "2026-09-22T16:40:49Z",
+    "githubVideos": [
+      "https://github.com/user-attachments/assets/37058fed-da43-423d-90cf-cd6c65a10f51"
     ],
     "githubVideoComplete": true
   }
